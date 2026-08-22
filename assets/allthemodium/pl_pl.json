@@ -1,0 +1,386 @@
+{
+  "itemGroup.allthemodium": "AllTheModium",
+  "itemGroup.allthemodium_mek": "AllTheModium – Kompatybilność Mekanism",
+
+  "allthemodium.description": "Bryłka Allthemodium! Pierwszy krok! (z wielu!)",
+
+  "upgrade.allthemodium.allthemodium_upgrade": "Ulepszenie Allthemodium",
+  "upgrade.allthemodium.vibranium_upgrade": "Ulepszenie Vibranium",
+  "upgrade.allthemodium.unobtainium_upgrade": "Ulepszenie Unobtainium",
+
+  "item.allthemodium.smithing_template.allthemodium_upgrade.applies_to": "Ekwipunek Netherytowy",
+  "item.allthemodium.smithing_template.allthemodium_upgrade.ingredients": "Sztabka Allthemodium",
+
+  "item.allthemodium.smithing_template.vibranium_upgrade.applies_to": "Ekwipunek Allthemodium",
+  "item.allthemodium.smithing_template.vibranium_upgrade.ingredients": "Sztabka Vibranium",
+
+  "item.allthemodium.smithing_template.unobtainium_upgrade.applies_to": "Ekwipunek Vibranium",
+  "item.allthemodium.smithing_template.unobtainium_upgrade.ingredients": "Sztabka Unobtainium",
+
+  "item.allthemodium.smithing_template.allthemodium_upgrade.base_slot_description": "Dodaj zbroję, broń lub narzędzie z Netherytu",
+  "item.allthemodium.smithing_template.allthemodium_upgrade.additions_slot_description": "Dodaj Sztabkę Allthemodium",
+
+  "item.allthemodium.smithing_template.vibranium_upgrade.base_slot_description": "Dodaj zbroję, broń lub narzędzie z Allthemodium",
+  "item.allthemodium.smithing_template.vibranium_upgrade.additions_slot_description": "Dodaj Sztabkę Vibranium",
+
+  "item.allthemodium.smithing_template.unobtainium_upgrade.base_slot_description": "Dodaj zbroję, broń lub narzędzie z Vibranium",
+  "item.allthemodium.smithing_template.unobtainium_upgrade.additions_slot_description": "Dodaj Sztabkę Unobtainium",
+
+  "item.allthemodium.alloy_trident": "Trójząb ze Stopu Allthemodium",
+  "item.allthemodium.allthemodium_bow": "Łuk Allthemodium",
+  "item.allthemodium.unobtainium_crossbow": "Kusza Unobtainium",
+  "item.allthemodium.vibranium_shield": "Tarcza Vibranium",
+  "item.allthemodium.unobtainium_mace": "Buława Unobtainium",
+  "item.allthemodium.allthemodium_mace": "Buława Allthemodium",
+  "item.allthemodium.vibranium_mace": "Buława Vibranium",
+
+  "item.allthemodium.allthemodium_upgrade_smithing_template": "Szablon Kucia Allthemodium",
+  "item.allthemodium.vibranium_upgrade_smithing_template": "Szablon Kucia Vibranium",
+  "item.allthemodium.unobtainium_upgrade_smithing_template": "Szablon Kucia Unobtainium",
+
+  "piglin.friend": "Pigliny stają się neutralne",
+  "quick.snack": "Szybkie do zjedzenia",
+  "indestructible": "Niezniszczalne",
+  "low.cal": "Można jeść zawsze",
+  "steel.skin": "Absorpcja",
+  "cats.eyes": "Widzenie w ciemności",
+  "troll.blood": "Regeneracja",
+  "fire.proof": "Odporność na obrażenia od ognia/lawy",
+  "wither.proof": "Odporność na obrażenia Withera",
+  "magic.resistance": "Odporność na magię",
+  "breath.proof": "Brak obrażeń od ataków oddechowych",
+  "steady.legs": "Odporność na lewitację od Shulkera",
+  "steady.guts": "Odporność na nudności",
+  "light.step": "Brak obrażeń od upadku",
+  "hard.head": "Brak obrażeń przy zderzeniu podczas lotu Elytrą",
+  "aqua.lungs": "Oddychanie pod wodą",
+
+  "teleport.pad": "Wymiar Górniczy i inne miejsca",
+  "how.to.teleport": "Postaw w Overworldzie, kucnij i kliknij PPM pustymi rękami",
+
+  "allthemodium.loc": "Występuje w biomach Deep Dark, w ścianach i sufitach jaskiń",
+  "vibranium.loc": "Nether: Y 64+, ściany jaskiń",
+  "vibranium.other.loc": "Inne: wszystkie biomy, Y 0–40",
+  "unobtainium.loc": "Tylko biomy End Highlands",
+
+  "allthemodium.mine": "MOŻLIWE DO WYKOPOWANIA TYLKO PRZEZ GRACZA. NIE DZIAŁA Z KOPARKAMI",
+
+  "entity.allthemodium.piglich": "Piglich",
+
+  "biome.allthemodium.mining": "ATM Mining Dim",
+  "biome.allthemodium.the_beyond": "The Beyond",
+
+  "material.allthemodium.allthemodium": "Allthemodium",
+  "material.silentgear.allthemodium": "Allthemodium",
+  "tetra.material.allthemodium": "Allthemodium",
+
+  "material.allthemodium.vibranium": "Vibranium",
+  "material.silentgear.vibranium": "Vibranium",
+  "tetra.material.vibranium": "Vibranium",
+
+  "stat.tconstruct.harvest_tier.allthemodium.allthemodium": "Allthemodium",
+  "stat.tconstruct.harvest_tier.allthemodium.vibranium": "Vibranium",
+  "stat.tconstruct.harvest_tier.allthemodium.unobtainium": "Unobtainium",
+
+  "material.allthemodium.vibranium_allthemodium": "Stop Vibranium–Allthemodium",
+  "material.silentgear.vibranium_allthemodium": "Stop Vibranium–Allthemodium",
+
+  "material.allthemodium.unobtainium_allthemodium": "Stop Unobtainium–Allthemodium",
+  "material.silentgear.unobtainium_allthemodium": "Stop Unobtainium–Allthemodium",
+
+  "material.allthemodium.unobtainium_vibranium": "Stop Unobtainium–Vibranium",
+  "material.silentgear.unobtainium_vibranium": "Stop Unobtainium–Vibranium",
+
+  "material.allthemodium.unobtainium": "Unobtainium",
+  "material.silentgear.unobtainium": "Unobtainium",
+  "tetra.material.unobtainium": "Unobtainium",
+
+  "block.allthemodium.suspicious_clay": "Podejrzana Glina",
+  "block.allthemodium.suspicious_soul_sand": "Podejrzany Piasek Dusz",
+
+  "block.allthemodium.ancient_bookshelf": "Starożytna Biblioteczka",
+  "block.allthemodium.ancient_leaves": "Starożytne Liście",
+  "block.allthemodium.ancient_leaves_bottom": "Starożytne Liście",
+  "block.allthemodium.ancient_log_0": "Starożytne Drewno",
+  "block.allthemodium.ancient_log_1": "Starożytne Drewno",
+  "block.allthemodium.ancient_log_2": "Starożytne Drewno",
+  "block.allthemodium.ancient_planks": "Starożytne Deski",
+  "block.allthemodium.stripped_ancient_log": "Ociosane Starożytne Drewno",
+  "block.allthemodium.ancient_herb": "Starożytne Zioła",
+  "block.allthemodium.ancient_sapling": "Starożytna Sadzonka",
+  "block.allthemodium.ancient_door": "Starożytne Drzwi",
+  "block.allthemodium.ancient_trap_door": "Starożytna Klapa",
+
+  "block.allthemodium.demonic_bookshelf": "Demoniczna Biblioteczka",
+  "block.allthemodium.demonic_leaves": "Demoniczne Liście",
+  "block.allthemodium.demonic_leaves_bottom": "Demoniczne Liście",
+  "block.allthemodium.demonic_log": "Demoniczne Drewno",
+  "block.allthemodium.demonic_planks": "Demoniczne Deski",
+  "block.allthemodium.stripped_demonic_log": "Ociosane Demoniczne Drewno",
+  "block.allthemodium.demonic_herb": "Demoniczne Zioła",
+  "block.allthemodium.demonic_sapling": "Demoniczna Sadzonka",
+  "block.allthemodium.demonic_door": "Demoniczne Drzwi",
+  "block.allthemodium.demonic_trap_door": "Demoniczna Klapa",
+
+  "block.allthemodium.soul_bookshelf": "Biblioteczka Dusz",
+  "block.allthemodium.soul_leaves": "Liście Dusz",
+  "block.allthemodium.soul_leaves_bottom": "Liście Dusz",
+  "block.allthemodium.soul_log": "Drewno Dusz",
+  "block.allthemodium.soul_log_0": "Drewno Dusz",
+  "block.allthemodium.soul_log_1": "Drewno Dusz",
+  "block.allthemodium.soul_log_2": "Drewno Dusz",
+  "block.allthemodium.soul_planks": "Deski Dusz",
+  "block.allthemodium.stripped_soul_log": "Ociosane Drewno Dusz",
+  "block.allthemodium.soul_herb": "Zioła Dusz",
+  "block.allthemodium.soul_sapling": "Sadzonka Dusz",
+  "block.allthemodium.soul_door": "Drzwi Dusz",
+  "block.allthemodium.soul_trap_door": "Klapa Dusz",
+
+  "block.allthemodium.ancient_dirt": "Starożytna Ziemia",
+  "block.allthemodium.ancient_grass": "Starożytna Trawa",
+  "block.allthemodium.ancient_podzol": "Starożytny Podzol",
+  "block.allthemodium.ancient_stone": "Starożytny Kamień",
+  "block.allthemodium.ancient_smooth_stone": "Starożytny Gładki Kamień",
+  "block.allthemodium.ancient_polished_stone": "Starożytny Polerowany Kamień",
+  "block.allthemodium.ancient_chiseled_stone_bricks": "Starożytne Rzeźbione Cegły Kamienne",
+  "block.allthemodium.ancient_stone_bricks": "Starożytne Cegły Kamienne",
+  "block.allthemodium.ancient_cracked_stone_bricks": "Starożytne Popękane Cegły Kamienne",
+  "block.allthemodium.ancient_mossy_stone": "Starożytny Zamszony Kamień",
+
+  "block.allthemodium.ancient_stone_wall": "Starożytna Kamienna Ściana",
+  "block.allthemodium.ancient_smooth_stone_wall": "Starożytna Gładka Kamienna Ściana",
+  "block.allthemodium.ancient_polished_stone_wall": "Starożytna Polerowana Kamienna Ściana",
+  "block.allthemodium.ancient_chiseled_stone_brick_wall": "Starożytna Rzeźbiona Kamienna Ściana",
+  "block.allthemodium.ancient_stone_brick_wall": "Starożytna Kamienna Ceglana Ściana",
+  "block.allthemodium.ancient_cracked_stone_brick_wall": "Starożytna Popękana Kamienna Ściana",
+  "block.allthemodium.ancient_mossy_stone_wall": "Starożytna Zamszona Kamienna Ściana",
+
+  "block.allthemodium.ancient_wooden_fence": "Starożytne Drewniane Ogrodzenie",
+  "block.allthemodium.ancient_wooden_fence_gate": "Starożytna Drewniana Bramka",
+  "block.allthemodium.demonic_wooden_fence": "Demoniczne Drewniane Ogrodzenie",
+  "block.allthemodium.demonic_wooden_fence_gate": "Demoniczna Drewniana Bramka",
+  "block.allthemodium.soul_wooden_fence": "Ogrodzenie Dusz",
+  "block.allthemodium.soul_wooden_fence_gate": "Bramka Dusz",
+
+  "block.allthemodium.ancient_wooden_stairs": "Starożytne Drewniane Schody",
+  "block.allthemodium.demonic_wooden_stairs": "Demoniczne Drewniane Schody",
+  "block.allthemodium.soul_wooden_stairs": "Schody Dusz",
+
+  "block.allthemodium.ancient_stone_stairs": "Starożytne Kamienne Schody",
+  "block.allthemodium.ancient_smooth_stone_stairs": "Starożytne Gładkie Kamienne Schody",
+  "block.allthemodium.ancient_polished_stone_stairs": "Starożytne Polerowane Kamienne Schody",
+  "block.allthemodium.ancient_chiseled_stone_brick_stairs": "Starożytne Rzeźbione Kamienne Schody",
+  "block.allthemodium.ancient_stone_brick_stairs": "Starożytne Kamienne Ceglane Schody",
+  "block.allthemodium.ancient_cracked_stone_brick_stairs": "Starożytne Popękane Kamienne Schody",
+  "block.allthemodium.ancient_mossy_stone_stairs": "Starożytne Zamszone Kamienne Schody",
+
+  "block.allthemodium.ancient_wooden_slabs": "Starożytna Drewniana Płyta",
+  "block.allthemodium.demonic_wooden_slabs": "Demoniczna Drewniana Płyta",
+  "block.allthemodium.soul_wooden_slabs": "Płyta Dusz",
+
+  "block.allthemodium.ancient_stone_slabs": "Starożytna Kamienna Płyta",
+  "block.allthemodium.ancient_smooth_stone_slabs": "Starożytna Gładka Kamienna Płyta",
+  "block.allthemodium.ancient_polished_stone_slabs": "Starożytna Polerowana Kamienna Płyta",
+  "block.allthemodium.ancient_chiseled_stone_brick_slabs": "Starożytna Rzeźbiona Kamienna Płyta",
+  "block.allthemodium.ancient_stone_brick_slabs": "Starożytna Kamienna Ceglana Płyta",
+  "block.allthemodium.ancient_cracked_stone_brick_slabs": "Starożytna Popękana Kamienna Płyta",
+  "block.allthemodium.ancient_mossy_stone_slabs": "Starożytna Zamszona Kamienna Płyta",
+
+  "block.allthemodium.raw_allthemodium_block": "Blok Surowego Allthemodium",
+  "block.allthemodium.raw_vibranium_block": "Blok Surowego Vibranium",
+  "block.allthemodium.raw_unobtainium_block": "Blok Surowego Unobtainium",
+
+  "block.allthemodium.ancient_cavevines": "Starożytne Pnącza",
+  "block.allthemodium.ancient_cavevines_plant": "Starożytne Pnącza",
+  "block.allthemodium.ancient_fern": "Starożytna Paproć",
+
+  "item.allthemodium.ancient_soulberries": "Starożytne Jagody Dusz",
+
+  "item.allthemodium.allthemodium_pickaxe": "Kilof Allthemodium",
+  "item.allthemodium.vibranium_pickaxe": "Kilof Vibranium",
+  "item.allthemodium.unobtainium_pickaxe": "Kilof Unobtainium",
+
+  "item.allthemodium.allthemodium_axe": "Siekiera Allthemodium",
+  "item.allthemodium.vibranium_axe": "Siekiera Vibranium",
+  "item.allthemodium.unobtainium_axe": "Siekiera Unobtainium",
+
+  "item.allthemodium.allthemodium_shovel": "Łopata Allthemodium",
+  "item.allthemodium.vibranium_shovel": "Łopata Vibranium",
+  "item.allthemodium.unobtainium_shovel": "Łopata Unobtainium",
+
+  "item.allthemodium.allthemodium_hoe": "Motyka Allthemodium",
+  "item.allthemodium.vibranium_hoe": "Motyka Vibranium",
+  "item.allthemodium.unobtainium_hoe": "Motyka Unobtainium",
+
+  "item.allthemodium.allthemodium_sword": "Miecz Allthemodium",
+  "item.allthemodium.vibranium_sword": "Miecz Vibranium",
+  "item.allthemodium.unobtainium_sword": "Miecz Unobtainium",
+
+  "item.allthemodium.allthemodium_plate": "Płyta Allthemodium",
+  "item.allthemodium.vibranium_plate": "Płyta Vibranium",
+  "item.allthemodium.unobtainium_plate": "Płyta Unobtainium",
+
+  "item.allthemodium.allthemodium_rod": "Pręt Allthemodium",
+  "item.allthemodium.vibranium_rod": "Pręt Vibranium",
+  "item.allthemodium.unobtainium_rod": "Pręt Unobtainium",
+
+  "item.allthemodium.allthemodium_gear": "Koło Zębate Allthemodium",
+  "item.allthemodium.vibranium_gear": "Koło Zębate Vibranium",
+  "item.allthemodium.unobtainium_gear": "Koło Zębate Unobtainium",
+
+  "item.allthemodium.raw_allthemodium": "Surowa Ruda Allthemodium",
+  "item.allthemodium.raw_vibranium": "Surowa Ruda Vibranium",
+  "item.allthemodium.raw_unobtainium": "Surowa Ruda Unobtainium",
+
+  "item.allthemodium.allthemodium_apple": "Jabłko Allthemodium",
+  "item.allthemodium.allthemodium_dust": "Pył Allthemodium",
+  "item.allthemodium.allthemodium_nugget": "Bryłka Allthemodium",
+  "item.allthemodium.allthemodium_ingot": "Sztabka Allthemodium",
+  "item.allthemodium.allthemodium_carrot": "Marchewka Allthemodium",
+
+  "block.allthemodium.allthemodium_ore": "Ruda Allthemodium",
+  "block.allthemodium.allthemodium_slate_ore": "Głębinowa Ruda Allthemodium",
+  "block.allthemodium.allthemodium_block": "Blok Allthemodium",
+
+  "item.allthemodium.allthemodium_helmet": "Hełm Allthemodium",
+  "item.allthemodium.allthemodium_chestplate": "Napierśnik Allthemodium",
+  "item.allthemodium.allthemodium_leggings": "Nogawice Allthemodium",
+  "item.allthemodium.allthemodium_boots": "Buty Allthemodium",
+
+  "item.allthemodium.crushed_allthemodium": "Kruszone Allthemodium",
+  "item.allthemodium.crushed_vibranium": "Kruszone Vibranium",
+  "item.allthemodium.crushed_unobtainium": "Kruszone Unobtainium",
+
+  "item.allthemodium.vibranium_helmet": "Hełm Vibranium",
+  "item.allthemodium.vibranium_chestplate": "Napierśnik Vibranium",
+  "item.allthemodium.vibranium_leggings": "Nogawice Vibranium",
+  "item.allthemodium.vibranium_boots": "Buty Vibranium",
+
+  "item.allthemodium.unobtainium_helmet": "Hełm Unobtainium",
+  "item.allthemodium.unobtainium_chestplate": "Napierśnik Unobtainium",
+  "item.allthemodium.unobtainium_leggings": "Nogawice Unobtainium",
+  "item.allthemodium.unobtainium_boots": "Buty Unobtainium",
+
+  "item.allthemodium.alloy_axe": "Siekiera ze Stopu Allthemodium",
+  "item.allthemodium.alloy_pick": "Kilof ze Stopu Allthemodium",
+  "item.allthemodium.alloy_sword": "Ostrze ze Stopu Allthemodium",
+  "item.allthemodium.alloy_shovel": "Łopata ze Stopu Allthemodium",
+  "item.allthemodium.alloy_paxel": "Paxel ze Stopu Allthemodium",
+
+  "item.allthemodium.vibranium_nugget": "Bryłka Vibranium",
+  "block.allthemodium.vibranium_ore": "Ruda Vibranium",
+  "block.allthemodium.other_vibranium_ore": "Inna Ruda Vibranium",
+  "block.allthemodium.vibranium_block": "Blok Vibranium",
+  "item.allthemodium.vibranium_ingot": "Sztabka Vibranium",
+  "item.allthemodium.vibranium_dust": "Pył Vibranium",
+
+  "item.allthemodium.unobtainium_nugget": "Bryłka Unobtainium",
+  "block.allthemodium.unobtainium_ore": "Ruda Unobtainium",
+  "block.allthemodium.unobtainium_block": "Blok Unobtainium",
+  "item.allthemodium.unobtainium_ingot": "Sztabka Unobtainium",
+  "item.allthemodium.unobtainium_dust": "Pył Unobtainium",
+
+  "block.allthemodium.teleport_pad": "Platforma Teleportacyjna",
+
+  "block.allthemodium.molten_allthemodium": "Płynne Allthemodium",
+  "block.allthemodium.molten_vibranium": "Płynne Vibranium",
+  "block.allthemodium.molten_unobtainium": "Płynne Unobtainium",
+  "block.allthemodium.soul_lava": "Lawa Dusz",
+
+  "item.allthemodium.soul_lava_bucket": "Wiadro Lawy Dusz",
+
+  "fluid.allthemodium.molten_allthemodium": "Płynne Allthemodium",
+  "fluid.allthemodium.soul_lava": "Lawa Dusz",
+  "fluid.allthemodium.molten_vibranium": "Płynne Vibranium",
+  "fluid.allthemodium.molten_unobtainium": "Płynne Unobtainium",
+
+  "fluid.allthemodium.molten_atmvib": "Stop Vibranium–Allthemodium",
+  "fluid.allthemodium.molten_vibunob": "Stop Unobtainium–Vibranium",
+  "fluid.allthemodium.molten_atmunob": "Stop Unobtainium–Allthemodium",
+
+  "chemical.allthemodium.clean_vibranium": "Czysta Zawiesina Vibranium",
+  "chemical.allthemodium.clean_unobtainium": "Czysta Zawiesina Unobtainium",
+  "chemical.allthemodium.dirty_vibranium": "Brudna Zawiesina Vibranium",
+  "chemical.allthemodium.dirty_unobtainium": "Brudna Zawiesina Unobtainium",
+  "chemical.allthemodium.dirty_allthemodium": "Brudna Zawiesina Allthemodium",
+  "chemical.allthemodium.clean_allthemodium": "Czysta Zawiesina Allthemodium",
+
+  "biome.allthemodium.badlands": "The Other: Badlands",
+  "biome.allthemodium.badlands_plateau": "The Other: Badlands Plateau",
+  "biome.allthemodium.basalt_deltas": "Starożytne Bazaltowe Delty",
+  "biome.allthemodium.crimson_forest": "Starożytny Szkarłatny Las",
+  "biome.allthemodium.desert": "The Other: Pustynia",
+  "biome.allthemodium.desert_hills": "The Other: Wzgórza Pustynne",
+  "biome.allthemodium.eroded_badlands": "The Other: Eroded Badlands",
+  "biome.allthemodium.gravelly_mountains": "The Other: Żwirowe Góry",
+  "biome.allthemodium.modified_badlands_plateau": "The Other: Zmienione Badlands Plateau",
+  "biome.allthemodium.modified_gravelly_mountains": "The Other: Zmienione Żwirowe Góry",
+  "biome.allthemodium.mountain_edge": "The Other: Skraj Gór",
+  "biome.allthemodium.mountains": "The Other: Góry",
+  "biome.allthemodium.nether_wastes": "The Other: Pustkowia",
+  "biome.allthemodium.soul_sand_valley": "The Other: Dolina Piasku Dusz",
+  "biome.allthemodium.the_other": "The Other",
+  "biome.allthemodium.warped_forest": "Starożytny Spaczony Las",
+
+  "block.allthemodium.piglich_heart_block": "Blok Serc Piglich",
+  "block.allthemodium.unobtainium_allthemodium_alloy_block": "Blok Stopu Unobtainium–Allthemodium",
+  "block.allthemodium.vibranium_allthemodium_alloy_block": "Blok Stopu Vibranium–Allthemodium",
+  "block.allthemodium.unobtainium_vibranium_alloy_block": "Blok Stopu Unobtainium–Vibranium",
+
+  "item.allthemodium.unobtainium_allthemodium_alloy_dust": "Pył Stopu Unobtainium–Allthemodium",
+  "item.allthemodium.vibranium_allthemodium_alloy_dust": "Pył Stopu Vibranium–Allthemodium",
+  "item.allthemodium.unobtainium_vibranium_alloy_dust": "Pył Stopu Unobtainium–Vibranium",
+
+  "item.allthemodium.unobtainium_allthemodium_alloy_ingot": "Sztabka Stopu Unobtainium–Allthemodium",
+  "item.allthemodium.vibranium_allthemodium_alloy_ingot": "Sztabka Stopu Vibranium–Allthemodium",
+  "item.allthemodium.unobtainium_vibranium_alloy_ingot": "Sztabka Stopu Unobtainium–Vibranium",
+
+  "item.allthemodium.unobtainium_clump": "Bryła Unobtainium",
+  "item.allthemodium.unobtainium_shard": "Odłamek Unobtainium",
+  "item.allthemodium.unobtainium_crystal": "Kryształ Unobtainium",
+  "item.allthemodium.dirty_unobtainium_dust": "Brudny Pył Unobtainium",
+
+  "item.allthemodium.allthemodium_clump": "Bryła Allthemodium",
+  "item.allthemodium.allthemodium_shard": "Odłamek Allthemodium",
+  "item.allthemodium.allthemodium_crystal": "Kryształ Allthemodium",
+  "item.allthemodium.dirty_allthemodium_dust": "Brudny Pył Allthemodium",
+
+  "item.allthemodium.vibranium_clump": "Bryła Vibranium",
+  "item.allthemodium.vibranium_shard": "Odłamek Vibranium",
+  "item.allthemodium.vibranium_crystal": "Kryształ Vibranium",
+  "item.allthemodium.dirty_vibranium_dust": "Brudny Pył Vibranium",
+
+  "item.allthemodium.piglich_heart": "Serce Piglich",
+
+  "item.allthemodium.molten_allthemodium_bucket": "Wiadro Płynnego Allthemodium",
+  "item.allthemodium.molten_vibranium_bucket": "Wiadro Płynnego Vibranium",
+  "item.allthemodium.molten_unobtainium_bucket": "Wiadro Płynnego Unobtainium",
+
+  "item.allthemodium.vapor_allthemodium_bucket": "Wiadro Par Allthemodium",
+  "item.allthemodium.vapor_vibranium_bucket": "Wiadro Par Vibranium",
+  "item.allthemodium.vapor_unobtainium_bucket": "Wiadro Par Unobtainium",
+
+  "fluid.allthemodium.vapor_allthemodium": "Para Allthemodium",
+  "fluid.allthemodium.vapor_vibranium": "Para Vibranium",
+  "fluid.allthemodium.vapor_unobtainium": "Para Unobtainium",
+
+  "block.iceandfire.allthemodium_pile": "Stos Bryłek Allthemodium",
+  "block.iceandfire.unobtainium_pile": "Stos Bryłek Unobtainium",
+  "block.iceandfire.vibranium_pile": "Stos Bryłek Vibranium",
+
+  "block.allthemodium.allthemodium_source_jar": "Słoik Źródłowy Unobtainium",
+
+  "config.jade.plugin_allthemodium.teleport_pad": "Platforma Teleportacyjna",
+  "jade.allthemodium.teleport_pad.tip": "Kucnij i kliknij PPM pustymi rękami",
+  "jade.allthemodium.teleport_pad.no_drop": "Nie wypada po wykopaniu!",
+  "jade.allthemodium.teleport_pad.transports_to": "Teleportuje do",
+
+  "dimension.allthemodium.unknown": "Nieznany Wymiar",
+  "dimension.allthemodium.mining": "Wymiar Górniczy",
+  "dimension.allthemodium.the_other": "The Other",
+  "dimension.allthemodium.the_beyond": "The Beyond",
+
+  "tooltip.allthemodium.teleport_pad": "Kucnij + kliknij PPM pustymi rękami, aby się teleportować",
+
+  "entity.allthemodium.alloy_trident": "Trójząb ze Stopu Allthemodium"
+}

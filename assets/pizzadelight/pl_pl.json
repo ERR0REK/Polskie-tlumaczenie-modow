@@ -1,0 +1,21 @@
+{
+  "block.pizzadelight.cheese_block": "Blok sera",
+  "block.pizzadelight.cheese_bricks": "Serowe cegły",
+  "block.pizzadelight.pizza": "Pizza",
+  "block.pizzadelight.polished_cheese": "Polerowany ser",
+  "creativetab.pizzadelight_tab": "Pizza Delight",
+  "item.pizzadelight.cheese": "Ser",
+  "item.pizzadelight.cheese_bread": "Kanapka serowa",
+  "item.pizzadelight.cheese_slice": "Plaster sera",
+  "item.pizzadelight.cooked_sausage": "Gotowana kiełbasa",
+  "item.pizzadelight.flat_dough": "Płaskie ciasto",
+  "item.pizzadelight.hotdog": "Hotdog",
+  "item.pizzadelight.incomplete_pizza": "Niekompletna pizza",
+  "item.pizzadelight.pizza_slice": "Kawałek pizzy",
+  "item.pizzadelight.raw_sausage": "Surowa kiełbasa",
+  "item.pizzadelight.rolling_pin": "Wałek",
+  "pizzadelight.advancement.cheese": "Żółte koło!",
+  "pizzadelight.advancement.cheese.desc": "Stwórz ser za pomocą garnka!",
+  "pizzadelight.advancement.scammer": "Oszust!",
+  "pizzadelight.advancement.scammer.desc": "Spróbuj oszukać piglina, aby handlował serem"
+}

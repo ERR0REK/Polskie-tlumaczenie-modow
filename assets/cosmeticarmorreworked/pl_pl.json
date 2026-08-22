@@ -1,0 +1,7 @@
+{
+  "cos.key.opencosarmorinventory": "Otwórz ekwipunek zbroi kosmetycznej",
+  "cos.gui.buttoncos": "Kosmetyczna",
+  "cos.gui.buttonnormal": "Zwykła",
+  "cos.command.clearcosarmor.success.single": "Usunięto następującą liczbę przedmiotów z ekwipunku zbroi kosmetycznej: %s, graczowi %s",
+  "cos.command.clearcosarmor.success.multiple": "Usunięto następującą liczbę przedmiotów z ekwipunku zbroi kosmetycznej: %s, następującej liczbie graczy: %s"
+}

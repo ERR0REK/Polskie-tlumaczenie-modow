@@ -1,0 +1,43 @@
+{
+  "creativetab.createornithopterglider_tab": "Create: Ornithopter Glider",
+
+  "item.createornithopterglider.ornithopterglider": "Ornitopter",
+  "item.createornithopterglider.ornithopterglider_light_gray": "Jasnoszary ornitopter",
+  "item.createornithopterglider.ornithopterglider_gray": "Szary ornitopter",
+  "item.createornithopterglider.ornithopterglider_black": "Czarny ornitopter",
+  "item.createornithopterglider.ornithopterglider_brown": "Brązowy ornitopter",
+  "item.createornithopterglider.ornithopterglider_red": "Czerwony ornitopter",
+  "item.createornithopterglider.ornithopterglider_orange": "Pomarańczowy ornitopter",
+  "item.createornithopterglider.ornithopterglider_yellow": "Żółty ornitopter",
+  "item.createornithopterglider.ornithopterglider_lime": "Limonkowy ornitopter",
+  "item.createornithopterglider.ornithopterglider_green": "Zielony ornitopter",
+  "item.createornithopterglider.ornithopterglider_cyan": "Cyjanowy ornitopter",
+  "item.createornithopterglider.ornithopterglider_light_blue": "Jasnoniebieski ornitopter",
+  "item.createornithopterglider.ornithopterglider_blue": "Niebieski ornitopter",
+  "item.createornithopterglider.ornithopterglider_purple": "Fioletowy ornitopter",
+  "item.createornithopterglider.ornithopterglider_magenta": "Purpurowy ornitopter",
+  "item.createornithopterglider.ornithopterglider_pink": "Różowy ornitopter",
+
+  "item.createornithopterglider.wing_mesh": "Siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_light_gray": "Jasnoszara siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_gray": "Szara siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_black": "Czarna siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_brown": "Brązowa siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_red": "Czerwona siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_orange": "Pomarańczowa siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_yellow": "Żółta siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_lime": "Limonkowa siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_green": "Zielona siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_cyan": "Cyjanowa siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_light_blue": "Jasnoniebieska siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_blue": "Niebieska siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_purple": "Fioletowa siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_magenta": "Purpurowa siatka skrzydła",
+  "item.createornithopterglider.wing_mesh_pink": "Różowa siatka skrzydła",
+
+  "item.createornithopterglider.elytra_piece": "Fragment elytry",
+  "item.createornithopterglider.rope": "Lina",
+
+  "key.category.createornithopterglider.ornithopter": "Create: Ornithopter Glider",
+  "key.createornithopterglider.boost_glider": "Przyspieszenie szybowca"
+}

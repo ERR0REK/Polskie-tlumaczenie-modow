@@ -1,0 +1,16 @@
+{
+  "block.enchantinginfuser.advanced_enchanting_infuser": "Zaawansowany infuzor zaklinający",
+  "block.enchantinginfuser.description.choose": "Wybierz zaklęcia dla swojego ekwipunku.",
+  "block.enchantinginfuser.description.chooseAndModify": "Wybieraj, modyfikuj i usuwaj zaklęcia ze swojego ekwipunku.",
+  "block.enchantinginfuser.description.repair": "Naprawiaj swój ekwipunek za pomocą poziomów.",
+  "block.enchantinginfuser.enchanting_infuser": "Infuzor zaklinający",
+  "gui.enchantinginfuser.tooltip.change": "%s -> %s",
+  "gui.enchantinginfuser.tooltip.current_enchanting_power": "Aktualna moc zaklinania: %s / %s",
+  "gui.enchantinginfuser.tooltip.durability": "Trwałość: %s",
+  "gui.enchantinginfuser.tooltip.enchanting_power.hint": "Umieść więcej półek na książki w kwadracie wokół infuzora na maksymalnie dwóch warstwach.",
+  "gui.enchantinginfuser.tooltip.incompatible": "To zaklęcie jest niekompatybilne z: %s",
+  "gui.enchantinginfuser.tooltip.lowPower1": "Dalsze zwiększanie poziomu tego zaklęcia wymaga infuzora o większej mocy zaklinania.",
+  "gui.enchantinginfuser.tooltip.lowPower2": "Modyfikowanie poziomu tego zaklęcia wymaga infuzora o większej mocy zaklinania.",
+  "gui.enchantinginfuser.tooltip.points": "Zdobywaj punkty doświadczenia",
+  "gui.enchantinginfuser.tooltip.unknown_enchantment": "To zaklęcie jest zbyt potężne dla infuzora o tak małej mocy zaklinania."
+}

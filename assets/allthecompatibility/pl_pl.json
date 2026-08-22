@@ -1,0 +1,19 @@
+{
+  "allthecompatibility.configuration.content": "Zawartość",
+  "allthecompatibility.configuration.content.button": "Ustawienia Zawartości",
+  "allthecompatibility.configuration.content.tooltip": "Skonfiguruj ustawienia zawartości",
+  "allthecompatibility.configuration.general": "Ogólne",
+  "allthecompatibility.configuration.general.button": "Ustawienia Ogólne",
+  "allthecompatibility.configuration.general.tooltip": "Skonfiguruj ustawienia ogólne",
+  "allthecompatibility.configuration.mekanism_compatibility_items": "Przedmioty Zgodności z Mekanismem",
+  "allthecompatibility.configuration.mekanism_compatibility_items.tooltip": "AllTheOres generuje bryłki, grudki i brudne proszki tylko wtedy, gdy zainstalowany jest Mekanism, co unieważnia wiele przepisów ATC. Dlatego ATC pozwala na ich generowanie nawet bez zainstalowanego Mekanismu.",
+  "allthecompatibility.configuration.patreon_rewards": "Nagrody dla Wspierających",
+  "allthecompatibility.configuration.patreon_rewards.tooltip": "Włącza nagrody w grze przy pierwszym spawnie dla Patreonów i wspierających.",
+  "allthecompatibility.configuration.section.allthecompatibility.client.toml": "Ustawienia Klienta",
+  "allthecompatibility.configuration.section.allthecompatibility.client.toml.title": "Opcje Klienta",
+  "allthecompatibility.configuration.section.allthecompatibility.server.toml": "Ustawienia Serwera",
+  "allthecompatibility.configuration.section.allthecompatibility.server.toml.title": "Opcje Serwera",
+  "allthecompatibility.configuration.title": "Konfiguracja AllTheCompatibility",
+  "allthecompatibility.configuration.update-checker": "Sprawdzanie Aktualizacji",
+  "allthecompatibility.configuration.update-checker.tooltip": "Włącz, aby gra sprawdzała przy każdym starcie świata, czy twój mod odpowiada najnowszej wersji."
+}

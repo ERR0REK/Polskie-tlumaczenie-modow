@@ -1,0 +1,31 @@
+{
+    "colorwheel.fallback_mode": "tryb awaryjny",
+    "colorwheel.fallback_mode.enable": "Włącz tryb awaryjny",
+
+    "colorwheel.alert.ask_disable": "Wyłącz to ostrzeżenie",
+
+    "colorwheel.alert.incompatible_pack": "Paczka shaderów %1$s nie jest kompatybilna",
+    "colorwheel.alert.incompatible_pack.patch_available": "Zamiast tego powinieneś wybrać %1$s w menu paczek shaderów",
+    "colorwheel.alert.incompatible_pack.ask_fallback_mode": "Możesz poprosić twórcę shaderów o dodanie wsparcia dla Colorwheel. Możesz także włączyć %1$s dla w pełni automatycznego wsparcia. BĘDĄ jednak występować błędy graficzne, a pełna pomoc techniczna NIE BĘDZIE udzielana.",
+    "colorwheel.alert.incompatible_pack.disable": "Wyłącz ostrzeżenie o niekompatybilnej paczce shaderów",
+
+    "colorwheel.alert.broken_pack": "Aktualna paczka shaderów zawiera uszkodzone pliki, spodziewaj się błędów graficznych",
+    "colorwheel.alert.broken_pack.disable": "Wyłącz ostrzeżenie o uszkodzonej paczce shaderów",
+
+    "command.colorwheel.alert_incompatible_pack.get.on": "Ostrzeżenie o niekompatybilnej paczce shaderów jest włączone",
+    "command.colorwheel.alert_incompatible_pack.get.off": "Ostrzeżenie o niekompatybilnej paczce shaderów jest wyłączone",
+    "command.colorwheel.alert_incompatible_pack.set.on": "Ostrzeżenie o niekompatybilnej paczce shaderów zostało włączone",
+    "command.colorwheel.alert_incompatible_pack.set.off": "Ostrzeżenie o niekompatybilnej paczce shaderów zostało wyłączone",
+
+    "command.colorwheel.alert_broken_pack.get.on": "Ostrzeżenie o uszkodzonej paczce shaderów jest włączone",
+    "command.colorwheel.alert_broken_pack.get.off": "Ostrzeżenie o uszkodzonej paczce shaderów jest wyłączone",
+    "command.colorwheel.alert_broken_pack.set.on": "Ostrzeżenie o uszkodzonej paczce shaderów zostało włączone",
+    "command.colorwheel.alert_broken_pack.set.off": "Ostrzeżenie o uszkodzonej paczce shaderów zostało wyłączone",
+
+    "command.colorwheel.fallback_mode.get.on": "Tryb awaryjny jest włączony",
+    "command.colorwheel.fallback_mode.get.off": "Tryb awaryjny jest wyłączony",
+    "command.colorwheel.fallback_mode.set.on": "Tryb awaryjny został włączony. Idziesz na własną odpowiedzialność!",
+    "command.colorwheel.fallback_mode.set.off": "Tryb awaryjny został wyłączony",
+
+    "colorwheel.click_here": "kliknij tutaj"
+}

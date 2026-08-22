@@ -1,0 +1,51 @@
+{
+  "itemGroup.create_power_loader.main": "Create: Power Loader",
+
+  "block.create_power_loader.empty_andesite_chunk_loader": "Pusty andezytowy ładowacz chunków",
+  "block.create_power_loader.andesite_chunk_loader": "Andezytowy ładowacz chunków",
+
+  "block.create_power_loader.empty_brass_chunk_loader": "Pusty mosiężny ładowacz chunków",
+  "block.create_power_loader.brass_chunk_loader": "Mosiężny ładowacz chunków",
+  "create_power_loader.brass_chunk_loader.loading_range": "Promień ładowania chunków",
+  "create_power_loader.brass_chunk_loader.load_1x1": "Kwadrat 1×1",
+  "create_power_loader.brass_chunk_loader.load_3x3": "Kwadrat 3×3",
+  "create_power_loader.brass_chunk_loader.load_5x5": "Kwadrat 5×5",
+
+  "create_power_loader.ponder.empty_chunk_loader_basic.header": "Użycie pustych ładowaczy chunków",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_1": "Kliknij prawym przyciskiem myszy na Ghasta z pustym ładowaczem chunków, aby go schwytać",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_2": "Dzięki mocy obrotowej schwytań Ghastowie rozświetlają rdzenie portalu...",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_3": "...powołując ładowacze chunków do życia",
+
+  "create_power_loader.ponder.andesite_chunk_loader_basic.header": "Podstawowe użycie andezytowego ładowacza chunków",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_1": "Ładowacz chunków utrzymuje bieżący chunk załadowany, gdy dostarczana jest moc obrotowa",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_2": "Nie działa, gdy prędkość obrotowa jest zbyt niska",
+
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.header": "Redstone a andezytowy ładowacz chunków",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_1": "Ładowacz chunków wysyła sygnał komparatora, gdy jest aktywny",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_2": "Po utracie mocy obrotowej następuje krótkie opóźnienie (konfigurowalne) przed wyładowaniem chunka",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_3": "Chunk pozostanie załadowany, jeśli moc zostanie przywrócona w trakcie tego opóźnienia",
+
+  "create_power_loader.ponder.brass_chunk_loader_basic.header": "Podstawowe użycie mosiężnego ładowacza chunków",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_1": "Ładowacz chunków utrzymuje bieżący chunk załadowany, gdy dostarczana jest moc obrotowa",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_2": "Nie działa, gdy prędkość obrotowa jest zbyt niska",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_3": "Możesz skonfigurować zasięg ładowania w panelu wartości...",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_4": "...ale większy zasięg wymaga wyższej prędkości obrotowej",
+
+  "create_power_loader.ponder.brass_chunk_loader_redstone.header": "Redstone a mosiężny ładowacz chunków",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_1": "Ładowacz chunków wysyła sygnał komparatora, gdy jest aktywny",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_2": "Po utracie mocy obrotowej następuje krótkie opóźnienie (konfigurowalne) przed wyładowaniem chunków",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_3": "Chunk pozostanie załadowany, jeśli moc zostanie przywrócona w trakcie tego opóźnienia",
+
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.header": "Ładowanie chunków wokół poruszających się konstrukcji",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_1": "Mosiężne ładowacze chunków działają również na konstrukcjach",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_2": "Zawsze ładują obszar 3×3 chunków wokół konstrukcji",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_3": "Po zmontowaniu nie wymagają mocy obrotowej do działania",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_4": "Działają również na stacjonarnych konstrukcjach",
+
+  "create_power_loader.ponder.brass_chunk_loader_station.header": "Ładowanie chunków dla stacji kolejowych",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_1": "Mosiężne ładowacze chunków mogą być dołączane do stacji kolejowych",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_2": "Umieść je obok stacji kolejowych w odpowiednim kierunku",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_3": "Nie wymagają mocy obrotowej, ale zazwyczaj są nieaktywne",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_4": "Gdy pociąg przyjeżdża na stację, ładowany jest obszar 3×3 wokół ładowacza chunków",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_5": "Gdy pociąg odjeżdża, obszar jest wyładowywany"
+}

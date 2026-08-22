@@ -1,0 +1,7 @@
+{
+  "itemGroup.create_cobblestone": "Create: Cobblestone",
+  "block.createcobblestone.mechanical_generator": "Generator mechaniczny",
+  "block.createcobblestone.generators.hovertext.itemprefix": "Generuje: ",
+  "block.createcobblestone.generators.hovertext.no_item": "Kliknij na generator wybranym rodzajem kamienia, aby ustawić typ generowanego przedmiotu.",
+  "createcobblestone.gui.goggles.generators.itemprefix": "Generuje: %1$s"
+}

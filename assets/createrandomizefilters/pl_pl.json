@@ -1,0 +1,19 @@
+{
+  "item.createrandomizefilters.randomize_filter": "Filtr losowy",
+  "item.createrandomizefilters.advanced_randomize_filter": "Zaawansowany filtr losowy",
+  "item.createrandomizefilters.sequence_filter": "Filtr sekwencyjny",
+
+  "itemGroup.createrandomizefilters": "Create: Randomize Filters",
+
+  "screen.createrandomizefilters.randomize_filter.title": "Konfiguruj filtr losowy",
+  "screen.createrandomizefilters.advanced_randomize_filter.title": "Konfiguruj zaawansowany filtr losowy",
+  "screen.createrandomizefilters.sequence_filter.title": "Konfiguruj filtr sekwencyjny",
+
+  "tooltip.createrandomizefilters.randomize_filter.empty": "Kliknij prawym przyciskiem myszy, aby skonfigurować",
+  "tooltip.createrandomizefilters.randomize_filter.configured": "Skonfigurowano bloki: %s",
+  "tooltip.createrandomizefilters.advanced_randomize_filter.empty": "Kliknij prawym przyciskiem myszy, aby skonfigurować bloki z wagą",
+  "tooltip.createrandomizefilters.advanced_randomize_filter.configured": "Skonfigurowano bloki z wagą: %s",
+  "tooltip.createrandomizefilters.sequence_filter.empty": "Kliknij prawym przyciskiem myszy, aby skonfigurować",
+  "tooltip.createrandomizefilters.sequence_filter.configured": "Sekwencja kroków: %s",
+  "tooltip.createrandomizefilters.sequence_position": "Pozycja: %s/%s"
+}

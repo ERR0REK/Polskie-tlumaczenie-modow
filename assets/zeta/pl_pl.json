@@ -1,0 +1,14 @@
+{
+  "zeta.misc.mod_disabled": "Wyłączono. Zainstaluj %s, aby włączyć.",
+  "zeta.jei.hint_preamble": "[Zeta]\n",
+
+  "zeta.gui.config.save": "Zapisz zmiany",
+  "zeta.gui.config.header": "Konfiguracja %s",
+  "zeta.gui.config.default": "Ustaw domyślne",
+  "zeta.gui.config.discard": "Odrzuć zmiany",
+  "zeta.gui.config.subcategories": "------- Podkategorie -------",
+  "zeta.gui.config.onechild": "1 element podrzędny",
+  "zeta.gui.config.nchildren": "%d elementów podrzędnych",
+  "zeta.gui.config.defaultvalue": "Domyślnie: %s",
+  "zeta.gui.config.missingaddon": "Brakuje wymaganego dodatku dla tej kategorii"
+}

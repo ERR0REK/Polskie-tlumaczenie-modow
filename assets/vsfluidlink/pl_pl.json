@@ -1,0 +1,30 @@
+{
+  "block.vsfluidlink.hose_connector": "Złącze węża",
+  "item.vsfluidlink.hose_connector.tooltip": "Ułatwia transport płynów między statkami. \nKliknij prawym przyciskiem myszy z kluczem, aby ustawić punkt połączenia, \nnastępnie kliknij prawym przyciskiem myszy drugie złącze, aby je połączyć.",
+  "block.vsfluidlink.magnet_hose_connector": "Magnetyczne złącze węża",
+  "item.vsfluidlink.magnet_hose_connector.tooltip": "Automatycznie łączy się z innym złączem znajdującym się przed nim. \nPołączenie jest wyłączane przez sygnał redstone.",
+  "block.vsfluidlink.item_hose_connector": "Złącze przedmiotów",
+  "item.vsfluidlink.item_hose_connector.tooltip": "Ułatwia transport przedmiotów między statkami. \nKliknij prawym przyciskiem myszy z kluczem, aby ustawić punkt połączenia, \nnastępnie kliknij prawym przyciskiem myszy drugie złącze, aby je połączyć. \nWymaga zasilania rotacyjnego (32+ RPM) do działania.",
+  "block.vsfluidlink.item_magnet_hose_connector": "Magnetyczne złącze przedmiotów",
+  "item.vsfluidlink.item_magnet_hose_connector.tooltip": "Automatycznie łączy się z innym złączem znajdującym się przed nim. \nPołączenie jest wyłączane przez sygnał redstone. \nWymaga zasilania rotacyjnego (32+ RPM) do działania.",
+  "block.vsfluidlink.electric_wire_connector": "Złącze przewodu elektrycznego",
+  "item.vsfluidlink.electric_wire_connector.tooltip": "Ułatwia transport energii (FE) między statkami. \nKliknij prawym przyciskiem myszy z kluczem, aby ustawić punkt połączenia, \nnastępnie kliknij prawym przyciskiem myszy drugie złącze, aby je połączyć.",
+  "block.vsfluidlink.electric_magnet_wire_connector": "Magnetyczne złącze przewodu elektrycznego",
+  "item.vsfluidlink.electric_magnet_wire_connector.tooltip": "Automatycznie łączy się z innym złączem znajdującym się przed nim. \nPołączenie jest wyłączane przez sygnał redstone.",
+  "block.vsfluidlink.chain_connector": "Złącze łańcuchowe",
+  "item.vsfluidlink.chain_connector.tooltip": "Ułatwia transport mocy rotacyjnej między statkami. \nKliknij prawym przyciskiem myszy z kluczem, aby ustawić punkt połączenia, \nnastępnie kliknij prawym przyciskiem myszy drugie złącze, aby je połączyć.",
+  "block.vsfluidlink.magnet_chain_connector": "Magnetyczne złącze łańcuchowe",
+  "item.vsfluidlink.magnet_chain_connector.tooltip": "Automatycznie łączy się z innym złączem znajdującym się przed nim. \nPołączenie jest wyłączane przez sygnał redstone.",
+
+  "creativetab.vsfluidlink_tab": "VS Złącza węży",
+
+  "vsfluidlink.message.selection_cleared": "Wybór wyczyszczony",
+  "vsfluidlink.message.first_pos_selected": "Wybrano pierwszą pozycję: %s",
+  "vsfluidlink.message.second_pos_selected": "Wybrano drugą pozycję i połączono: %s",
+  "vsfluidlink.message.cannot_link_to_self": "Nie można połączyć z samym sobą",
+  "vsfluidlink.message.distance_too_far": "Zbyt duża odległość",
+  "vsfluidlink.message.linked_successfully": "Pomyślnie połączono!",
+  "vsfluidlink.message.link_disconnected": "Połączenie rozłączone",
+  "vsfluidlink.message.world_to_world_restricted": "Połączenie między blokami świata jest ograniczone przez konfigurację.",
+  "vsfluidlink.message.intra_ship_restricted": "Połączenie wewnątrz tego samego statku jest ograniczone przez konfigurację."
+}

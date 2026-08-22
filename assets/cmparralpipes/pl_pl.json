@@ -1,0 +1,15 @@
+{
+  "cmparallelpipes.ponder.locked_pipe.header": "Blokowanie rur do płynów",
+  "cmparallelpipes.ponder.locked_pipe.text_1": "Rury do płynów zawsze będą łączyć się z innymi rurami do płynów",
+  "cmparallelpipes.ponder.locked_pipe.text_2": "Klucza do rur można użyć do zablokowania stanu połączeń rury, podobnie jak w przypadku obudowanej rury (Encased Pipe)",
+  "cmparallelpipes.ponder.locked_pipe.text_3": "Rurę do płynów można ponownie odblokować za pomocą klucza do rur",
+
+  "cmparallelpipes.ponder.outline_segment.header": "Kontury i połączenia",
+  "cmparallelpipes.ponder.outline_segment.text_1": "Zablokowane rury będą pokazywać kontury, gdy trzymasz klucz do rur",
+  "cmparallelpipes.ponder.outline_segment.text_2": "Możesz konfigurować połączenia zablokowanych rur za pomocą klucza do rur",
+  "cmparallelpipes.ponder.outline_segment.text_3": "Możesz dodać punkt końcowy",
+  "cmparallelpipes.ponder.outline_segment.text_4": "... lub go usunąć",
+  "cmparallelpipes.ponder.outline_segment.text_5": "Pamiętaj jednak, że rura potrzebuje co najmniej 2 otwartych punktów końcowych, inaczej nie będziesz mógł ich usunąć.",
+
+  "item.cmparallelpipes.pipe_wrench": "Klucz do rur"
+}

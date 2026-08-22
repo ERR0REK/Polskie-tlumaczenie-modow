@@ -1,0 +1,12 @@
+{
+  "gui.charmofundying.config.xOffset.name": "Poziome przesunięcie renderowania",
+  "gui.charmofundying.config.xOffset.description": "Poziome przesunięcie (oś X) podczas renderowania totemu na modelu gracza.",
+  "gui.charmofundying.config.yOffset.name": "Pionowe przesunięcie renderowania",
+  "gui.charmofundying.config.yOffset.description": "Pionowe przesunięcie (oś Y) podczas renderowania totemu na modelu gracza.",
+  "gui.charmofundying.config.zOffset.name": "Przesunięcie renderowania na osi Z",
+  "gui.charmofundying.config.zOffset.description": "Przesunięcie na osi Z podczas renderowania totemu na modelu gracza.",
+  "gui.charmofundying.config.renderTotem.name": "Renderuj założony totem",
+  "gui.charmofundying.config.renderTotem.description": "Jeśli włączone, założony totem będzie widoczny na modelu gracza.",
+  "trinkets.slot.charm.charm": "Amulet",
+  "charmofundying.networking.failed": "Błąd sieciowy Charm of Undying"
+}

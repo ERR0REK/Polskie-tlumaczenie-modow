@@ -1,0 +1,57 @@
+{
+  "block.create_train_parts.train_step_andesite": "Andezytowy schodek pociągowy",
+  "block.create_train_parts.train_step_brass": "Mosiężny schodek pociągowy",
+  "block.create_train_parts.train_step_copper": "Miedziany schodek pociągowy",
+  "block.create_train_parts.train_step_train": "Schodek pociągowy",
+  "block.create_train_parts.train_slide_andesite": "Andezytowy wysuwany stopień",
+  "block.create_train_parts.train_slide_brass": "Mosiężny wysuwany stopień",
+  "block.create_train_parts.train_slide_copper": "Miedziany wysuwany stopień",
+  "block.create_train_parts.train_slide_train": "Wysuwany stopień",
+  "block.create_train_parts.glass_sliding_window": "Szklane okno przesuwne",
+  "block.create_train_parts.andesite_sliding_window": "Andezytowe okno przesuwne",
+  "block.create_train_parts.brass_sliding_window": "Mosiężne okno przesuwne",
+  "block.create_train_parts.copper_sliding_window": "Miedziane okno przesuwne",
+  "block.create_train_parts.train_sliding_window": "Okno przesuwne",
+  "block.create_train_parts.crossing": "Szlaban kolejowy",
+  "block.create_train_parts.arm_extender": "Przedłużacz ramienia szlabanu",
+
+  "create_train_parts.ponder.train_assembly.header": "Schodki i wysuwane stopnie",
+  "create_train_parts.ponder.train_assembly.text_1": "Czasami pociąg zatrzymuje się zbyt daleko od peronu, by móc do niego wsiąść",
+  "create_train_parts.ponder.train_assembly.text_2": "Użyj schodków lub wysuwanych stopni, aby ułatwić dostęp",
+  "create_train_parts.ponder.train_assembly.text_3": "Schodki i stopnie otwierają się automatycznie po przyjeździe na stację",
+  "create_train_parts.ponder.train_assembly.text_4": "I zamykają, gdy pociąg opuszcza stację",
+
+  "create_train_parts.ponder.train_steps.header": "Konfiguracja trybów",
+  "create_train_parts.ponder.train_steps.text_1": "Schodek pociągowy domyślnie wysuwa „stopień”",
+  "create_train_parts.ponder.train_steps.text_2": "Stanowi to problem, jeśli przed nim znajduje się blok",
+  "create_train_parts.ponder.train_steps.text_3": "Aby to rozwiązać, skonfiguruj schodek tak, aby nie wysuwał stopnia",
+  "create_train_parts.ponder.train_steps.text_4": "Przytrzymaj Control, aby zmodyfikować wszystkie połączone schodki",
+
+  "create_train_parts.ponder.window_modes.header": "Konfiguracja trybów",
+  "create_train_parts.ponder.window_modes.text_1": "Okna przesuwne domyślnie otwierają się w górę",
+  "create_train_parts.ponder.window_modes.text_2": "Możesz jednak skonfigurować je tak, aby otwierały się w innym kierunku",
+  "create_train_parts.ponder.window_modes.text_3": "Połączone okna z tym samym trybem będą otwierać się razem",
+  "create_train_parts.ponder.window_modes.text_4": "Przytrzymanie Control zmienia ustawienia wszystkich okien",
+
+  "create_train_parts.ponder.train_behaviour.header": "Zachowanie okien w pociągach",
+  "create_train_parts.ponder.train_behaviour.text_1": "Okna ustawione na otwieranie w lewo lub w prawo otwierają się automatycznie na stacjach",
+  "create_train_parts.ponder.train_behaviour.text_2": "Okna ustawione na otwieranie w górę lub w dół można otwierać tylko ręcznie",
+
+  "create_train_parts.ponder.crossing.header": "Szlaban kolejowy",
+  "create_train_parts.ponder.crossing.text_1": "Szlabany wymagają zasilania kinetycznego do działania",
+  "create_train_parts.ponder.crossing.text_2": "Odwróć kierunek obrotów, aby zmienić stronę działania szlabanu",
+  "create_train_parts.ponder.crossing.text_3": "Jeśli chcesz wydłużyć szlaban, po prostu umieść przed nim przedłużacze ramienia",
+
+  "create_train_parts.ponder.railway_crossing.header": "Przejazd kolejowy",
+  "create_train_parts.ponder.railway_crossing.text_1": "Używając szlabanów wraz z sygnalizacją, możesz stworzyć bezpieczny przejazd kolejowy",
+
+  "create_train_parts.sliding_window.mode": "Tryb okna przesuwnego",
+  "window.mode.up": "Przesuń w górę",
+  "window.mode.down": "Przesuń w dół",
+  "window.mode.left": "Przesuń w lewo",
+  "window.mode.right": "Przesuń w prawo",
+  "create_train_parts.train_step.mode": "Tryb wysuwania",
+  "step.mode.slide": "Wysuwaj stopień",
+  "step.mode.no_slide": "Nie wysuwaj stopnia",
+  "itemGroup.create_train_parts.base": "Create: Train Parts"
+}

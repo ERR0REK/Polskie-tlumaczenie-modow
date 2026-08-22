@@ -1,0 +1,115 @@
+{
+  "create_bb.menu.title": "Personalizacja wózków",
+
+  "create_bb.tooltips.rotation": "Obrócono wózek!",
+  "create_bb.tooltips.switch_to_bogey_menu": "Otwórz menu Steam 'n' Rails",
+  "create_bb.tooltips.switch_to_bb_menu": "Otwórz menu Blocks & Bogies",
+
+  "create_bb.menu.bogie_style": "Wybór stylu wózka",
+  "create_bb.menu.selected_bogie": "Wybrany wózek: %s",
+
+  "create_bb.menu.scroll_selection": "Przewiń, aby wybrać",
+  "create_bb.menu.no_options_available": "Brak dostępnych opcji",
+  "create_bb.menu.scroll_change_speed": "Przewiń, aby zmienić prędkość",
+
+  "create_bb.menu.type": "Wózek: ",
+  "create_bb.menu.variant": "Styl: ",
+  "create_bb.menu.valve_gear": "Rozrząd pary: ",
+  "create_bb.menu.axle_count": "Liczba osi: ",
+  "create_bb.menu.size": "Rozmiar: ",
+  "create_bb.menu.length": "Wariant: ",
+  "create_bb.menu.speed": "Prędkość: ",
+
+  "create_bb.menu.size.large": "Duży",
+  "create_bb.menu.size.small": "Mały",
+  "create_bb.menu.size.extra_large": "Bardzo duży",
+
+  "create_bb.variant.long": "Długi",
+  "create_bb.variant.short": "Krótki",
+  "create_bb.variant.standard": "Standardowy",
+  "create_bb.variant.trailing": "Toczny",
+
+  "create_bb.type.driver": "Napędowy",
+  "create_bb.type.truck": "Wózek",
+
+  "create_bb.valve_gear.none": "Brak",
+  "create_bb.valve_gear.gearless": "Bezrozrządowy",
+  "create_bb.valve_gear.rodless": "Bezkorbowodowy",
+  "create_bb.valve_gear.pistonless": "Beztłokowy",
+  "create_bb.valve_gear.walschaerts": "Walschaertsa",
+  "create_bb.valve_gear.rotary_poppet": "Zaworowy obrotowy",
+  "create_bb.valve_gear.scotch_yoke": "Jarzmo szkockie",
+  "create_bb.valve_gear.southern": "Southern",
+
+  "create_bb.length.standard": "Domyślny",
+  "create_bb.length.extended": "Przedłużony",
+  "create_bb.length.offset": "Przesunięty",
+  "create_bb.length.spaced": "Rozstrzelony",
+
+  "create_bb.bogies.style.single_axle_trailing": "Mały wózek toczny 0-2-0",
+  "create_bb.bogies.style.double_axle_trailing": "Mały wózek toczny 0-4-0",
+  "create_bb.bogies.style.triple_axle_trailing": "Mały wózek toczny 0-6-0",
+  "create_bb.bogies.style.quadruple_axle_trailing": "Mały wózek toczny 0-8-0",
+
+  "create_bb.bogies.style.single_axle_offset": "Mały jednoosiowy przesunięty",
+
+  "create_bb.bogies.style.single_axle_bogie": "Mały jednoosiowy standardowy",
+  "create_bb.bogies.style.triple_axle_bogie": "Mały standardowy 0-6-0",
+  "create_bb.bogies.style.quadruple_axle_bogie": "Mały standardowy 0-8-0",
+  "create_bb.bogies.style.quintuple_axle_bogie": "Mały standardowy 0-10-0",
+
+  "create_bb.bogies.style.single_axle_pistonless": "0-2-0 beztłokowy",
+  "create_bb.bogies.style.double_axle_pistonless": "0-4-0 beztłokowy",
+  "create_bb.bogies.style.triple_axle_extended_pistonless": "0-6-0 przedłużony beztłokowy",
+  "create_bb.bogies.style.triple_axle_pistonless": "0-6-0 beztłokowy",
+  "create_bb.bogies.style.quadruple_axle_pistonless": "0-8-0 beztłokowy",
+  "create_bb.bogies.style.quintuple_axle_pistonless": "0-10-0 beztłokowy",
+  "create_bb.bogies.style.sextuple_axle_pistonless": "0-12-0 beztłokowy",
+
+  "create_bb.bogies.style.single_axle_rodless": "0-2-0 bezkorbowodowy",
+  "create_bb.bogies.style.double_axle_rodless": "0-4-0 bezkorbowodowy",
+  "create_bb.bogies.style.triple_axle_extended_rodless": "0-6-0 przedłużony bezkorbowodowy",
+  "create_bb.bogies.style.triple_axle_rodless": "0-6-0 bezkorbowodowy",
+  "create_bb.bogies.style.quadruple_axle_rodless": "0-8-0 bezkorbowodowy",
+  "create_bb.bogies.style.quintuple_axle_rodless": "0-10-0 bezkorbowodowy",
+  "create_bb.bogies.style.sextuple_axle_rodless": "0-12-0 bezkorbowodowy",
+
+  "create_bb.bogies.style.single_axle_scotch_yoke": "0-2-0 z jarzmem szkockim",
+  "create_bb.bogies.style.double_axle_scotch_yoke": "0-4-0 z jarzmem szkockim",
+  "create_bb.bogies.style.triple_axle_scotch_yoke": "0-6-0 z jarzmem szkockim",
+  "create_bb.bogies.style.quadruple_axle_scotch_yoke": "0-8-0 z jarzmem szkockim",
+  "create_bb.bogies.style.quintuple_axle_scotch_yoke": "0-10-0 z jarzmem szkockim",
+  "create_bb.bogies.style.sextuple_axle_scotch_yoke": "0-12-0 z jarzmem szkockim",
+
+  "create_bb.bogies.style.single_axle_long": "0-2-0 bezrozrządowy długi",
+  "create_bb.bogies.style.double_axle_long": "0-4-0 bezrozrządowy długi",
+  "create_bb.bogies.style.double_axle_extra_long": "0-4-0 bezrozrządowy bardzo długi",
+  "create_bb.bogies.style.triple_axle_extended_long": "0-6-0 bezrozrządowy przedłużony długi",
+  "create_bb.bogies.style.triple_axle_long": "0-6-0 bezrozrządowy długi",
+  "create_bb.bogies.style.quadruple_axle_long": "0-8-0 bezrozrządowy długi",
+  "create_bb.bogies.style.quintuple_axle_long": "0-10-0 bezrozrządowy długi",
+  "create_bb.bogies.style.sextuple_axle_long": "0-12-0 bezrozrządowy długi",
+
+  "create_bb.bogies.style.double_axle_short": "0-4-0 bezrozrządowy krótki",
+  "create_bb.bogies.style.triple_axle_short": "0-6-0 bezrozrządowy krótki",
+  "create_bb.bogies.style.triple_axle_extended_short": "0-6-0 bezrozrządowy przedłużony krótki",
+  "create_bb.bogies.style.quadruple_axle_short": "0-8-0 bezrozrządowy krótki",
+  "create_bb.bogies.style.quintuple_axle_short": "0-10-0 bezrozrządowy krótki",
+  "create_bb.bogies.style.sextuple_axle_short": "0-12-0 bezrozrządowy krótki",
+
+  "create_bb.bogies.style.single_axle_walschaerts_long": "0-2-0 Walschaertsa długi",
+  "create_bb.bogies.style.double_axle_walschaerts_long": "0-4-0 Walschaertsa długi",
+  "create_bb.bogies.style.double_axle_walschaerts_extra_long": "0-4-0 Walschaertsa bardzo długi",
+  "create_bb.bogies.style.triple_axle_walschaerts_extended_long": "0-6-0 Walschaertsa przedłużony długi",
+  "create_bb.bogies.style.triple_axle_walschaerts_long": "0-6-0 Walschaertsa długi",
+  "create_bb.bogies.style.quadruple_axle_walschaerts_long": "0-8-0 Walschaertsa długi",
+  "create_bb.bogies.style.quintuple_axle_walschaerts_long": "0-10-0 Walschaertsa długi",
+  "create_bb.bogies.style.sextuple_axle_walschaerts_long": "0-12-0 Walschaertsa długi",
+
+  "create_bb.bogies.style.double_axle_walschaerts_short": "0-4-0 Walschaertsa krótki",
+  "create_bb.bogies.style.triple_axle_walschaerts_extended_short": "0-6-0 Walschaertsa przedłużony krótki",
+  "create_bb.bogies.style.triple_axle_walschaerts_short": "0-6-0 Walschaertsa krótki",
+  "create_bb.bogies.style.quadruple_axle_walschaerts_short": "0-8-0 Walschaertsa krótki",
+  "create_bb.bogies.style.quintuple_axle_walschaerts_short": "0-10-0 Walschaertsa krótki",
+  "create_bb.bogies.style.sextuple_axle_walschaerts_short": "0-12-0 Walschaertsa krótki"
+}

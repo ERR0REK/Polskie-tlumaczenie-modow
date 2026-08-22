@@ -1,0 +1,35 @@
+{
+  "create_dragons_plus.fragile_fluid_tank.effect.infused_dragon_breath": "Odzyskuje pobliskie upuszczone przedmioty i może odzyskać wyposażone przedmioty",
+
+
+  "recipe.create_dragons_plus.fan_coloring": "Masowe barwienie",
+  "recipe.create_dragons_plus.fan_coloring.fan": "Wentylator za płynnym barwnikiem",
+  "recipe.create_dragons_plus.fan_freezing": "Masowe zamrażanie",
+  "recipe.create_dragons_plus.fan_freezing.fan": "Wentylator za puchowym śniegiem",
+  "recipe.create_dragons_plus.fan_sanding": "Masowe piaskowanie",
+  "recipe.create_dragons_plus.fan_sanding.fan": "Wentylator za ruchomymi piaskami",
+  "recipe.create_dragons_plus.fan_ending": "Masowe kończenie",
+  "recipe.create_dragons_plus.fan_ending.fan": "Wentylator za głową smoka",
+  "recipe.create_dragons_plus.aether_fan_enchanting": "Masowe zaklinanie",
+  "recipe.create_dragons_plus.aether_fan_enchanting.fan": "Wentylator za złotą aerodonicą",
+  "recipe.create_dragons_plus.aether_fan_enchanting.repairing": "Naprawia trwałość przedmiotów",
+  "recipe.create_dragons_plus.aether_fan_incubation": "Masowa inkubacja zaklinania",
+  "recipe.create_dragons_plus.aether_fan_incubation.fan": "Wentylator za złotą aerodonicą",
+  "recipe.create_dragons_plus.aether_fan_incubation.entity": "Sprawia, że się rodzi: %s",
+
+  "block.create_dragons_plus.fluid_hatch.tooltip.summary": "_Ułatwia_ interakcję twojego _zbiornika_ z _pojemnikami na płyny_.",
+  "block.create_dragons_plus.fluid_hatch.tooltip.condition1": "Po kliknięciu PPM",
+  "block.create_dragons_plus.fluid_hatch.tooltip.behaviour1": "_Przelewa_ _zawarty płyn_ z twojego _trzymanego przedmiotu_ do _zbiornika_, na którym jest umieszczony. Jeśli trzymany przedmiot nie może zostać opróżniony, zamiast tego _napełnia_ go ze _zbiornika_.",
+  "block.create_dragons_plus.fluid_hatch.tooltip.condition2": "Po kliknięciu PPM z Shiftem",
+  "block.create_dragons_plus.fluid_hatch.tooltip.behaviour2": "Najpierw _napełnia_ twój _trzymany pojemnik na płyn_ ze _zbiornika_. Jeśli nie może zostać napełniony, zawarty płyn jest zamiast tego _przelewany_ do _zbiornika_.",
+  "create_dragons_plus.fragile_fluid_tank.effect.header": "Efekt uderzenia",
+  "create_dragons_plus.fragile_fluid_tank.effect.none": "Brak specjalnego efektu uderzenia",
+  "create_dragons_plus.fragile_fluid_tank.effect.milk": "Oczyszcza efekty mikstur w zasięgu",
+  "create_dragons_plus.fragile_fluid_tank.effect.lava": "Podpala bloki, rozprzestrzenia ogień i podpala istoty w zasięgu",
+  "create_dragons_plus.fragile_fluid_tank.effect.water": "Gasi ogień oraz nawadnia lub chłodzi wspierane bloki",
+  "create_dragons_plus.fragile_fluid_tank.effect.tea": "Przechodzi w stan Pośpiechu dla pobliskich żywych istot",
+  "create_dragons_plus.fragile_fluid_tank.effect.dragon_breath": "Zadaje obrażenia pobliskim żywym istotom za pomocą Smoczego Oddechu",
+  "create_dragons_plus.fragile_fluid_tank.effect.potion": "Nakłada efekty zawartej mikstury w zasięgu",
+  "create_dragons_plus.fragile_fluid_tank.effect.dye": "Barwi pobliskie istoty i kompatybilne bloki",
+  "create_dragons_plus.fragile_fluid_tank.effect.explosive": "Wybucha przy uderzeniu"
+}
