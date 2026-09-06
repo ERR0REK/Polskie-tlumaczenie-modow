@@ -1,0 +1,9 @@
+{
+  "cullleaves.title": "Cull Leaves",
+  "cullleaves.config": "Konfiguracja Cull Leaves",
+  "cullleaves.midnightconfig.title": "Cull Leaves Konfiguracja",
+  "cullleaves.midnightconfig.enabled.tooltip": "Włącza odcinanie liści, zapewniając przyzwoity wzrost wydajności",
+  "cullleaves.midnightconfig.enabled": "Włącz Leaf Culling",
+  "cullleaves.midnightconfig.cullRoots.tooltip": "Włącza odcinanie korzeni namorzynowych",
+  "cullleaves.midnightconfig.cullRoots": "Włącz Mangrove Root Culling"
+}

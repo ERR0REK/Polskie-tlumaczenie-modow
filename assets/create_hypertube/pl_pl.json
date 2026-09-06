@@ -53,5 +53,14 @@
   "create_hypertube.ponder.attachments.text_3": "Przystawka detektora redstone pozwala zmieniać tryb akceleratora/wejścia za pomocą sygnału redstone.",
   "create_hypertube.ponder.tag.hypertube_systems": "Systemy Hypertube",
   "create_hypertube.ponder.tag.hypertube_systems.description": "Bloki i przedmioty używane w systemach transportu Hypertube.",
-  "block.create_hypertube.hypertube_junction": "Rozdzielacz Hypertube"
+  "block.create_hypertube.hypertube_junction": "Rozdzielacz Hypertube",
+  "create_hypertube.ponder.splitter.header": "Rozgałęzienie Hypertube",
+  "create_hypertube.ponder.splitter.text_1": "Rozgałęzienie Hypertube może łączyć do trzech rur, rozdzielając linię na wiele ścieżek.",
+  "create_hypertube.ponder.splitter.text_2": "Podczas podróży możesz wybrać, gdzie się udać, za pomocą klawiszy ruchu.",
+  "create_hypertube.ponder.splitter.text_3": "Kliknij PPM kluczem, aby przełączać między trybami rozgałęzienia.",
+  "create_hypertube.ponder.splitter.text_4": "W trybie Kontynuacji podróżni zawsze przechodzą przez boczne rury.",
+  "create_hypertube.ponder.splitter.text_5": "W trybie Centralnym podróżni są zawsze kierowani przez główną rurę.",
+  "create_hypertube.ponder.splitter.text_6": "Detektor Redstone może przełączać między oboma wymuszonymi trybami.",
+  "key.hypertube.tube_escape": "Przycisk ucieczki z Hypertube",
+  "key.categories.hypertube": "Create: Hypertube"
 }

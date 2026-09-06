@@ -1,0 +1,3 @@
+key.categories.mekanismcurios = Mekanism Curios
+curios.identifier.qio = QIO
+curios.identifier.teleporter = Teleporter

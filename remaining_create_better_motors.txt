@@ -1,0 +1,7 @@
+create_better_motors = Create: Better Motors
+item_group.create_better_motors.tab = Create: Better Motors
+create.tooltip.create_better_motors.temperature = %s ˚T
+create.tooltip.create_better_motors.rpm = %s RPM
+create.tooltip.create_better_motors.temperature.ps = %s ˚T/s
+create.tooltip.create_better_motors.percent = %s%%
+block.create_better_motors.alternator = Alternator

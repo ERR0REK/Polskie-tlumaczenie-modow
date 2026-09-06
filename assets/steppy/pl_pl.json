@@ -1,0 +1,8 @@
+{
+  "steppy.title": "Steppy",
+  "steppy.config": "Konfiguracja Steppy",
+  "text.autoconfig.steppy.option.enableSteppy": "Włącz Steppy",
+  "text.autoconfig.steppy.option.enableSteppyWhenSneaking": "Włącz Steppy when sneaking",
+  "text.autoconfig.steppy.option.stepHeight": "Wysokość kroku",
+  "text.autoconfig.steppy.title": "Steppy"
+}

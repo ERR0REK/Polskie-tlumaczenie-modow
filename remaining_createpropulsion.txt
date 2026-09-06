@@ -1,0 +1,7 @@
+createpropulsion.gui.goggles.redstone_transmission.internal_shift_number = %s / %s
+createpropulsion = Createpropulsion
+createpropulsion.gui.goggles.thruster.status = Status
+createpropulsion.redstone_transmission.control_mode. = 
+createpropulsion.gui.goggles.burner.status = Status
+createpropulsion.gui.goggles.stirling_engine.status = Status
+createpropulsion.gui.goggles.thruster.unit_pn = pN

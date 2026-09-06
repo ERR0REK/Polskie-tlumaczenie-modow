@@ -1,0 +1,11 @@
+jei.tooltip.liquid.amount.with.capacity = %s / %s mB
+jei.tooltip.liquid.amount = %s mB
+key.jei.cheatOneItem2 = Cheat 1 Item
+jei.config.client.cheating = Cheating
+gui.jei.category.smelting.experience = %s XP
+gui.jei.category.smelting.time.seconds = %ss
+jei.key.combo.shift = SHIFT + %s
+jei.key.combo.control = CTRL + %s
+jei.key.combo.command = CMD + %s
+jei.key.combo.alt = ALT + %s
+jei.alias.villager.spawn.egg = HMMM

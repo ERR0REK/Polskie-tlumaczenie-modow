@@ -317,5 +317,10 @@
   "screen.create_aeronautics_toolgun.weld_mode_with_axis": "%s | Oś: %s",
   "screen.create_aeronautics_toolgun.weld_selection_mode.face_points": "Ściana (9 punktów)",
   "screen.create_aeronautics_toolgun.weld_selection_mode.face_points_18": "Ściana (18 punktów)",
-  "screen.create_aeronautics_toolgun.weld_selection_mode.free": "Swobodne celowanie"
+  "screen.create_aeronautics_toolgun.weld_selection_mode.free": "Swobodne celowanie",
+  "screen.create_aeronautics_toolgun.query.radar": "Radar",
+  "screen.create_aeronautics_toolgun.query.radar_scale": "R %s b",
+  "screen.create_aeronautics_toolgun.query.teleport_unloaded_hint": "Unloaded: the vehicle cannot be teleported, but you can teleport above it.",
+  "screen.create_aeronautics_toolgun.printer.preview_loading": "Loading blueprint preview...",
+  "screen.create_aeronautics_toolgun.hud.preview_loading": "Preview loading..."
 }

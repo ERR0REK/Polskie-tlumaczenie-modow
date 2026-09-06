@@ -1,10 +1,9 @@
 {
-  "ez_stock_ticker.gui.enabled": "Ez Stock Ticker enabled",
-  "ez_stock_ticker.gui.enabled_description_1": "The search bar will automatically select, and there are various changes to input.",
-  "ez_stock_ticker.gui.enabled_description_2": "Try out combinations of shift, control, left click, right click, and scroll wheel.",
-  "ez_stock_ticker.gui.disabled": "Ez Stock Ticker disabled",
-  "ez_stock_ticker.gui.disabled_description_1": "The stock ticker input handling is following base create,",
-  "ez_stock_ticker.gui.disabled_description_2": "but the search bar will still be automatically selected.",
-  "ez_stock_ticker.gui.click_to_toggle": "Click to toggle"
+  "ez_stock_ticker.gui.enabled": "Ez Stock Ticker włączony",
+  "ez_stock_ticker.gui.enabled_description_1": "Pasek wyszukiwania automatycznie się zaznaczy, a obsługa wejścia ulegnie różnym zmianom.",
+  "ez_stock_ticker.gui.enabled_description_2": "Wypróbuj kombinacje shift, control, lewy klik, prawy klik i kółko myszy.",
+  "ez_stock_ticker.gui.disabled": "Ez Stock Ticker wyłączony",
+  "ez_stock_ticker.gui.disabled_description_1": "Obsługa wejścia giełdy odbywa się zgodnie z podstawowym Create,",
+  "ez_stock_ticker.gui.disabled_description_2": "ale pasek wyszukiwania nadal będzie automatycznie zaznaczany.",
+  "ez_stock_ticker.gui.click_to_toggle": "Kliknij aby przełączyć"
 }
-

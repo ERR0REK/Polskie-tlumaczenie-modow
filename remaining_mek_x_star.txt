@@ -1,0 +1,1 @@
+item.mek_x_star.durasteel = Durasteel

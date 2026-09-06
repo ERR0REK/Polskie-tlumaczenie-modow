@@ -5,21 +5,17 @@
   "block.aeronautics_utility_objects.hydraulic_hinge_head": "Pneumatyczne Złącze Zawiasowe",
   "block.aeronautics_utility_objects.hydraulic_regulator": "Regulator Pneumatyczny",
   "block.aeronautics_utility_objects.damping_stress_bearing": "Łożysko Konwersji Kinetycznej",
-
   "item.aeronautics_utility_objects.universal_joint_rod": "Mosiężny Pręt Kardana",
   "item.aeronautics_utility_objects.universal_joint_rod2": "Andezytowy Pręt Kardana",
   "item.aeronautics_utility_objects.hydraulic_rod": "Pręt Pneumatyczny",
   "item.aeronautics_utility_objects.creative_hydraulic_rod": "Kreatywny Pręt Pneumatyczny",
-
   "itemGroup.aeronautics_utility_objects": "Transmisja i Połączenia",
-
   "aeronautics_utility_objects.ponder.hydraulic_rod_properties.header": "Właściwości pręta pneumatycznego",
   "aeronautics_utility_objects.ponder.hydraulic_rod_settings.header": "Konfiguracja prętów pneumatycznych",
   "aeronautics_utility_objects.ponder.hydraulic_regulator_control.header": "Sterowanie regulatorem pneumatycznym",
   "aeronautics_utility_objects.ponder.hydraulic_hinge_head.header": "Pneumatyczne głowice zawiasowe",
   "aeronautics_utility_objects.ponder.universal_joint_variants.header": "Warianty złącza kardana",
   "aeronautics_utility_objects.ponder.kinetic_conversion_bearing_output.header": "Łożysko konwersji kinetycznej",
-
   "aeronautics_utility_objects.ponder.shared.hydraulic_rod_connect_after_assembly": "Połącz dwie głowice pneumatyczne po złożeniu konstrukcji.",
   "aeronautics_utility_objects.ponder.shared.hydraulic_rod_stretch_along_connection": "Pręt wysuwa się i chowa wzdłuż linii między głowicami.",
   "aeronautics_utility_objects.ponder.shared.hydraulic_rod_return_force": "Docelowa długość i siła powrotu przyciągają ruchomy koniec do ustawionej odległości.",
@@ -47,7 +43,6 @@
   "aeronautics_utility_objects.ponder.shared.damping_bearing_rear_output": "Obroty są przekazywane tylnym wałem do sieci kinetycznej Create.",
   "aeronautics_utility_objects.ponder.shared.damping_bearing_resistance": "Kucnij i kliknij prawym, aby otworzyć ustawienia oporu.",
   "aeronautics_utility_objects.ponder.shared.damping_bearing_damped_bearing": "Może działać jako tłumione łożysko wygładzające ruch obrotowy.",
-
   "message.aeronautics_utility_objects.endpoint_selected": "Wybrano pierwszą głowicę.",
   "message.aeronautics_utility_objects.selection_cleared": "Cel połączenia wyczyszczony.",
   "message.aeronautics_utility_objects.linked": "Połączenie utworzone.",
@@ -63,7 +58,6 @@
   "message.aeronautics_utility_objects.stress_output_suppressed": "Wykryto zablokowany blok: %s. Wyjście stresu ograniczone do 40 000 SU.",
   "message.aeronautics_utility_objects.toolgun_outdated": "Create Aeronautics: Toolgun jest przestarzały (%s). Zaktualizuj do %s lub nowszej wersji, aby obsługiwać zapisywanie planów dla połączeń kardana, pneumatyki i powiązanych bloków.",
   "message.aeronautics_utility_objects.toolgun_missing": "Zalecane jest Create Aeronautics: Toolgun. Zainstaluj wersję %s lub nowszą, aby obsługiwać zapisywanie planów dla połączeń kardana i pneumatyki.",
-
   "tooltip.aeronautics_utility_objects.selected": "Wybrane: %s, %s, %s",
   "tooltip.aeronautics_utility_objects.clear_hint": "Kucnij i kliknij prawym, aby wyczyścić cel.",
   "tooltip.aeronautics_utility_objects.head_hint": "Łączy struktury i przekazuje ruch.",
@@ -76,7 +70,6 @@
   "tooltip.aeronautics_utility_objects.andesite_rod_hint": "Tworzy andezytowe połączenie kardana.",
   "tooltip.aeronautics_utility_objects.rod_range_andesite": "Zasięg 15 bloków. Ponad 1 blok — naciąga, 2.5 bloku — zrywa.",
   "tooltip.aeronautics_utility_objects.rod_range_brass": "Mosiężny pręt: elastyczne krótkie połączenie.",
-
   "tooltip.aeronautics_utility_objects.hydraulic_head_hint": "Kotwiczy pręt pneumatyczny. Kliknij prawym, aby ustawić długość, powrót i tłumienie.",
   "tooltip.aeronautics_utility_objects.hydraulic_head_range": "Normalne pręty mogą ustawiać długość, siłę powrotu i odporność na rozciąganie.",
   "tooltip.aeronautics_utility_objects.hydraulic_hinge_head_hint": "Kotwiczy pręt na zawiasie. Kliknij prawym, aby skonfigurować.",
@@ -84,23 +77,18 @@
   "tooltip.aeronautics_utility_objects.hydraulic_rod_hint": "Tworzy konfigurowalne połączenie pneumatyczne.",
   "tooltip.aeronautics_utility_objects.hydraulic_rod_range": "Tłumienie ma 20 poziomów. Czerwone poziomy są bardzo silne.",
   "tooltip.aeronautics_utility_objects.creative_hydraulic_rod_acceleration": "Kreatywny pręt: tylko długość jest konfigurowalna i wymuszana sztywnym serwem.",
-
   "tooltip.aeronautics_utility_objects.hydraulic_regulator_hint": "Umieść za głowicą, aby nadpisywać jej długość.",
   "tooltip.aeronautics_utility_objects.hydraulic_regulator_signal": "Sygnał redstone ustawia długość.",
   "tooltip.aeronautics_utility_objects.hydraulic_regulator_speed": "Prędkość wału kontroluje szybkość zmiany długości.",
-
   "tooltip.aeronautics_utility_objects.damping_setting": "Opór:",
   "tooltip.aeronautics_utility_objects.speed_ratio": "Przełożenie prędkości:",
-
   "tooltip.aeronautics_utility_objects.damping_bearing_hint": "Wypuszcza rzeczywistą prędkość obrotową konstrukcji.",
   "tooltip.aeronautics_utility_objects.damping_bearing_cycle": "Kucnij i kliknij prawym, aby zmienić opór.",
   "tooltip.aeronautics_utility_objects.damping_bearing_stress": "Tłumienie rośnie przy dużej prędkości; stres ograniczony do 200 000 SU.",
   "tooltip.aeronautics_utility_objects.stress_output_suppressed": "Wykryto %s. Wyjście stresu ograniczone do 40 000 SU.",
   "tooltip.aeronautics_utility_objects.stress_output_suppressed.unknown": "zablokowany blok",
-
   "gui.aeronautics_utility_objects.damping_stress": "Opór: %s  Obciążenie: %s",
   "gui.aeronautics_utility_objects.damping_infinite": "INF",
-
   "setting.aeronautics_utility_objects.damping_resistance": "Opór",
   "setting.aeronautics_utility_objects.hydraulic_stretch_resistance": "Odporność na rozciąganie",
   "setting.aeronautics_utility_objects.hydraulic_free_mode": "Tryb Pneumatyczny",
@@ -109,41 +97,50 @@
   "setting.aeronautics_utility_objects.hydraulic_expected_length": "Oczekiwana długość",
   "setting.aeronautics_utility_objects.hydraulic_redstone_range": "Zakres redstone",
   "setting.aeronautics_utility_objects.hydraulic_return_force": "Siła powrotu",
-
   "tooltip.aeronautics_utility_objects.gui.stretch_resistance.1": "Zmniejsza drgania wzdłuż pręta.",
   "tooltip.aeronautics_utility_objects.gui.stretch_resistance.2": "Wyższe wartości sprawiają, że szybkie ruchy są bardziej tłumione.",
   "tooltip.aeronautics_utility_objects.gui.stretch_resistance.3": "Niskie są płynniejsze; wysokie dobre dla ciężkich maszyn.",
-
   "tooltip.aeronautics_utility_objects.gui.stretch_resistance.warning.1": "Czerwone poziomy to ekstremalne ustawienia.",
   "tooltip.aeronautics_utility_objects.gui.stretch_resistance.warning.2": "Jeśli konstrukcja zaczyna podskakiwać, zmniejsz to ustawienie.",
-
   "tooltip.aeronautics_utility_objects.gui.creative_expected_length.1": "Kreatywne pręty używają tylko tej długości.",
   "tooltip.aeronautics_utility_objects.gui.creative_expected_length.2": "Pręt porusza się do tej długości nawet przy dużym obciążeniu.",
   "tooltip.aeronautics_utility_objects.gui.creative_expected_length.3": "Ruch jest lekko wygładzony.",
-
   "tooltip.aeronautics_utility_objects.gui.expected_length.regulator.1": "Regulator pneumatyczny kontroluje tę długość.",
   "tooltip.aeronautics_utility_objects.gui.expected_length.regulator.2": "Zmień sygnał redstone lub prędkość wału.",
-
   "tooltip.aeronautics_utility_objects.gui.expected_length.1": "Długość, którą pręt próbuje utrzymać.",
   "tooltip.aeronautics_utility_objects.gui.expected_length.2": "Krótsza przyciąga końce; dłuższa je odpycha.",
   "tooltip.aeronautics_utility_objects.gui.expected_length.3": "Pręt zbliża się do tej długości stopniowo.",
-
   "tooltip.aeronautics_utility_objects.gui.return_force.1": "Siła, z jaką pręt wraca do długości docelowej.",
   "tooltip.aeronautics_utility_objects.gui.return_force.2": "Wyższe wartości szybciej korygują odchylenia.",
   "tooltip.aeronautics_utility_objects.gui.return_force.3": "Zbyt wysokie mogą powodować podskakiwanie.",
-
-    "tooltip.aeronautics_utility_objects.gui.redstone_range.1": "Mapuje sygnał 0–15 na zakres długości.",
+  "tooltip.aeronautics_utility_objects.gui.redstone_range.1": "Mapuje sygnał 0–15 na zakres długości.",
   "tooltip.aeronautics_utility_objects.gui.redstone_range.2": "Lewy uchwyt odpowiada sygnałowi 0; prawy uchwyt odpowiada sygnałowi 15.",
   "tooltip.aeronautics_utility_objects.gui.redstone_range.3": "Działa zarówno dla zwykłych, jak i kreatywnych prętów pneumatycznych.",
-
   "tooltip.aeronautics_utility_objects.gui.mode.1": "Długość docelowa: pręt próbuje utrzymać ustawioną długość.",
   "tooltip.aeronautics_utility_objects.gui.mode.2": "Swobodny: pręt może się przesuwać, ale zachowuje zakres bezpieczeństwa i tłumienie drgań.",
   "tooltip.aeronautics_utility_objects.gui.mode.3": "Użyj trybu Swobodnego, gdy chcesz, aby pręt działał jak prowadnica, a nie aktywny element pchający/ciągnący.",
-
   "tooltip.aeronautics_utility_objects.gui.disabled.free_mode": "To ustawienie jest wyłączone w trybie Swobodnym.",
-
   "damping.aeronautics_utility_objects.light": "Niski",
   "damping.aeronautics_utility_objects.medium": "Średni",
   "damping.aeronautics_utility_objects.heavy": "Wysoki",
-  "damping.aeronautics_utility_objects.extreme": "Maksymalny"
+  "damping.aeronautics_utility_objects.extreme": "Maksymalny",
+  "item.aeronautics_utility_objects.giant_hydraulic_rod": "Ogromny pręt hydrauliczny",
+  "setting.aeronautics_utility_objects.giant_hydraulic_flow": "Przepływ zaworu",
+  "setting.aeronautics_utility_objects.giant_hydraulic_pressure": "Ciśnienie zasilające",
+  "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_flow.1": "Ogranicza objętość oleju przechodzącego przez zawór kierunkowy i bezpośrednio ogranicza prędkość cylindra.",
+  "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_flow.2": "40 L/min zachowuje nominalną prędkość; mniejszy przepływ spowalnia start, cofanie i jazdę.",
+  "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_pressure.1": "Ogranicza maksymalne ciśnienie zasilające i siłę cylindra.",
+  "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_pressure.2": "Nadmiar obciążenia naturalnie spowalnia lub zatrzymuje cylinder.",
+  "item.aeronautics_utility_objects.hydraulic_hinge_head": "Andezytowa hydrauliczna głowica zawiasu",
+  "block.aeronautics_utility_objects.brass_hydraulic_hinge_head": "Mosiężna hydrauliczna głowica zawiasu",
+  "item.aeronautics_utility_objects.brass_hydraulic_hinge_head": "Mosiężna hydrauliczna głowica zawiasu",
+  "screen.aeronautics_utility_objects.brass_hydraulic_hinge_head": "Ograniczenia zawiasu hydraulicznego",
+  "screen.aeronautics_utility_objects.hinge_min_angle": "Minimalny kąt: %s°",
+  "screen.aeronautics_utility_objects.hinge_max_angle": "Maksymalny kąt: %s°",
+  "setting.aeronautics_utility_objects.hinge_angle_range": "Zakres ograniczeń kątowych",
+  "setting.aeronautics_utility_objects.hinge_negative_limit": "Ograniczenie ujemne",
+  "setting.aeronautics_utility_objects.hinge_positive_limit": "Ograniczenie dodatnie",
+  "setting.aeronautics_utility_objects.hinge_total_travel": "Całkowity zakres: %s°",
+  "tooltip.aeronautics_utility_objects.brass_hydraulic_hinge_head_hint": "Mosiężny zawias hydrauliczny z konfigurowalnymi ograniczeniami kątowymi.",
+  "tooltip.aeronautics_utility_objects.brass_hydraulic_hinge_head_range": "Kliknij PPM, aby ustawić minimalny i maksymalny kąt obrotu."
 }

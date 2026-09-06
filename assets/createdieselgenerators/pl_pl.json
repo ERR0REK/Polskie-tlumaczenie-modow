@@ -301,5 +301,6 @@
   "mold.createdieselgenerators.bowl": "Forma do misek",
   "mold.createdieselgenerators.chain": "Forma do łańcuchów",
   "mold.createdieselgenerators.lines": "Falista forma",
-  "sounds.createdieselgenerators.engine_normal": "Ryk silnika Diesla"
+  "sounds.createdieselgenerators.engine_normal": "Ryk silnika Diesla",
+  "block.createdieselgenerators.andesite_girder_strut": "Andezytowy wspornik belki"
 }

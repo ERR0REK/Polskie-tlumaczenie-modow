@@ -1,0 +1,3 @@
+itemGroup.bellsandwhistlestab = Bells & Whistles
+creativetab.bellsandwhistlestab = Bells & Whistles
+creativetab.bellsandwhistles.bells_and_whistles = Bells & Whistles

@@ -1,0 +1,13 @@
+format.bookshelf.right = %s: %s
+format.bookshelf.center = %s : %s
+format.bookshelf.left = %s :%s
+format.bookshelf.spaced = %s %s
+format.bookshelf.none = %s%s
+format.bookshelf.unit_rate = %s/%s
+units.bookshelf.tick = Tick
+units.bookshelf.tick.abbreviated = t
+units.bookshelf.nanosecond.abbreviated = ns
+units.bookshelf.millisecond.abbreviated = ms
+units.bookshelf.second.abbreviated = s
+units.bookshelf.hour.abbreviated = h
+units.bookshelf.day.abbreviated = d

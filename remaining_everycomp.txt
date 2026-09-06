@@ -1,0 +1,77 @@
+itemGroup.everycomp = Every Compat
+itemGroup.everycomp.everycomp = Every Compat
+everycomp.configuration.general.dynamic_assets_generation_mode = Dynamic Assets Generation Mode
+everycomp.configuration.general.dynamic_assets_generation_mode.description = 
+How dynamic assets are generated. If cached the cache will regenerate once any mod or pack changes
+- NEVER: This mod will never attempt to generate the cache folder. The assets will be put in memory
+- RUN_ONCE: Will generate once & the assets will be stored in memory every time you launched.
+- CACHED: create a CACHE folder via .minecraft/dynamic-resource-pack-cache
+- CACHED_ZIPPED: create a ZIP folder via .minecraft/dynamic-resource-pack-cache
+- ALWAYS: Will always generate the assets & will be stored in memory. There will be no cache folder
+everycomp.configuration.general.use_external_resource_pack.description = Enable Every-Compat to base textures off external Resource Packs rather than mod's default textures.
+ATTENTION: There are some Resource Packs that won't work well with Every-Compat, which is why this
+option is off by default. Disable if there are missing textures for blocks.
+
+everycomp.configuration.general.server_assets_generation_mode = Server Assets Generation Mode
+everycomp.configuration.general.server_assets_generation_mode.description = 
+How dynamic assets are generated.
+- NEVER: No asset will be generated. Use this if you have an external pack that adds assets for the block, otherwise you'll get missing assets everywhere
+- RUN_ONCE: Assets will be generated once every session. Subsequent reloads of resource/data pack will not regenerate them even if assets might have changed as a consequence
+- CACHED: Generate the assets on first boot and saves them to a cache folder in .minecraft/dynamic-data-pack-cache. If mods or packs change it will regenerate the cache. If not, subsequent reload won't generate anything and just read the cached ones as a normal pack.
+- CACHED_ZIPPED: Generate the assets on first boot and saves them to a cache zip file in .minecraft/dynamic-data-pack-cache. If mods or packs change it will regenerate the cache. If not, subsequent reload won't generate anything and just read the cached ones as a normal pack.
+- ALWAYS: Will always generate the assets & will be stored in memory. No cache is used. Unintuitively, this is often the fastest method as any disk access will be slow. 
+Try and see what works best for you.
+everycomp.configuration.general.creative_tab = Creative Tab
+everycomp.configuration.general.creative_tab.description = Puts all the added items into a new Every Compat tab instead of their own mod tabs. Be warned that if disabled it could cause some issue with some mods that have custom tabs.
+everycomp.configuration.general.tab_item_search.description = Allow the item_search or searchBar to be visible.
+everycomp.configuration.general.no_mod_creative_tab = No Mod Creative Tab
+everycomp.configuration.general.no_mod_creative_tab.description = If set to true, then all of the generated items will not be put into the mod's tab.
+everycomp.configuration.general.generate_blocktype_tags = Generate Blocktype Tags
+everycomp.configuration.general.generate_blocktype_tags.description = Generate blocktype tags for every block type. This will be applied to all the mods that use the system, not just Every Compat. Can make pack a bit faster if its off. Turn off if you dont need it.
+everycomp.configuration.general.mod_version_check_packet = Mod Version Check Packet
+everycomp.configuration.general.mod_version_check_packet.description = Sends a packet to verify all dependencies mod versions are the same on connect. DIsable if it causes issues
+everycomp.configuration.general.debug_packet = Debug Packet
+everycomp.configuration.general.debug_packet.description = Don't touch unless you are told to
+everycomp.configuration.tooltips.mod_origin_enabled.description = Enabled tooltips showing which mod an EC item is from
+everycomp.configuration.tooltips.block_type_enabled.description = Enabled tooltips showing which block type an EC item is made from
+everycomp.configuration.tooltips.show_on_advanced_tooltips.description = Only show on advanced settings
+everycomp.configuration.woodtype.blacklist.description = Exclude WoodType from all of Modules
+    EXAMPLE: blacklist = [
+        "forestry:.*fireproof.*",		COMMENT: .* is an RegEx, it exclude all of WoodType containing "fireproof" from Forestry
+        "biomesoplenty:.*",			COMMENT: .* is an RegEx, it exclude all of WoodType from Wood Mod for any Module
+        "biomesoplenty:redwood"		COMMENT: exclude redwood from Wood Mod for any module
+    ]
+
+everycomp.configuration.leavestype.blacklist.description = Exclude LeavesType from all of Modules
+	The example is same as WoodType's
+everycomp.configuration.block.blacklist.description = Exclude a specific WoodType/LeavesType block
+    This is only applied to Wood-Good.
+    EXAMPLE: blacklist = [
+        "chipped/biomesoplenty/checkered_redwood_trapdoor",	COMMENT: excluded a checkered_trapdoor from Chipped with Biomes-O'-Plenty's redwood
+        "variantvanillablocks/biomesoplenty/fir_chest",		COMMENT: excluded a chest from Variant-Vanilla-Blocks with Biomes-O'-Plenty's fir
+        ".*/biomesoplenty/fir_chest",							COMMENT: .* is an RegEx, so it exclude fir_chest from any Supported-Mods with just Biomes-O'-Plenty (Wood-Mods)
+        "chipped/.*/fir_chest",								COMMENT: .* is an RegEx, so it exclude fir_chest from any Wood-Mods with just chipped (Supported-Mod)
+        ".*fir_chest",											COMMENT: .* is an RegEx, so it exclude fir_chest from any Supported-Mods & Wood-Mods
+    ]
+
+everycomp.configuration.entryset.blacklist.description = Exclude EntrySet from the module for All of WoodType or LeavesType
+    This is only applied to Wood-Good.
+    EXAMPLE: blacklist = [
+        "chipped:checkered_trapdoor",		COMMENT: chipped:checkered_oak_trapdoor without "oak"
+        "variantvanillablocks:chest",		COMMENT: variantvanillablocks:oak_chest without "oak"
+        "chipped:.*"						COMMENT: .* is an regex which will exclude all of EntrySets from one Module - Wood-Good ONLY
+    ]
+    NOTE: This excluded one entryset from all WoodTypes/LeavesTypes
+
+everycomp.configuration.module.blacklist.description = Exclude Module From Wood-Good, Stone-Zone & Gems-Realm
+    EXAMPLE: blacklist = [
+        "chipped",
+        "variantvanillablocks"
+    ]
+
+everycomp.configuration.other.include_all_wood_modules.description = Disable all of Supported Mods on EveryCompat's side. This feature is same as Library-Section which do not have any Wood Modules.
+WARNING: If the config between CLIENT & SERVER are not the same, then you won't able to join a server
+car_variant.%s = %s
+_comment-block = ──────────────────────────────── RECHISELED BLOCKS ────────────────────────────────
+_comment-slab = ──────────────────────────────── RECHISELED SLABS ────────────────────────────────
+_comment-stairs = ──────────────────────────────── RECHISELED STAIRS ────────────────────────────────

@@ -1,0 +1,1 @@
+itemGroup.pretty_in_pink.base = Pretty In Pink 🗿

@@ -1,0 +1,1 @@
+appleskin.configuration.client = AppleSkin

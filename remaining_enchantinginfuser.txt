@@ -1,0 +1,1 @@
+gui.enchantinginfuser.tooltip.change = %s -> %s

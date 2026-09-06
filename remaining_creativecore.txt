@@ -1,0 +1,7 @@
+gui.minus = -
+gui.plus = +
+gui.del = x
+gui.config.reset = r
+gui.day = d
+gui.minute = m
+gui.second = s

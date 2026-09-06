@@ -1,0 +1,13 @@
+create_enchantment_industry.bookshelf.type.eterna = ETERNA
+create_enchantment_industry.gui.blaze_composer.super_mode.super = Super
+create_enchantment_industry.gui.blaze_enchanter.blaze_mode.super = Super
+create_enchantment_industry.gui.blaze_forger.blaze_mode.super = Super
+create_enchantment_industry.gui.goggles.affix_augmentor.rejected = %1$s: %2$s
+create_enchantment_industry.gui.goggles.blaze_composer.result.rejected_affix = %1$s: %2$s
+create_enchantment_industry.gui.goggles.bookshelf.eterna =  - ETERNA: 
+create_enchantment_industry.gui.goggles.forging.result.rejected_enchantment = %1$s: %2$s
+create_enchantment_industry.gui.goggles.gem_cutter.result_line = %1$s: %2$s -> %3$s
+create_enchantment_industry.gui.goggles.gem_cutter.result_purity = %1$s -> %2$s
+itemGroup.create_enchantment_industry.apotheotic = Create: Apotheotic Industry
+itemGroup.create_enchantment_industry.base = Create: Enchantment Industry
+tooltip.create_enchantment_industry.affix_template.effect.line =  - %1$s

@@ -1,0 +1,5 @@
+gui.libraryferret.props.description.k_e_y_-_p_r_o_p_s = 
+itemGroup.libraryferret.libraryferret = Library Ferret
+gui.libraryferret.props.name.k_e_y_-_p_r_o_p_s = 
+comment._________group________________.useless = _____________________________________________
+comment._________props________________.useless = _____________________________________________

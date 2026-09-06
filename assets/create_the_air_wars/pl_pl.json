@@ -286,7 +286,7 @@
   "item.create_the_air_wars.target_gunnergadget.tooltip.behaviour2": "Kliknij PPM na umieszczonego _Tomahawka_, aby skopiować zapisany cel.",
   "item.create_the_air_wars.target_gunnergadget.tooltip.behaviour3": "Zawsze _sprawdzaj dwukrotnie_ zapisane współrzędne przed wystrzałem.",
   "item.create_the_air_wars.target_gunnergadget.tooltip.condition1": "Użycie",
-  "item.create_the_air_wars.target_gunnergadget.tooltip.condition2": "Transfer",
+  "item.create_the_air_wars.target_gunnergadget.tooltip.condition2": "Transferuj",
   "item.create_the_air_wars.target_gunnergadget.tooltip.condition3": "Ważne",
   "item.create_the_air_wars.target_gunnergadget.tooltip.summary": "Przechowuje _współrzędne celu_ i stosuje je do _Tomahawka_.",
   "item.create_the_air_wars.test": "Monitor testowy",

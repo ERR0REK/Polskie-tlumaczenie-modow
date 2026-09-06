@@ -1,0 +1,7 @@
+block.computercraft.monitor_normal = Monitor
+commands.computercraft.generic.no = N
+gui.computercraft.config.http = HTTP
+gui.computercraft.config.http.proxy.port = Port
+gui.computercraft.config.term_sizes.monitor = Monitor
+itemGroup.computercraft = ComputerCraft
+tag.item.computercraft.monitor = Monitors

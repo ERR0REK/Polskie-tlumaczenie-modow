@@ -1,0 +1,4 @@
+toadlib.interpolation.catmullrom = Catmull-rom
+toadlib.interpolation.hermite = Hermite
+toadlib.screen.interp.info1 = E = 2.7182... π = 3.1415...
+toadlib.screen.hermite.bias = Bias

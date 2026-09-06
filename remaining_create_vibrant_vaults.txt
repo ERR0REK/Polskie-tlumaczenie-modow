@@ -1,0 +1,1 @@
+itemGroup.create_vibrant_vaults.base = Create: Vibrant Vaults

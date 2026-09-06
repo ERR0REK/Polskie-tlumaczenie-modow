@@ -200,5 +200,6 @@
   "item.create_sa.blazing_axe.description_0": "kurczak",
   "enchantment.create_sa.hellfire": "Piekielny ogień",
   "entity.create_sa.brass_drone": "Mosiężny dron",
-  "entity.create_sa.vault_module": "Moduł skarbca"
+  "entity.create_sa.vault_module": "Moduł skarbca",
+  "enchantment.create_sa.disabled": "Wyłączony"
 }

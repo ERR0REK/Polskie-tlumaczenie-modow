@@ -1,0 +1,45 @@
+____comment = Colors are in #RRGGBB format
+quark.gui.color.crate_count = #404040
+quark.gui.color.matrix_enchanting = #404040
+quark.gui.enchanting.min = %d+
+quark.gui.celebration.edballs = Ed Balls
+_quark.config.tl_note1 = Additional translation keys for config elements can be added here
+_quark.config.tl_note2 = The format is quark.config.[(category).]+.(name).<name|desc>
+_quark.config.tl_note3 = where (name) is lower case, with spaces replaced with underscores, and all non alphanumerical characters stripped
+_quark.config.tl_note4 = Any non localized entries will revert to the default english values in the config
+_quark.config.tl_note5 = This localization is only for the ingame viewer, and will not affect the config file. Additional .descs can be added at will
+_quark.config.tl_note6 = Descriptions can be removed by translating them to an empty key, if desired. Use 
+ to split lines
+_quark.config.tl_note7 = See below for examples (with the key prefixed by _) so it doesnt load ingame: 
+_quark.config.automation.feeding_trough.name = Test 100
+_quark.config.automation.feeding_trough.desc = Yeah I'm testing
+With multiple lines too!
+_quark.config.automation.feeding_trough.max_animals.name = Testeroni
+_quark.config.automation.feeding_trough.max_animals.desc = Testerino with one line
+_quark.config.automation.feeding_trough.love_chance.name = This do be a test doe
+_quark.config.automation.feeding_trough.love_chance.desc = 
+quark.camera.filter.sepia = Sepia
+quark.camera.filter.notch = Retro
+quark.camera.filter.sobel = Sobel
+quark.camera.borders2 = 4:3
+quark.camera.borders3 = 16:9
+quark.camera.borders4 = 21:9
+quark.camera.borders5 = Polaroid
+quark.jei.hint.preamble = [Quark]
+
+quark.keybind.patreon_emote.tpose = T-Pose (Patreon)
+quark.keybind.patreon_emote.dab = Dab (Patreon)
+quark.keybind.patreon_emote.zombie = Zombie (Patreon)
+quark.subtitles.soda = SODA !!
+quark.subtitles.kingbdogz = Kingbdogz
+quark.emote.facepalm = Facepalm
+quark.emote.dab = Dab
+quark.emote.tpose = T-Pose
+quark.emote.zombie = Zombie
+quark.emote.jet = Jet
+quark.misc.enchantment_with_actual_level = %s (%s)
+item.quark.music_disc_endermosh.desc = Kain Vinosec - Endermosh
+_biome_map_comment = The following translation keys are only relevant to maps generated before Quark 354.
+entity.quark.shiba = Shiba
+advancements.quark.influence.title = Influencer
+advancements.quark.tatami_gaeshi.title = TATAMI GAESHI!

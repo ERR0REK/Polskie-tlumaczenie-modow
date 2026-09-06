@@ -1,0 +1,5 @@
+curios.name = Curios
+curios.slot = Slot
+curios.modifiers.slots.plus = +%s %s Slot
+curios.modifiers.slots.take = %s %s Slot
+key.curios.category = Curios

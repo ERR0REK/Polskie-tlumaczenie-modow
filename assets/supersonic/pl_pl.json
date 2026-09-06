@@ -1,0 +1,12 @@
+{
+  "itemGroup.examplemod": "Przykładowa Zakładka Moda",
+  "block.examplemod.example_block": "Przykładowy Blok",
+  "item.examplemod.example_item": "Przykładowy Przedmiot",
+  "examplemod.configuration.title": "Konfiguracja Przykładowego Moda",
+  "examplemod.configuration.section.examplemod.common.toml": "Konfiguracja Przykładowego Moda",
+  "examplemod.configuration.section.examplemod.common.toml.title": "Konfiguracja Przykładowego Moda",
+  "examplemod.configuration.items": "Lista Przedmiotów",
+  "examplemod.configuration.logDirtBlock": "Logowanie Bloku Ziemi",
+  "examplemod.configuration.magicNumberIntroduction": "Tekst Magicznej Liczby",
+  "examplemod.configuration.magicNumber": "Magiczna Liczba"
+}

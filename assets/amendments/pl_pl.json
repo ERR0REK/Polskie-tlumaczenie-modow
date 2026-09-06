@@ -64,7 +64,7 @@
   "item.amendments.dye_bottle.navy": "Granatowy",
   "item.amendments.dye_bottle.sky_blue": "Błękitny",
   "item.amendments.dye_bottle.azure": "Lazurowy",
-  "item.amendments.dye_bottle.cerulean": "Cerulean",
+  "item.amendments.dye_bottle.cerulean": "Błękitny",
   "item.amendments.dye_bottle.cobalt": "Kobaltowy",
   "item.amendments.dye_bottle.sapphire": "Szafirowy",
   "item.amendments.dye_bottle.rose": "Różany",
@@ -105,5 +105,6 @@
   "tag.moonlight.amendments.soft_fluid.cant_extinguish": "Nie gasi",
   "tag.moonlight.amendments.soft_fluid.cant_go_in_liquid_cauldron": "Nie może być w kotle z cieczą",
   "tag.moonlight.amendments.soft_fluid.no_tint_in_cauldron": "Bez zabarwienia w kotle",
-  "tag.worldgen.amendments.structure.add_potion_cauldron": "Dodaj kociołek z miksturą"
+  "tag.worldgen.amendments.structure.add_potion_cauldron": "Dodaj kociołek z miksturą",
+  "message.amendments.ebe_warning": "[Amendments] Enhanced Block Entities jest zainstalowany. Tabliczki będą renderować się nieprawidłowo, a wiszące tabliczki nie będą się obracać, dopóki nie wyłączysz ich w konfiguracji EBE."
 }

@@ -1,0 +1,1 @@
+gui.aeronautics_utility_objects.damping_infinite = INF

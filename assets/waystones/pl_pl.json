@@ -253,7 +253,7 @@
   "tooltip.waystones.red_sharestone": "Teleportuj do dowolnego innego czerwonego Sharestone'a",
   "tooltip.waystones.undiscovered": "Nieodkryty",
   "tooltip.waystones.yellow_sharestone": "Teleportuj do dowolnego innego żółtego Sharestone'a",
-  "waystones.configuration.blueMap": "BlueMap",
+  "waystones.configuration.blueMap": "Niebieski Map",
   "waystones.configuration.blueMap.enabled": "Włącz wsparcie BlueMap",
   "waystones.configuration.blueMap.enabled.tooltip": "Kontroluje, czy integracja z BlueMap ma być załadowana.",
   "waystones.configuration.blueMap.includeSharestones": "Uwzględnij Sharestone'y",
@@ -350,5 +350,9 @@
   "waystones.iconCredits": "Ikony stworzone przez JoeCreates (CC-BY-SA 3.0)",
   "waystones.map.untitled_waystone": "Waystone bez nazwy",
   "waystones.untitled_waystone": "Waystone bez nazwy",
-  "waystones:warp_plate": "Płyta teleportacyjna"
+  "waystones:warp_plate": "Płyta teleportacyjna",
+  "waystones.configuration.general.allowEveryoneToManageGlobalWaystones": "Zezwól wszystkim na zarządzanie globalnymi kamieniami drogowymi",
+  "waystones.configuration.general.allowEveryoneToManageGlobalWaystones.tooltip": "Określa, czy każdy gracz może tworzyć i usuwać globalne kamienie drogowe.",
+  "waystones.configuration.general.warpPlateCooldownTime": "Czas odnowy płyty teleportacyjnej",
+  "waystones.configuration.general.warpPlateCooldownTime.tooltip": "Czas w sekundach, jaki musi upłynąć między kolejnymi teleportacjami przez płytę teleportacyjną."
 }

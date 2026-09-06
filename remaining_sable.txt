@@ -1,0 +1,8 @@
+commands.sable.info.name = %s:
+commands.sable.info.name.tooltip = Serialization Pointer: %s
+commands.data.sub_level.get = %s on sub-level %s after scale factor of %s is %s
+commands.data.sub_level.modified = Modified sub-level auxiliary data of %s
+commands.data.sub_level.query = %s has the following auxiliary sub-level data: %s
+commands.sable.forceload.query.count = %s force-loading ticket(s) were found for %s sub-level(s) in %s:
+commands.sable.forceload.sub_level_name = %s:
+commands.sable.forceload.ticket =     %s

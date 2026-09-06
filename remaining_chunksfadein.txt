@@ -1,0 +1,3 @@
+settings.chunksfadein.units.degrees = °
+settings.chunksfadein.fade_mix_type.oklab = Oklab
+chunksfadein.keybinds = Chunks Fade In

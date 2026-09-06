@@ -30,5 +30,7 @@
   "trashcans.gui.whitelist.on": "Biała lista",
   "trashcans.gui.whitelist.off": "Czarna lista",
   "trashcans.gui.arrow.left": "Zmniejsz limit energii",
-  "trashcans.gui.arrow.right": "Zwiększ limit energii"
+  "trashcans.gui.arrow.right": "Zwiększ limit energii",
+  "trashcans.gui.item_trash_can.deleted_items.show": "Pokaż usunięte przedmioty",
+  "trashcans.gui.item_trash_can.deleted_items.hide": "Ukryj usunięte przedmioty"
 }

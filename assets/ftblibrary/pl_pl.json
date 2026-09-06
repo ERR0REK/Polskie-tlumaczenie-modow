@@ -25,7 +25,7 @@
   "gui.paste": "Wklej",
   "gui.cut": "Wytnij",
   "gui.other": "Inne",
-  "gui.server_forced": "Server Forced: %s",
+  "gui.server_forced": "Wymuszone przez serwer: %s",
   "gui.online": "Online",
   "gui.offline": "Offline",
   "gui.whitelist": "Biała lista",

@@ -3,79 +3,62 @@
   "block.advancednetherite.netherite_gold_block": "Blok Netherytowo-Złoty",
   "block.advancednetherite.netherite_emerald_block": "Blok Netherytowo-Szmaragdowy",
   "block.advancednetherite.netherite_diamond_block": "Blok Netherytowo-Diamentowy",
-
   "item.advancednetherite.netherite_iron_ingot": "Sztabka Netherytowo-Żelazna",
   "item.advancednetherite.netherite_gold_ingot": "Sztabka Netherytowo-Złota",
   "item.advancednetherite.netherite_emerald_ingot": "Sztabka Netherytowo-Szmaragdowa",
   "item.advancednetherite.netherite_diamond_ingot": "Sztabka Netherytowo-Diamentowa",
-
   "item.advancednetherite.netherite_iron_helmet": "Hełm Netherytowo-Żelazny",
   "item.advancednetherite.netherite_gold_helmet": "Hełm Netherytowo-Złoty",
   "item.advancednetherite.netherite_emerald_helmet": "Hełm Netherytowo-Szmaragdowy",
   "item.advancednetherite.netherite_diamond_helmet": "Hełm Netherytowo-Diamentowy",
-
   "item.advancednetherite.netherite_iron_chestplate": "Napierśnik Netherytowo-Żelazny",
   "item.advancednetherite.netherite_gold_chestplate": "Napierśnik Netherytowo-Złoty",
   "item.advancednetherite.netherite_emerald_chestplate": "Napierśnik Netherytowo-Szmaragdowy",
   "item.advancednetherite.netherite_diamond_chestplate": "Napierśnik Netherytowo-Diamentowy",
-
   "item.advancednetherite.netherite_iron_leggings": "Nogawice Netherytowo-Żelazne",
   "item.advancednetherite.netherite_gold_leggings": "Nogawice Netherytowo-Złote",
   "item.advancednetherite.netherite_emerald_leggings": "Nogawice Netherytowo-Szmaragdowe",
   "item.advancednetherite.netherite_diamond_leggings": "Nogawice Netherytowo-Diamentowe",
-
   "item.advancednetherite.netherite_iron_boots": "Buty Netherytowo-Żelazne",
   "item.advancednetherite.netherite_gold_boots": "Buty Netherytowo-Złote",
   "item.advancednetherite.netherite_emerald_boots": "Buty Netherytowo-Szmaragdowe",
   "item.advancednetherite.netherite_diamond_boots": "Buty Netherytowo-Diamentowe",
-
   "item.advancednetherite.netherite_iron_axe": "Siekiera Netherytowo-Żelazna",
   "item.advancednetherite.netherite_gold_axe": "Siekiera Netherytowo-Złota",
   "item.advancednetherite.netherite_emerald_axe": "Siekiera Netherytowo-Szmaragdowa",
   "item.advancednetherite.netherite_diamond_axe": "Siekiera Netherytowo-Diamentowa",
-
   "item.advancednetherite.netherite_iron_hoe": "Motyka Netherytowo-Żelazna",
   "item.advancednetherite.netherite_gold_hoe": "Motyka Netherytowo-Złota",
   "item.advancednetherite.netherite_emerald_hoe": "Motyka Netherytowo-Szmaragdowa",
   "item.advancednetherite.netherite_diamond_hoe": "Motyka Netherytowo-Diamentowa",
-
   "item.advancednetherite.netherite_iron_pickaxe": "Kilof Netherytowo-Żelazny",
   "item.advancednetherite.netherite_gold_pickaxe": "Kilof Netherytowo-Złoty",
   "item.advancednetherite.netherite_emerald_pickaxe": "Kilof Netherytowo-Szmaragdowy",
   "item.advancednetherite.netherite_diamond_pickaxe": "Kilof Netherytowo-Diamentowy",
-
   "item.advancednetherite.netherite_iron_shovel": "Łopata Netherytowo-Żelazna",
   "item.advancednetherite.netherite_gold_shovel": "Łopata Netherytowo-Złota",
   "item.advancednetherite.netherite_emerald_shovel": "Łopata Netherytowo-Szmaragdowa",
   "item.advancednetherite.netherite_diamond_shovel": "Łopata Netherytowo-Diamentowa",
-
   "item.advancednetherite.netherite_iron_sword": "Miecz Netherytowo-Żelazny",
   "item.advancednetherite.netherite_gold_sword": "Miecz Netherytowo-Złoty",
   "item.advancednetherite.netherite_emerald_sword": "Miecz Netherytowo-Szmaragdowy",
   "item.advancednetherite.netherite_diamond_sword": "Miecz Netherytowo-Diamentowy",
-
-  "itemGroup.advancednetherite.tab": "Advanced Netherite",
-
+  "itemGroup.advancednetherite.tab": "Zaawansowany Netheryt",
   "tooltip.advancednetherite.armor.enderman_passive": "%s Uspokaja Endermany, gdy noszone",
   "tooltip.advancednetherite.armor.piglin_passive": "%s Uspokaja Pigliny, gdy noszone",
   "tooltip.advancednetherite.armor.phantom_passive": "%s Uspokaja Fantomy, gdy noszone",
-
   "tooltip.advancednetherite.hoe.additional_crop_drops": "%s Szansa na dodatkowe plony podczas zbiorów",
-
   "tooltip.advancednetherite.pickaxe.additional_diamond_drop": "%s Szansa na dodatkowy Diament z rudy",
   "tooltip.advancednetherite.pickaxe.additional_emerald_drop": "%s Szansa na dodatkowy Szmaragd z rudy",
   "tooltip.advancednetherite.pickaxe.additional_gold_drop": "%s Szansa na dodatkowe Surowe Złoto z rudy",
   "tooltip.advancednetherite.pickaxe.additional_iron_drop": "%s Szansa na dodatkowe Surowe Żelazo z rudy",
-
   "tooltip.advancednetherite.sword.additional_enderman_mob_drop": "%s Szansa na dodatkową Perłę Kresu z Endermana",
   "tooltip.advancednetherite.sword.additional_piglin_mob_drop": "%s Szansa na dodatkową Sztabkę Złota z Piglina",
   "tooltip.advancednetherite.sword.additional_zombified_piglin_mob_drop": "%s Szansa na dodatkowe Złote Nuggety z Piglina-Zombie",
   "tooltip.advancednetherite.sword.additional_phantom_mob_drop": "%s Szansa na dodatkową Błonę Fantoma z Fantoma",
-
   "tooltip.advancednetherite.misc.press_shift_key": "Przytrzymaj %s, aby zobaczyć wszystkie bonusy",
   "tooltip.advancednetherite.misc.shift": "[SHIFT]",
   "tooltip.advancednetherite.misc.plus": "+",
-
   "advancements.advancednetherite.husbandry.netherite_diamond_hoe.title": "Dlaczego?",
   "advancements.advancednetherite.husbandry.netherite_diamond_hoe.description": "Wykonaj Motykę Netherytowo-Diamentową i odwiedź psychologa",
   "advancements.advancednetherite.nether.netherite_iron_armor.title": "Koniec z Fantomami",
@@ -90,19 +73,16 @@
   "advancements.advancednetherite.nether.obtain_netherite_iron_ingot.description": "Zdobądź Sztabkę Netherytowo-Żelazną",
   "advancements.advancednetherite.nether.obtain_netherite_diamond_block.title": "Bardzo drogi blok",
   "advancements.advancednetherite.nether.obtain_netherite_diamond_block.description": "Zdobądź Blok Netherytowo-Diamentowy",
-
   "config.advancednetherite.client": "Konfiguracja klienta",
   "config.advancednetherite.client.show_tooltips": "Pokazuj tooltipy dodane przez ten mod",
   "config.advancednetherite.client.matching_durability_bars": "Dopasuj kolor paska wytrzymałości",
   "config.advancednetherite.client.enable_search_bar": "Włącz wyszukiwarkę w zakładce Advanced Netherite",
   "config.advancednetherite.client.force_disable_dab_support": "Wymuś wyłączenie wsparcia dla moda Detail Armor Bar",
-
   "config.advancednetherite.common": "Konfiguracja wspólna",
   "config.advancednetherite.common.additional_drops": "Dodatkowe dropy",
   "config.advancednetherite.common.additional_drops.enable_additional_crop_drops": "Włącz dodatkowe dropy z upraw",
   "config.advancednetherite.common.additional_drops.enable_additional_ore_drops": "Włącz dodatkowe dropy rud",
   "config.advancednetherite.common.additional_drops.enable_additional_mob_drops": "Włącz dodatkowe dropy mobów",
-
   "config.advancednetherite.server": "Konfiguracja serwera",
   "config.advancednetherite.server.tool_properties": "Właściwości narzędzi",
   "config.advancednetherite.server.tool_properties.breaking_speed_multipliers": "Mnożniki szybkości kopania",
@@ -110,27 +90,23 @@
   "config.advancednetherite.server.tool_properties.breaking_speed_multipliers.netherite_gold": "Mnożnik szybkości kopania dla narzędzi Netherytowo-Złotych",
   "config.advancednetherite.server.tool_properties.breaking_speed_multipliers.netherite_emerald": "Mnożnik szybkości kopania dla narzędzi Netherytowo-Szmaragdowych",
   "config.advancednetherite.server.tool_properties.breaking_speed_multipliers.netherite_diamond": "Mnożnik szybkości kopania dla narzędzi Netherytowo-Diamentowych",
-
   "config.advancednetherite.server.additional_drops": "Dodatkowe dropy",
   "config.advancednetherite.server.additional_drops.crops": "Dodatkowe dropy z upraw",
   "config.advancednetherite.server.additional_drops.crops.wheat_drop_chance": "Dodatkowa szansa na pszenicę",
   "config.advancednetherite.server.additional_drops.crops.carrots_drop_chance": "Dodatkowa szansa na marchewki",
   "config.advancednetherite.server.additional_drops.crops.potatoes_drop_chance": "Dodatkowa szansa na ziemniaki",
   "config.advancednetherite.server.additional_drops.crops.beetroots_drop_chance": "Dodatkowa szansa na buraki",
-
   "config.advancednetherite.server.additional_drops.mobs": "Dodatkowe dropy mobów",
   "config.advancednetherite.server.additional_drops.mobs.phantom_drop_chance": "Dodatkowa szansa na drop Fantoma",
   "config.advancednetherite.server.additional_drops.mobs.zombified_piglin_drop_chance": "Dodatkowa szansa na drop Piglina-Zombie",
   "config.advancednetherite.server.additional_drops.mobs.piglin_drop_chance": "Dodatkowa szansa na drop Piglina",
   "config.advancednetherite.server.additional_drops.mobs.enderman_drop_chance": "Dodatkowa szansa na drop Endermana",
-
   "config.advancednetherite.server.additional_drops.ores": "Dodatkowe dropy rud",
   "config.advancednetherite.server.additional_drops.ores.raw_iron_drop_chance": "Dodatkowa szansa na Surowe Żelazo",
   "config.advancednetherite.server.additional_drops.ores.raw_gold_drop_chance": "Dodatkowa szansa na Surowe Złoto",
   "config.advancednetherite.server.additional_drops.ores.emerald_drop_chance": "Dodatkowa szansa na Szmaragd",
   "config.advancednetherite.server.additional_drops.ores.diamond_drop_chance": "Dodatkowa szansa na Diament",
   "config.advancednetherite.server.additional_drops.ores.gold_nugget_drop_chance": "Dodatkowa szansa na Złote Nuggety",
-
   "config.advancednetherite.screen.description.top": "Zainstaluj mod %s, aby edytować konfigurację dodaną przez %s z poziomu gry.",
   "config.advancednetherite.screen.description.bottom": "Zobacz stronę wiki po instrukcje.",
   "config.advancednetherite.screen.button.install_configured": "Zainstaluj %s",

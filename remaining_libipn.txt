@@ -1,0 +1,1 @@
+libipn.common.gui.config.modifier_key = Ctrl/Alt/Shift

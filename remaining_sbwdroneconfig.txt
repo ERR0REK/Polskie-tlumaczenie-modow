@@ -1,0 +1,16 @@
+tooltip.sbwdroneconfig.radar_jammer_tower.3 = Model: RTS Radar Tower by Sabri Ayes, CC BY 4.0.
+tooltip.sbwdroneconfig.fpv_goggles.3 = Model by LINE-O, CC BY 4.0.
+tooltip.sbwdroneconfig.delivery_drone.5 = Model: uAV by Phoenix..., CC BY 4.0.
+tooltip.sbwdroneconfig.glide_bomb.3 = Model: GP-4 Glide Bomb by KillCaptureDestroy, CC BY 4.0.
+tooltip.sbwdroneconfig.heavy_bomber_drone.5 = Model: Vampire UAV (BabaYaga) by Karosio, CC BY-NC-SA 4.0.
+itemGroup.sbwdroneconfig.main = SBW Drone Warfare
+screen.sbwdroneconfig.fuel_mixer.tooltip.redstone = Slot 3: Redstone
+screen.sbwdroneconfig.config.value = %s: %s
+screen.sbwdroneconfig.config.category.geranium_2 = Geranium-2
+screen.sbwdroneconfig.config.category.bayraktar_tb2 = Bayraktar TB2
+screen.sbwdroneconfig.config.category.audio = Audio
+overlay.sbwdroneconfig.lucas_speed = LUCAS SPD: %s
+entity.sbwdroneconfig.geranium_2 = Geranium-2
+item.sbwdroneconfig.geranium_2 = Geranium-2
+tooltip.sbwdroneconfig.ukrainian_bayraktar_tb2.5 = Model: Ukrainian Bayraktar TB2 by 42manako, CC BY 4.0.
+key.categories.sbwdroneconfig = SBW Drone Warfare

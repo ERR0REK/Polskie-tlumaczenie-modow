@@ -135,7 +135,7 @@
   "fc.config.restart.sync": "Ustawienia otrzymane podczas synchronizacji wymagają restartu klienta. Kontynuować?",
   "fc.config.restart.update": "Otrzymałeś aktualizację konfiguracji, która może wymagać restartu klienta. Skontaktuj się z operatorem serwera, jeśli masz pytania.",
   "fc.config.restart.update.client": "Wprowadziłeś zmiany w konfiguracjach, które wymagają restartu klienta.",
-  "fc.config.restart.update.client.prompt": "[Restart]",
+  "fc.config.restart.update.client.prompt": "[Restartuj]",
   "fc.config.restart.update.server": "Wprowadziłeś zmiany w konfiguracjach, które wymagają restartu serwera. Połączeni klienci zostali automatycznie zaktualizowani i powiadomieni; skontaktuj się z graczami i/lub personelem, aby zaplanować restart.",
   "fc.config.restart.warning": "Zmiana tego ustawienia będzie wymagać restartu!",
   "fc.config.restart.warning.config": "Niektóre ustawienia w tej konfiguracji będą wymagać restartu w przypadku zmiany!",

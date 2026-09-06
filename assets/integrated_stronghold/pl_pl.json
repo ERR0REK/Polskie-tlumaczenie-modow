@@ -1,0 +1,12 @@
+{
+  "item.integrated_stronghold.music_disc_sight": "Płyta muzyczna",
+  "item.integrated_stronghold.music_disc_sight.desc": "Cama - sight",
+  "item.integrated_stronghold.music_disc_forlorn": "Płyta muzyczna",
+  "item.integrated_stronghold.music_disc_forlorn.desc": "Cama - Forlorn",
+  "jukebox_song.integrated_stronghold.sight": "Cama - sight",
+  "jukebox_song.integrated_stronghold.forlorn": "Cama - Forlorn",
+  "item.integrated_stronghold.music_disc_sight.disc": "Cama - sight",
+  "item.integrated_stronghold.disc_fragment_sight": "Odra płyty",
+  "item.integrated_stronghold.disc_fragment_sight.desc": "Płyta Muzyczna - sight",
+  "itemGroup.integrated_stronghold": "Integrated Stronghold"
+}

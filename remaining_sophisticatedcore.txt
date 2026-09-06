@@ -1,0 +1,13 @@
+itemGroup.sophisticatedcore = Sophisticated Core
+item.sophisticatedcore.storage.tooltip.energy = %s FE
+item.sophisticatedcore.storage.tooltip.fluid = %s mB %s
+item.sophisticatedcore.storage.tooltip.fluid_empty = Empty tank
+gui.sophisticatedcore.upgrades.jukebox = Jukebox
+gui.sophisticatedcore.upgrades.crafting.tooltip = Crafting
+gui.sophisticatedcore.upgrades.jukebox.tooltip = Jukebox
+gui.sophisticatedcore.settings.buttons.context_player.tooltip = Player level settings
+gui.sophisticatedcore.settings.buttons.context_player.tooltip_detail = Apply to all backpacks/storages unless overriden
+key.category.sophisticatedcore.main = Sophisticated Mods
+sophisticatedcore.configuration.enabledItems.tooltip = Prefilled with all supported items. Change |true to |false to disable one.
+Format: item_id|true_or_false
+Example: sophisticatedbackpacks:smelting_upgrade|true

@@ -1,0 +1,4 @@
+configuration.mekanismgenerators.server.hohlraum = Hohlraum
+container.mekanismgenerators.bio_generator = Bio-Generator
+fission.mekanismgenerators.scram = SCRAM
+item.mekanismgenerators.hohlraum = Hohlraum

@@ -1,0 +1,4 @@
+elytratrims.item.glow = §7Glowing
+elytratrims.item.model1 = §7§oElytra 3D model can be configured
+elytratrims.item.model2 = §7§oin the Elytra Trims config
+elytratrims.config.title = Elytra Trims

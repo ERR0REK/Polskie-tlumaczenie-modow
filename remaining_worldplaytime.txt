@@ -1,0 +1,1 @@
+worldplaytime.format = %sh

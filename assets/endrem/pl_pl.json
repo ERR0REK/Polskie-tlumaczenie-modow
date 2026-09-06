@@ -1,114 +1,80 @@
 {
   "item.endrem.old_eye": "Stare Oko",
   "item.endrem.old_eye.description": "§7§oLegenda głosi, że to oko należało kiedyś do jednego z wielkich pustynnych robaków",
-
   "item.endrem.rogue_eye": "Przemyślne Oko",
   "item.endrem.rogue_eye.description": "§7§oUważa się, że to oko dało naszym przodkom wiedzę o redstone",
-
   "item.endrem.nether_eye": "Netherowe Oko",
   "item.endrem.nether_eye.description": "§7§oZostało zgubione przez demona w bitwie między Eterem a Netherem",
-
   "item.endrem.cold_eye": "Zimne Oko",
   "item.endrem.cold_eye.description": "§7§oJedyny z ostatnich artefaktów pozostawionych przez lodologów, zanim nagle zniknęli ze świata",
-
   "item.endrem.magical_eye": "Magiczne Oko",
   "item.endrem.magical_eye.description": "§7§oBez tego oka przywoływacz nie ma mocy",
-
   "item.endrem.black_eye": "Czarne Oko",
   "item.endrem.black_eye.description": "§7§oPiratów mówi, że dało wzrok legendarnej Czarnej Perle",
-
   "item.endrem.lost_eye": "Zagubione Oko",
   "item.endrem.lost_eye.description": "§7§oMówi się, że zostało wykute przez pierwszych kowali w dziejach",
-
   "item.endrem.wither_eye": "Oko Withera",
   "item.endrem.wither_eye.description": "§7§oWidziało zniszczenie. Być może widziało też, jak znikają twoje rzeczy",
-
   "item.endrem.guardian_eye": "Oko Strażnika",
   "item.endrem.guardian_eye.description": "§7§oWidziało wielu wojowników tonących w głębinach morza",
-
   "item.endrem.cursed_eye": "Przeklęte Oko",
   "item.endrem.cursed_eye.description": "§7§oPotężny, lecz destrukcyjny artefakt; pigliny przysięgły go chronić za cenę własnego życia",
-
   "item.endrem.exotic_eye": "Egzotyczne Oko",
   "item.endrem.exotic_eye.description": "§7§oCi, którzy poszli za tym okiem, nigdy więcej nie zostali zauważeni; plotki głosiły, że odnaleźli wielkie miasto Atlantydę lub zgubili się, próbując to zrobić",
-
   "item.endrem.evil_eye": "Złe Oko",
   "item.endrem.evil_eye.description": "§7§oŚwięty talizman, który ma chronić właściciela przed pechem",
-
   "item.endrem.undead_eye": "Oko Nieumarłego",
   "item.endrem.undead_eye.description": "§7§oPamiątka minionego życia tych, którzy żyją w stanie śmierci",
-
   "item.endrem.cryptic_eye": "Kryptyczne Oko",
   "item.endrem.cryptic_eye.description": "§7§o§khttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
-
   "item.endrem.corrupted_eye": "Skażone Oko",
   "item.endrem.corrupted_eye.description": "§7§oOko chciwego króla, które zgasło w samotności; legenda głosi, że przyniesie właścicielowi nieskończone bogactwo",
-
   "item.endrem.witch_eye": "Oko Wiedźmy",
   "item.endrem.witch_eye.description": "§7§oWierzy się, że ta źrenica widziała starożytne przepisy warzenia, które zaginęły w czasie.",
   "item.endrem.witch_pupil": "Źrenica Wiedźmy",
-
   "item.endrem.undead_soul": "Dusza Nieumarłego",
-
   "block.endrem.ancient_portal_frame": "Starożytna rama portalu",
-
   "block.endrem.ender_eye.warning": "Oko nie chce być użyte",
   "block.endrem.custom_eye.place": "Oka nie można umieścić",
   "block.endrem.custom_eye.frame_has_eye": "Rama ma już oko",
-
   "itemGroup.endrem.endrem_tab": "End Remastered",
-
   "block.portal_open_sound": "Otwarcie portalu",
   "block.portal_open_sound.sub": "Otwarcie portalu",
-
   "advancements.main.root.title": "Początek przygody",
   "advancements.main.root.description": "Zdobądź swoje pierwsze oko",
-
   "advancements.main.old_eye.title": "Poszukiwacz fortuny",
   "advancements.main.old_eye.description": "Zdobądź swoje pierwsze stare oko",
-
   "advancements.main.rogue_eye.title": "Witaj w dżungli",
   "advancements.main.rogue_eye.description": "Zdobądź swoje pierwsze przemyślne oko",
-
   "advancements.main.nether_eye.title": "Spojrzyj w otchłań rozpaczy",
   "advancements.main.nether_eye.description": "Zdobądź swoje pierwsze netherowe oko",
-
   "advancements.main.cold_eye.title": "Miłe spojrzenie",
   "advancements.main.cold_eye.description": "Zdobądź swoje pierwsze zimne oko",
-
-  "advancements.main.corrupted_eye.title": "Zasyp mnie szmaragdami", "%%%%%%Comment%%%%%%": "Golden Shower pasuje lepiej, ale cokolwiek...",
+  "advancements.main.corrupted_eye.title": "Zasyp mnie szmaragdami",
+  "%%%%%%Comment%%%%%%": "Golden Shower pasuje lepiej, ale cokolwiek...",
   "advancements.main.corrupted_eye.description": "Zdobądź swoje pierwsze skażone oko",
-
   "advancements.main.magical_eye.title": "Poległy czarownik",
   "advancements.main.magical_eye.description": "Zdobądź swoje pierwsze magiczne oko",
-
   "advancements.main.black_eye.title": "Argh, gdzie podział się mój okręt?",
   "advancements.main.black_eye.description": "Zdobądź swoje pierwsze czarne oko",
-
   "advancements.main.lost_eye.title": "Potrzebujesz mapy?",
   "advancements.main.lost_eye.description": "Zdobądź swoje pierwsze zagubione oko",
-
   "advancements.main.wither_eye.title": "Chcesz tego czy nie",
   "advancements.main.wither_eye.description": "Zdobądź swoje pierwsze oko Withera",
-
   "advancements.main.guardian_eye.title": "Kto teraz pilnuje świątyni?",
   "advancements.main.guardian_eye.description": "Zdobądź swoje pierwsze oko strażnika",
-
   "advancements.main.cursed_eye.title": "Nowy obrońca...",
   "advancements.main.cursed_eye.description": "Zdobądź swoje pierwsze przeklęte oko",
-
   "advancements.main.witch_eye.title": "Cukierek albo psikus?",
   "advancements.main.witch_eye.description": "Zdobądź swoje pierwsze oko wiedźmy",
-
   "advancements.main.evil_eye.title": "Prawdziwe błogosławieństwo",
   "advancements.main.evil_eye.description": "Zdobądź swoje pierwsze złe oko",
-
   "advancements.main.exotic_eye.title": "Gdzie jest Atlantyda?",
   "advancements.main.exotic_eye.description": "Zdobądź swoje pierwsze egzotyczne oko",
-
   "advancements.main.undead_eye.title": "Lustro duszy",
   "advancements.main.undead_eye.description": "Zdobądź swoje pierwsze oko nieumarłego",
-
   "advancements.main.cryptic_eye.title": "Cierpliwość drogą do mądrości",
-  "advancements.main.cryptic_eye.description": "Zdobądź swoje pierwsze kryptyczne oko"
+  "advancements.main.cryptic_eye.description": "Zdobądź swoje pierwsze kryptyczne oko",
+  "item.endrem.ancient_portal_frame": "Starożytna ramka portalu",
+  "block.endrem.custom_eye.portal_not_built_well": "Portal nie jest prawidłowo zbudowany"
 }

@@ -42,5 +42,19 @@
   "create_central_kitchen.recipe.farmersdelight.automatic_food_cutting": "Automatyczne krojenie żywności",
   "create_central_kitchen.recipe.farmersdelight.automatic_food_sawing": "Automatyczne piłowanie żywności",
   "pack.create_central_kitchen.runtime": "Create: Central Kitchen",
-  "pack.create_central_kitchen.runtime.description": "Zasoby generowane w czasie rzeczywistym przez Create: Central Kitchen"
+  "pack.create_central_kitchen.runtime.description": "Zasoby generowane w czasie rzeczywistym przez Create: Central Kitchen",
+  "create_central_kitchen.ponder.cultural_delights_portioning.header": "Automatyzacja Parmezanu z Bakłażana",
+  "create_central_kitchen.ponder.cultural_delights_portioning.text_1": "Ramię mechaniczne może pobierać porcjowane dania bez dostarczania misek",
+  "create_central_kitchen.ponder.cultural_delights_portioning.text_2": "Ostatnia porcja pozostaje, dopóki nie zostanie zastąpiona nową kompletną ucztą",
+  "create_central_kitchen.ponder.festive_delight_chicken.header": "Automatyczna (nie do końca) Świąteczna Kurczak",
+  "create_central_kitchen.ponder.festive_delight_chicken.text_1": "Ramię mechaniczne pobiera cztery porcjowane dania i zostawia resztki",
+  "create_central_kitchen.ponder.hearth_and_harvest_cask.header": "Automatyzacja Beczek Hearth and Harvest",
+  "create_central_kitchen.ponder.hearth_and_harvest_cask.text_1": "Paczki są akceptowane tylko wtedy, gdy zawierają dokładnie jeden kompletny przepis na beczkę",
+  "create_central_kitchen.ponder.hearth_and_harvest_cask.text_2": "Panel przepisów wymaga jednej soli i trzech oddzielnych składników surowego mięsa.",
+  "create_central_kitchen.ponder.hearth_and_harvest_cask.text_3": "Rozpakowywanie jest atomowe, a każdy powtarzający się składnik zajmuje własny slot wejściowy",
+  "create_central_kitchen.ponder.hearth_and_harvest_cask.text_4": "Beczka następnie używa standardowego czasu starzenia 1200 ticków i zasad przetwarzania",
+  "create_central_kitchen.ponder.hearth_and_harvest_cask.text_5": "Ramię mechaniczne ignoruje składniki starzenia i wyciąga tylko gotowy produkt",
+  "create_central_kitchen.ponder.rustic_delight_pancakes.header": "Automatyzacja Stosów Naleśników",
+  "create_central_kitchen.ponder.rustic_delight_pancakes.text_1": "Ramię mechaniczne może pobierać naleśniki z każdego smakowego stosu",
+  "create_central_kitchen.ponder.rustic_delight_pancakes.text_2": "Dodawane są tylko pasujące naleśniki, do maksymalnie dwunastu w stosie"
 }

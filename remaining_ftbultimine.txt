@@ -1,0 +1,63 @@
+key.ftbultimine = FTB Ultimine
+key.categories.ftbultimine = FTB Ultimine
+item.ftbultimine.ultiminer = Ultiminer
+ftbultimine.client_settings.general.require_ultimine_key_for_cycling = Require Ultimine Key for Shape Cycling
+ftbultimine.client_settings.general.require_ultimine_key_for_cycling.tooltip = If true, the Ultimine key (` by default) must be held to cycle shapes via the keyboard (up/down cursor keys by default).
+If false, shapes can be cycled at any time.
+ftbultimine.client_settings.general.shape_feedback_hotbar_message = Hotbar Message on Shape Change
+ftbultimine.client_settings.general.shape_feedback_hotbar_message.tooltip = If true, show a feedback message with the new shape on the hotbar when the Ultimining shape is changed
+ftbultimine.client_settings.rendering = Rendering
+ftbultimine.client_settings.rendering.render_outline = Max. Blocks to Render Outline for
+ftbultimine.client_settings.rendering.preview_line_alpha = Render Outline Alpha
+ftbultimine.client_settings.rendering.preview_line_alpha.tooltip = Opacity of preview lines which are 'inside' blocks
+ftbultimine.client_settings.overlay = Overlay Panel
+ftbultimine.client_settings.overlay.require_sneak_for_menu = Require Sneak for Shape Menu
+ftbultimine.client_settings.overlay.require_sneak_for_menu.tooltip = When the Ultimine key is pressed, must the player also Sneak to show the shapes menu?
+ftbultimine.client_settings.overlay.shape_menu_context_lines = Shape Menu Context Lines
+ftbultimine.client_settings.overlay.shape_menu_context_lines.tooltip = When displaying the shape selection menu by holding the Ultimine key and sneaking at the same time, the number of shape names to display above and below the selected shape
+ftbultimine.client_settings.overlay.overlay_pos = Overlay Panel Position
+ftbultimine.client_settings.overlay.overlay_inset_x = Overlay Panel X Inset
+ftbultimine.client_settings.overlay.overlay_inset_x.tooltip = Inset is toward center of screen.
+Ignored if X pos is center.
+ftbultimine.client_settings.overlay.overlay_inset_y = Overlay Panel Y Inset
+ftbultimine.client_settings.overlay.overlay_inset_y.tooltip = Inset is toward center of screen.
+Ignored if Y pos is center.
+ftbultimine.client_settings.overlay.overlay_scale = Overlay Scaling
+ftbultimine.client_settings.overlay.overlay_scale.tooltip = Multiples of 0.25 are recommended for best font appearance
+ftbultimine.server_settings.features = Features
+ftbultimine.server_settings.features.right_click_axe = Axe: Right-Click multiple blocks
+ftbultimine.server_settings.features.right_click_hoe = Hoe: Right-Click multiple blocks
+ftbultimine.server_settings.features.right_click_shovel = Shovel: Right-Click multiple blocks
+ftbultimine.server_settings.features.right_click_harvesting = Allow Ultimine harvesting of crops
+ftbultimine.server_settings.features.right_click_crystals = Allow Ultimine harvesting of crystals
+ftbultimine.server_settings.features.right_click_crystals.tooltip = Requires the FTB Ez Crystals mod to be installed (NeoForge only)
+Harvest vanilla Amethyst and other modded crystals
+ftbultimine.server_settings.features.single_crop_harvesting = Single crop harvesting
+ftbultimine.server_settings.features.single_crop_harvesting.tooltip = When true, right-clicking a crop block without the Ultimine key held harvests it
+ftbultimine.server_settings.costs_limits = Costs & Limits
+ftbultimine.server_settings.costs_limits.max_blocks = Max Blocks per Operation
+ftbultimine.server_settings.costs_limits.max_blocks.tooltip = The maximum number of blocks which can be broken or modified in one operation
+If FTB Ranks is installed, the 'ftbultimine.max_blocks' node takes priority, if present
+ftbultimine.server_settings.costs_limits.exhaustion_per_block = Hunger Multiplier per Block Mined
+ftbultimine.server_settings.costs_limits.exhaustion_per_block.tooltip = This can be a fractional amount
+If FTB Ranks is installed, the 'ftbultimine.exhaustion_per_block' node takes priority, if present
+ftbultimine.server_settings.costs_limits.require_tool = Require Tool to Ultimine
+ftbultimine.server_settings.costs_limits.require_tool.tooltip = If true, players must have equipped either a damageable tool or an item in the 'ftbultimine:tools' item tag
+See also 'Require Valid Tool to Ultimine'
+ftbultimine.server_settings.costs_limits.require_valid_tool_for_block = Require Valid Tool to Ultimine
+ftbultimine.server_settings.costs_limits.require_valid_tool_for_block.tooltip = If true, the equipped tool must be valid for the block being ultimined,
+i.e. it must be able to harvest dropped items
+See also 'Require Tool to Ultimine'
+ftbultimine.server_settings.costs_limits.experience_per_block = XP Cost per Block Mined
+ftbultimine.server_settings.costs_limits.experience_per_block.tooltip = This can be a fractional amount
+If FTB Ranks is installed, the 'ftbultimine.experience_per_block' node takes priority, if present
+ftbultimine.server_settings.costs_limits.ultimine_cooldown = Ultimine cooldown (ticks)
+ftbultimine.server_settings.costs_limits.ultimine_cooldown.tooltip = Time in ticks required between successive uses of the Ultimine function
+20 ticks = 1 second
+If FTB Ranks is installed, the 'ftbultimine.ultimine_cooldown' node takes priority, if present
+ftbultimine.server_settings.misc = Miscellaneous
+ftbultimine.server_settings.misc.merge_tags = Merge Tags (Shapeless)
+ftbultimine.server_settings.misc.merge_tags.tooltip = For shapeless digging mode, any blocks in these tags which share a block tag with the original mined block are valid candidates for Ultimining.
+ftbultimine.server_settings.misc.merge_tags_shaped = Merge Tags (Shaped)
+ftbultimine.server_settings.misc.prevent_tool_break = Tool Breakage Protection
+ftbultimine.server_settings.misc.prevent_tool_break.tooltip = Ultimining will stop if the equipped tool has this much durability or less remaining. Setting this to 0 allows tools to break.

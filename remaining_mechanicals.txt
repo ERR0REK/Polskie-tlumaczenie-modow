@@ -1,0 +1,7 @@
+mechanicals.itemGroup:main = Mechanicals
+mechanicals.ui.recipe_requirement.biome.tooltip.value = %s
+mechanicals.ui.recipe_requirement.biome_tag.tooltip.value = #%s
+mechanicals.ui.recipe_requirement.max_speed.tooltip.value = %s RPM
+mechanicals.ui.recipe_requirement.max_y.tooltip.value = %s
+mechanicals.ui.recipe_requirement.min_speed.tooltip.value = %s RPM
+mechanicals.ui.recipe_requirement.min_y.tooltip.value = %s

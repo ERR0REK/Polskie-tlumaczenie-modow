@@ -1,0 +1,20 @@
+{
+  "key.categories.shuffle": "Przełączanie",
+  "key.shuffle.shuffle": "Przełączanie trybu tasowania",
+  "message.shuffle.enable": "Tryb tasowania: §aWłączony§r",
+  "message.shuffle.disable": "Tryb tasowania: §cWyłączony§r",
+  "shuffle.options.use_weighted_random": "Wybieranie bloków wg ilości w stosie",
+  "shuffle.options.use_weighted_random.tooltip": "Określa, czy bloki są wybierane losowo z uwzględnieniem ilości w stosie.",
+  "shuffle.options.enabled": "Włączony",
+  "shuffle.options.enabled.tooltip": "Określa, czy tryb tasowania jest włączony.",
+  "shuffle.options.keybind": "Przycisk",
+  "shuffle.options.keybind.tooltip": "Przycisk do przełączania trybu tasowania.",
+  "shuffle.options.slot": "Slot",
+  "shuffle.options.slot.tooltip": "Slot ekwipunku do tasowania.",
+  "shuffle.options.play_sound_effects": "Odtwarzaj efekty dźwiękowe",
+  "shuffle.options.play_sound_effects.tooltip": "Gdy włączone, efekt dźwiękowy jest odtwarzany przy przełączaniu trybu shuffle.",
+  "shuffle.options.hotbar_lock": "Zablokuj sloty paska",
+  "shuffle.options.hotbar_lock.description": "Kliknij slot paska, aby wyłączyć go z możliwości przetasowania.",
+  "shuffle.options.hotbar_lock.tooltip.off": "Zablokuj slot %s",
+  "shuffle.options.hotbar_lock.tooltip.on": "Odblokuj slot %s"
+}

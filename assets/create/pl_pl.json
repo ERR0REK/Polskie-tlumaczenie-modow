@@ -3578,5 +3578,6 @@
   "tag.item.create.upgrade_aquatic.coral": "Ulepsz wodny koral",
   "tag.item.create.upright_on_belt": "Wprost na pasach",
   "tag.item.create.valve_handles": "Uchwyty zaworów",
-  "tag.recipe_serializer.create.automation_ignore": "Nie automatyzowalne"
+  "tag.recipe_serializer.create.automation_ignore": "Nie automatyzowalne",
+  "create.chain_conveyor.cannot_connect_axially": "Nie można łączyć wzdłuż osi przenośnika"
 }

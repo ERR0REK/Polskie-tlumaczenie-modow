@@ -1,0 +1,6 @@
+{
+  "caelus.config": "Konfiguracja Caelus",
+  "caelus.title": "Caelus",
+  "caelus.fallFlying": "Lot w Dół",
+  "caelus.networking.failed": "Błąd Sieci Caelus: %s"
+}

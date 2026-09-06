@@ -1,0 +1,6 @@
+block.createdieselgenerators.biodiesel = Biodiesel
+block.createdieselgenerators.diesel = Diesel
+createdieselgenerators.generic.unit.mbps = mB/s
+createdieselgenerators.tooltip.keyAlt = Alt
+fluid.createdieselgenerators.biodiesel = Biodiesel
+fluid.createdieselgenerators.diesel = Diesel

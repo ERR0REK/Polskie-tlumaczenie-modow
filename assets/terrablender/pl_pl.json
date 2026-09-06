@@ -1,0 +1,6 @@
+{
+  "terrablender.title": "TerraBlender",
+  "terrablender.config": "Konfiguracja TerraBlender",
+  "commands.terrablender.biomeparams.success": "Parametry na pozycji %s %s %s: %s",
+  "commands.terrablender.biomeparams.failed": "Nie udało się określić parametrów"
+}

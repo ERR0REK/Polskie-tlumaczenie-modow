@@ -1,0 +1,3 @@
+_comment = #Moon Phases
+jer.dungeon.spawnBonusChest = Bonus
+jer.dungeon.iglooChest = Igloo

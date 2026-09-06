@@ -1,0 +1,6 @@
+entity.variantsandventures.gelid = Gelid
+entity.variantsandventures.murk = Murk
+entity.variantsandventures.thicket = Thicket
+entity.variantsandventures.verdant = Verdant
+item_group.variantsandventures.main_tab = Variants&Ventures
+yacl3.config.variantsandventures:variantsandventures = Variants&Ventures
