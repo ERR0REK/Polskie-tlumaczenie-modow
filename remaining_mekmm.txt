@@ -1,2 +1,0 @@
-block.mekmm.author_doll = LostMyself
-block.mekmm.modeler_doll = TedXenon

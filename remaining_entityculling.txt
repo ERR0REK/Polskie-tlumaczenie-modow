@@ -1,2 +1,0 @@
-text.entityculling.title = EntityCulling
-key.category.minecraft.text.entityculling.title = EntityCulling

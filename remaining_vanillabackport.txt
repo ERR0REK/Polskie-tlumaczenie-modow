@@ -1,8 +1,0 @@
-item.minecraft.music_disc_bounce.desc = fingerspit - Bounce
-item.minecraft.music_disc_lava_chicken.desc = Hyper Potions - Lava Chicken
-item.minecraft.music_disc_tears.desc = Amos Roddy - Tears
-jukebox_song.minecraft.bounce = fingerspit - Bounce
-jukebox_song.minecraft.lava_chicken = Hyper Potions - Lava Chicken
-jukebox_song.minecraft.tears = Amos Roddy - Tears
-painting.minecraft.dennis.author = Sarah Boeving
-painting.minecraft.dennis.title = Dennis

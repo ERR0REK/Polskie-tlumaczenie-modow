@@ -1,5 +1,0 @@
-block.cbcmoreshells.apfsds_shot.tooltip.title = APFSDS
-block.cbcmoreshells.apfsds_shot = APFSDS
-block.cbcmoreshells.sap_shell.tooltip.ballisticInfo = SAP
-block.cbcmoreshells.apbc_shot.tooltip.ballisticInfo = AP
-block.cbcmoreshells.apbc_shot = APBC

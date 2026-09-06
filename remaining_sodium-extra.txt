@@ -1,3 +1,0 @@
-options.particles.minecraft.portal = Portal
-sodium-extra.overlay.coordinates = X: %s, Y: %s, Z: %s
-sodium-extra.overlay.fps = %s FPS

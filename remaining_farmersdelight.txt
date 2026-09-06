@@ -1,3 +1,0 @@
-item.farmersdelight.hamburger = Hamburger
-itemGroup.farmersdelight = Farmer's Delight
-advancements.farmersdelight.root.title = Farmer's Delight

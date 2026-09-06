@@ -1,2 +1,0 @@
-cullleaves.midnightconfig.enabled.tooltip = Enables culling for leaves, providing a nice performance boost
-cullleaves.midnightconfig.cullRoots.tooltip = Enables culling for mangrove roots

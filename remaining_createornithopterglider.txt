@@ -1,2 +1,0 @@
-creativetab.createornithopterglider_tab = Create: Ornithopter Glider
-key.category.createornithopterglider.ornithopter = Create: Ornithopter Glider

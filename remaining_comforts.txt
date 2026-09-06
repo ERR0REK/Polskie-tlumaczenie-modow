@@ -1,2 +1,0 @@
-itemGroup.comforts = Comforts
-itemGroup.comforts.general = Comforts

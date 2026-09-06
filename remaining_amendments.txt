@@ -1,1 +1,0 @@
-item.amendments.dye_bottle.cerulean = Cerulean

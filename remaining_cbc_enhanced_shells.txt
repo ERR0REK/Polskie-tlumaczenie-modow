@@ -1,1 +1,0 @@
-tooltip.cbc_enhanced_shells.shift_key = [Shift]

@@ -1,4 +1,0 @@
-item.createaddition.brass_figurine.tooltip.summary = .
-block.createaddition.alternator = Alternator
-itemGroup.createaddition.main = Create Crafts & Additions
-createaddition.schedule.condition.threshold.unit = K⚡

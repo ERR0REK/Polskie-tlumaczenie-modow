@@ -1,5 +1,0 @@
-itemGroup.pipez = Pipez
-tooltip.pipez.distribution.round_robin = Round Robin
-message.pipez.filter.tag = Tag: %s
-message.pipez.filter.nbt = NBT: %s
-message.pipez.filter.nbt.tag = %s Tag

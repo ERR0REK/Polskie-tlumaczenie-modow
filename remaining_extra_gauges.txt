@@ -1,4 +1,0 @@
-extra_gauges.ponder.comparator_gauge.text_10 = a < b
-extra_gauges.ponder.expression_gauge.text_7 = a + log(b) - sqrt(2)
-extra_gauges.ponder.string_gauge.text_6 = 0
-itemGroup.extra_gauges = Create: Extra Gauges

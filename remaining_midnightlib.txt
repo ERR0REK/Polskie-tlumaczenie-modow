@@ -1,4 +1,0 @@
-midnightlib.midnightconfig.enum.ConfigButton.MODMENU = §bModMenu
-midnightlib.modrinth = Modrinth
-midnightlib.curseforge = CurseForge
-midnightlib.wiki = Wiki

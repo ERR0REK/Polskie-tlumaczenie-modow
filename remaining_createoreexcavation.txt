@@ -1,2 +1,0 @@
-info.coe.atlas.location2 = ~%s, *, ~%s
-itemGroup.createoreexcavation.create_ore_excavation = Create Ore Excavation

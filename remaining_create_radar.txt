@@ -1,9 +1,0 @@
-block.create_radar.identification_transponder.tooltip.summary = 
-block.create_radar.monitor = Monitor
-block.create_radar.radar_warning_receiver.tooltip.summary = 
-create_radar.display_source.radar = Radar
-create_radar.id_block.id_input = ID
-create_radar.monitor_coords = (X: %1$s; Y: %2$s; Z: %3$s)
-create_radar.monitor.offline = Radar offline
-create_radar.key.categories.create_radar = Create: Radar
-itemGroup.create_radar.radar = Create: Radars

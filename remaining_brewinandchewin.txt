@@ -1,6 +1,0 @@
-item.brewinandchewin.kimchi = Kimchi
-block.brewinandchewin.pizza = Pizza
-block.brewinandchewin.quiche = Quiche
-brewinandchewin.advancement.root = Brewin' and Chewin'
-itemGroup.brewinandchewin = Brewin' and Chewin'
-generic.unit.millibuckets = mB

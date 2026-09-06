@@ -1,5 +1,0 @@
-itemGroup.createrailwaysnavigator.tab = Create Railways Navigator
-gui.createrailwaysnavigator.navigator.title = Create Railways Navigator
-gui.createrailwaysnavigator.time_format.m = %s min.
-enum.createrailwaysnavigator.time_display.abs = ABS
-enum.createrailwaysnavigator.time_display.eta = ETA

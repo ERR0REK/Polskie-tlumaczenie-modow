@@ -1,3 +1,0 @@
-itemGroup.advancednetherite.tab = Advanced Netherite
-tooltip.advancednetherite.misc.shift = [SHIFT]
-tooltip.advancednetherite.misc.plus = +

@@ -1,2 +1,0 @@
-gui.corpse.death_history.date_format = yyyy/MM/dd HH:mm:ss
-config.jade.plugin_corpse.corpse = Corpse

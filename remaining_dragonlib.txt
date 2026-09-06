@@ -1,1 +1,0 @@
-dragonlib.time_format.m = %s min.

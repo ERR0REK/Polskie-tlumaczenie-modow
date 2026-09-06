@@ -1,6 +1,0 @@
-commands.moonlight.registry.element = %s : %s
-commands.moonlight.registry.registry_key = %s
-moonlight.config.common.min = Min
-moonlight.config.common.x = X
-moonlight.config.common.y = Y
-moonlight.config.common.z = Z

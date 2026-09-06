@@ -1,2 +1,0 @@
-rso.options.page = Reese's Sodium Options
-rso.options.value.milliseconds = %s ms

@@ -1,2 +1,0 @@
-item.create_deep_dark.echo_upgrade_smithing_template.description_1 = 
-item_group.create_deep_dark.create_deep_dark = Create: Deep Dark

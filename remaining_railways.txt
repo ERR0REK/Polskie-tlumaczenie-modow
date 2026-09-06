@@ -1,4 +1,0 @@
-railways.bogeys.styles.archbar = Archbar
-railways.bogeys.styles.blomberg = Blomberg
-railways.bogeys.styles.y25 = Y25
-railways.station.train_limit = Limit

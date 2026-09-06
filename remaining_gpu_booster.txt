@@ -1,3 +1,0 @@
-gb.config.dsa.var.core = Core
-gb.config.dsa.var.arb = ARB
-gb.config.smart_cull.simd = SIMD

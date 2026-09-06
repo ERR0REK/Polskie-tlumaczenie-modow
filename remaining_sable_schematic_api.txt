@@ -1,9 +1,0 @@
-item.sable_schematic_api.film = Film
-tooltip.sable_schematic_api.survival_blueprint.hash = Hash: %s
-sable_schematic_api.blueprint_tool.ui.ok = OK
-sable_schematic_api.blueprint_tool.ui.sublevel_uuid = UUID: %s
-sable_schematic_api.projector.ui.film = Film: %s
-gui.sable_schematic_api.physics_manager.body_summary = %s · %s [%s] · %s · %s · %s%s
-gui.sable_schematic_api.physics_manager.field.uuid = UUID
-gui.sable_schematic_api.physics_manager.field.aabb_min = AABB min
-gui.sable_schematic_api.physics_manager.field.aabb_max = AABB max

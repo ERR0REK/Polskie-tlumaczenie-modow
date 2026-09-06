@@ -1,3 +1,0 @@
-gui.mechtrowel.stair_mode.auto = Auto
-gui.mechtrowel.auto = Auto
-gui.mechtrowel.slab_mode.auto = Auto

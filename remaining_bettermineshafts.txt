@@ -1,1 +1,0 @@
-text.autoconfig.bettermineshafts-fabric-1_21.title = YUNG's Better Mineshafts

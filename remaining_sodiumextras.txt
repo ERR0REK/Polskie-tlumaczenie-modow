@@ -1,4 +1,0 @@
-sodium.extras.options.common.millis = ms
-sodium.extras.options.displayfps.fps = FPS
-sodium.extras.options.displayfps.min = MIN
-sodium.extras.options.displayfps.gpu = GPU

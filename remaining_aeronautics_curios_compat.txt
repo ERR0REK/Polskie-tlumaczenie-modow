@@ -1,1 +1,0 @@
-key.categories.aeronautics_curios_compat = Aeronautics Curios Compat

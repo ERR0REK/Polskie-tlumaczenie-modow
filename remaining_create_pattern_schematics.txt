@@ -1,1 +1,0 @@
-create_pattern_schematics.schematic.tool.clone.description.3 = 

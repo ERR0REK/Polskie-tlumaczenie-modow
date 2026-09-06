@@ -1,8 +1,0 @@
-ldlib.gui.editor.configurator.nbt = NBT
-ldlib.gui.editor.name.hdr_intensity = HDR
-editor.open_project = [%s]
-property.flex.group = Flex
-property.flex = Flex
-property.z-index = z-index
-graph.logger.level.info = Info
-ldlib2.configuration.font.fontRenderMode = Renderer

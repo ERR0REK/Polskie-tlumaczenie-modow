@@ -1,4 +1,0 @@
-armorposer.configuration.title = Armor Poser
-armorposer.gui.poses.search.a_to_z = A-Z
-armorposer.gui.poses.search.z_to_a = Z-A
-text.autoconfig.armorposer.title = Armor Poser

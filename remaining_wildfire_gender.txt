@@ -1,4 +1,0 @@
-category.wildfire_gender.generic = Wildfire's Female Gender Mod
-fml.menu.mods.info.displayname.wildfire_gender = Wildfire's Female Gender Mod
-wildfire_gender.player_list.title = Female Gender Mod
-wildfire_gender.wardrobe.title = Wildfire's Female Gender Mod

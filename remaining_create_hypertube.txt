@@ -1,2 +1,0 @@
-itemGroup.create_hypertube = Create: Hypertube
-key.categories.hypertube = Create: Hypertube

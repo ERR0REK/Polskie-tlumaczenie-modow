@@ -1,1 +1,0 @@
-item_group.create_blaze_burner_fuels.create_blaze_burner_fuels = Create: Blaze Burner Fuels

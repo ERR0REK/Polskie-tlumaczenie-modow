@@ -1,3 +1,0 @@
-bits_n_bobs.ponder.chain_cog_flat.text_3 = 2x RPM
-bits_n_bobs.ponder.chain_cog_flat.text_4 = 1x RPM
-bits_n_bobs.ponder.foreign_label = Bits n Bobs

@@ -1,1 +1,0 @@
-tooltip.copycats.characteristics.copy_cat.title = ???
