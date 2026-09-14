@@ -364,4 +364,20 @@ Poniżej pełna lista 265 zmodyfikowanych modów. Dla każdego z nich dodano pli
 | Wersja Minecraft | 1.21.1 |
 | Pack format | 34 |
 | Łącznie modów | 265 |
+| Plików pl_pl.json | 261 (w tym 1 zagnieżdżony: TACZ custom gun pack) |
+| Lokalizacja plików | `assets/<mod>/lang/pl_pl.json` (układ resource packa) |
+| Przetłumaczonych kluczy | ~62 000 |
 | Język | Polski (pl_pl) |
+
+## Aktualizacja (wrzesień 2026)
+
+Synchronizacja z najnowszą wersją modpacka:
+
+- **Naprawa układu paczki**: wszystkie pliki przeniesione z `assets/<mod>/pl_pl.json` do `assets/<mod>/lang/pl_pl.json` — resource pack czyta tłumaczenia wyłącznie z podkatalogu `lang/`, więc w poprzednim układzie gra ignorowała całą zawartość
+- **888 nowych kluczy** przetłumaczonych z angielskiego i scalonych w 19 modach (m.in. Create Stats +323, Amendments +182, Moonlight +106, Create Structures Arise +119 — nowy plik)
+- **TACZ custom gun pack** — dodane kompletne polskie tłumaczenie w zagnieżdżonej ścieżce `tacz/custom/tacz_default_gun/assets/tacz/lang/pl_pl.json`
+- Weryfikacja: 0 brakujących kluczy względem `en_us.json` we wszystkich modach
+
+## Licencja
+
+Paczka stworzona w celach edukacyjnych i do użytku własnego. Tłumaczenia należą do ich pierwotnych autorów.

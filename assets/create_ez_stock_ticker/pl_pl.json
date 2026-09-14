@@ -1,9 +1,0 @@
-{
-  "ez_stock_ticker.gui.enabled": "Ez Stock Ticker włączony",
-  "ez_stock_ticker.gui.enabled_description_1": "Pasek wyszukiwania automatycznie się zaznaczy, a obsługa wejścia ulegnie różnym zmianom.",
-  "ez_stock_ticker.gui.enabled_description_2": "Wypróbuj kombinacje shift, control, lewy klik, prawy klik i kółko myszy.",
-  "ez_stock_ticker.gui.disabled": "Ez Stock Ticker wyłączony",
-  "ez_stock_ticker.gui.disabled_description_1": "Obsługa wejścia giełdy odbywa się zgodnie z podstawowym Create,",
-  "ez_stock_ticker.gui.disabled_description_2": "ale pasek wyszukiwania nadal będzie automatycznie zaznaczany.",
-  "ez_stock_ticker.gui.click_to_toggle": "Kliknij aby przełączyć"
-}
