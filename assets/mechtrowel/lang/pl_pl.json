@@ -231,5 +231,21 @@
   "tooltip.mechtrowel.variant_on": "Automatyczna Konwersja Wariantów: WŁ",
   "tooltip.mechtrowel.wand_capacity": "Maksymalna liczba bloków: %s",
   "tooltip.mechtrowel.wand_enabled": "Różdżka",
-  "tooltip.mechtrowel.wand_mode_info": "Rozciąga bloki używając aktywnej palety"
+  "tooltip.mechtrowel.wand_mode_info": "Rozciąga bloki używając aktywnej palety",
+  "gui.mechtrowel.percentage.chance": "Szansa umieszczenia: %s%%",
+  "gui.mechtrowel.percentage.locked": "Szansa zablokowana: %s%%",
+  "gui.mechtrowel.percentage.edit": "\nPrzewiń lub kliknij, aby zmienić",
+  "gui.mechtrowel.percentage.lock": "\nPrawy przycisk, aby zablokować",
+  "gui.mechtrowel.percentage.unlock": "\nPrawy przycisk, aby odblokować",
+  "gui.mechtrowel.block.enabled": "Blok włączony",
+  "gui.mechtrowel.block.disabled": "Blok wyłączony",
+  "gui.mechtrowel.block.enable": "\nKliknij, aby włączyć",
+  "gui.mechtrowel.block.disable": "\nKliknij, aby wyłączyć",
+  "message.mechtrowel.wand_invalid_face": "Użyj innej ściany, aby umieścić %s.",
+  "message.mechtrowel.wand_undo_excluded": "Niektórych bloków nie można cofnąć",
+  "message.mechtrowel.palette_disabled": "Włącz blok w swojej palecie",
+  "mechtrowel.configuration.placeBlacklistBlocks": "Czarna lista umieszczania",
+  "mechtrowel.configuration.placeBlacklistBlocks.tooltip": "Bloki, których kielnia nigdy nie może umieszczać, także w trybie szybkim",
+  "mechtrowel.configuration.placeBlacklistTags": "Tagi czarnej listy umieszczania",
+  "mechtrowel.configuration.placeBlacklistTags.tooltip": "Tagi bloków, których kielnia nigdy nie może umieszczać. Poprzedź tagi znakiem #"
 }

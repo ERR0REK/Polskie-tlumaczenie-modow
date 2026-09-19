@@ -223,7 +223,7 @@
   "tooltip.tacz.ammo_box.usage.creative.1": "Weź pudełko w inwentarzu i kliknij prawym na amunicję",
   "tooltip.tacz.ammo_box.usage.creative.2": "Następnie można dostarczać nieograniczoną ilość amunicji tego typu",
   "tooltip.tacz.ammo_box.usage.deposit": "- Wpłać amunicję: Weź pudełko w inwentarzu i kliknij prawym na amunicję",
-  "tooltip.tacz.ammo_box.usage.remove": "- Usuń amunicję: Weź pudełko w inwentarzu i kliknij prawym na pusty slot",
+  "tooltip.tacz.ammo_box.usage.remove": "- Usuń amunicję: Weź pudełko do ekwipunku i kliknij prawym na pusty slot",
   "tooltip.tacz.attachment.ads.decrease": "- Czas celowania",
   "tooltip.tacz.attachment.ads.increase": "+ Czas celowania",
   "tooltip.tacz.attachment.aim_inaccuracy.decrease": "- Niecelność przy celowaniu",

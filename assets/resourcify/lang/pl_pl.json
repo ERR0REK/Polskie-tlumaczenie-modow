@@ -98,7 +98,7 @@
   "resourcify.config.data-pack.title": "Włącz Przeglądanie Pakietów Danych",
   "resourcify.config.disable-gifs.description": "Wyłącz renderowanie GIF-ów przez Resourcify. Może to pomóc w zmniejszeniu przycinań podczas ładowania obrazów.",
   "resourcify.config.disable-gifs.title": "Wyłącz Renderowanie GIF",
-  "resourcify.config.gui-scale.auto": "auto",
+  "resourcify.config.gui-scale.auto": "automatycznie",
   "resourcify.config.gui-scale.description": "Skala GUI, której Resourcify użyje na ekranach przeglądania i projektu. Możesz tu wpisać liczbę.",
   "resourcify.config.gui-scale.title": "Skala GUI",
   "resourcify.config.open_link.description": "Jeśli to możliwe, gdy klikniesz link, który może zostać otwarty w Resourcify (np. strona projektu na Modrinth), zostanie on otwarty w Resourcify.",

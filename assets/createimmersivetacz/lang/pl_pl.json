@@ -20,12 +20,12 @@
   "item.createimmersivetacz.pneumatic_pistol_casing": "Obudowa Pneumatycznego Pistoletem",
   "item.createimmersivetacz.gernade_casing": "Obudowa Pneumatycznego Granatu",
   "item.createimmersivetacz.40mmhe_casing": "Obudowa 40mm HE",
-  "item.createimmersivetacz.twelve_gauge_shell": "Nabój 12 Gauge",
+  "item.createimmersivetacz.twelve_gauge_shell": "Nabój 12-kalibrowy",
   "item.createimmersivetacz.gunpowder_bucket": "Wiadro Prochu Strzelniczego",
   "item.createimmersivetacz.nitropowder_bucket": "Wiadro Prochu Nitro",
   "item.createimmersivetacz.primer": "Kapsułka",
   "item.createimmersivetacz.firing_mechanism": "Mechanizm Strzelniczy",
-  "item.createimmersivetacz.incomplete_twelve_gauge_shell": "Nabój 12 Gauge",
+  "item.createimmersivetacz.incomplete_twelve_gauge_shell": "Nabój 12-kalibrowy (niedokończony)",
   "block.createimmersivetacz.test_block": "Bloki Testowy",
   "creativetab.create_immersive_tacz_tab": "Create: Immersive TaCZ"
 }

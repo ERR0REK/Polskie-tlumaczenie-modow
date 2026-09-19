@@ -75,7 +75,7 @@
   "create_mobile_packages.network.players": "Gracze w sieci:",
   "create_mobile_packages.network.owner": "Właściciel: %1$s",
   "item.create_mobile_packages.portable_stock_ticker.trash_menu": "Menu śmieci",
-  "tooltip.create_mobile_packages.bee_port.filter_mode.all": "Filter: Wszystkie Items",
+  "tooltip.create_mobile_packages.bee_port.filter_mode.all": "Filtr: Wszystkie przedmioty",
   "tooltip.create_mobile_packages.bee_port.filter_mode.packages": "Filtr: tylko paczki",
   "tooltip.create_mobile_packages.bee_port.filter_mode.bees": "Filtr: tylko roboty-pszczoły",
   "tooltip.create_mobile_packages.bee_port.filter_mode.description": "Kontroluje, jakie przedmioty mogą być wkładane i wyciągane przez leje, zsypy, lejki itp.",

@@ -1,0 +1,13 @@
+{
+  "stabilized.generic.swivel_cw_stabilized": "Zgodnie z zegarem -> Stabilizowane",
+  "stabilized.generic.swivel_ccw_stabilized": "Przeciwnie do zegara -> Stabilizowane",
+  "stabilized.simulated_section.stabilized": "Stabilizowane",
+  "block.stabilized.stabilizer_bearing": "Łożysko stabilizujące",
+  "block.stabilized.stabilizer_bearing.tooltip.behaviour1": "Zwiększa lub zmniejsza kąt odchylenia _Podłączonej konstrukcji_.",
+  "block.stabilized.stabilizer_bearing.tooltip.condition1": "Gdy Napędzane Kinetyką",
+  "block.stabilized.stabilizer_bearing.tooltip.behaviour2": "Resetuje kąt odchylenia _Podłączonej konstrukcji_ do 0°.",
+  "block.stabilized.stabilizer_bearing.tooltip.condition2": "Gdy Zasilane Redstone’em",
+  "block.stabilized.stabilizer_bearing.tooltip.summary": "Automatycznie stabilizuje _Symulowaną konstrukcję_ wzdłuż _jednej osi_.",
+  "advancement.stabilized.unlimited_stabilization": "Nieograniczona stabilizacja",
+  "advancement.stabilized.unlimited_stabilization.desc": "Złóż Symulowaną konstrukcję przy użyciu Łożyska stabilizującego"
+}

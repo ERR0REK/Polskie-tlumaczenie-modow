@@ -48,7 +48,7 @@
   "step.mode.no_slide": "Nie wysuwaj stopnia",
   "itemGroup.create_train_parts.base": "Create: Train Parts",
   "block.create_train_parts.pole": "Słup",
-  "block.create_train_parts.pole.tooltip.summary": "Słup, którego można użyć do rozszerzenia podstawy _Ramy szlabanu_",
+  "block.create_train_parts.pole.tooltip.summary": "Słup, za pomocą którego można rozszerzyć podstawę _Ramy szlabanu_",
   "create_train_parts.crossing.mode": "Tryb przejazdu",
   "create_train_parts.ponder.crossing.text_4": "Aby ostrzec graczy dźwiękowo, możesz dodać dzwon do ramy szlabanu",
   "create_train_parts.ponder.crossing.text_5": "Kliknij przejazd dzwonem, aby dodać go do ramy",

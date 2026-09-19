@@ -320,7 +320,7 @@
   "screen.create_aeronautics_toolgun.weld_selection_mode.free": "Swobodne celowanie",
   "screen.create_aeronautics_toolgun.query.radar": "Radar",
   "screen.create_aeronautics_toolgun.query.radar_scale": "R %s b",
-  "screen.create_aeronautics_toolgun.query.teleport_unloaded_hint": "Unloaded: the vehicle cannot be teleported, but you can teleport above it.",
-  "screen.create_aeronautics_toolgun.printer.preview_loading": "Loading blueprint preview...",
-  "screen.create_aeronautics_toolgun.hud.preview_loading": "Preview loading..."
+  "screen.create_aeronautics_toolgun.query.teleport_unloaded_hint": "Niezaładowany: pojazdu nie można teleportować, ale możesz teleportować się nad jego pozycję.",
+  "screen.create_aeronautics_toolgun.printer.preview_loading": "Wczytywanie podglądu schematu...",
+  "screen.create_aeronautics_toolgun.hud.preview_loading": "Wczytywanie podglądu…"
 }

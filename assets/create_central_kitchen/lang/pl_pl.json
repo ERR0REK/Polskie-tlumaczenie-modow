@@ -48,7 +48,7 @@
   "create_central_kitchen.ponder.cultural_delights_portioning.text_2": "Ostatnia porcja pozostaje, dopóki nie zostanie zastąpiona nową kompletną ucztą",
   "create_central_kitchen.ponder.festive_delight_chicken.header": "Automatyczna (nie do końca) Świąteczna Kurczak",
   "create_central_kitchen.ponder.festive_delight_chicken.text_1": "Ramię mechaniczne pobiera cztery porcjowane dania i zostawia resztki",
-  "create_central_kitchen.ponder.hearth_and_harvest_cask.header": "Automatyzacja Beczek Hearth and Harvest",
+  "create_central_kitchen.ponder.hearth_and_harvest_cask.header": "Automatyzacja beczek z Hearth and Harvest",
   "create_central_kitchen.ponder.hearth_and_harvest_cask.text_1": "Paczki są akceptowane tylko wtedy, gdy zawierają dokładnie jeden kompletny przepis na beczkę",
   "create_central_kitchen.ponder.hearth_and_harvest_cask.text_2": "Panel przepisów wymaga jednej soli i trzech oddzielnych składników surowego mięsa.",
   "create_central_kitchen.ponder.hearth_and_harvest_cask.text_3": "Rozpakowywanie jest atomowe, a każdy powtarzający się składnik zajmuje własny slot wejściowy",
@@ -56,5 +56,10 @@
   "create_central_kitchen.ponder.hearth_and_harvest_cask.text_5": "Ramię mechaniczne ignoruje składniki starzenia i wyciąga tylko gotowy produkt",
   "create_central_kitchen.ponder.rustic_delight_pancakes.header": "Automatyzacja Stosów Naleśników",
   "create_central_kitchen.ponder.rustic_delight_pancakes.text_1": "Ramię mechaniczne może pobierać naleśniki z każdego smakowego stosu",
-  "create_central_kitchen.ponder.rustic_delight_pancakes.text_2": "Dodawane są tylko pasujące naleśniki, do maksymalnie dwunastu w stosie"
+  "create_central_kitchen.ponder.rustic_delight_pancakes.text_2": "Dodawane są tylko pasujące naleśniki, do maksymalnie dwunastu w stosie",
+  "create_central_kitchen.ponder.group.dragon_leg": "Smocze łapy",
+  "create_central_kitchen.ponder.group.eggplant_parmesan": "Uczty z bakłażana parmezańskiego",
+  "create_central_kitchen.ponder.group.festive_chicken": "Świąteczny kurczak",
+  "create_central_kitchen.ponder.group.pancakes": "Stosy naleśników",
+  "create_central_kitchen.ponder.group.portionable_foods": "Uczty i placki"
 }

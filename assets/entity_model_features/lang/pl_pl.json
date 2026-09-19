@@ -291,5 +291,7 @@
   "entity_model_features.config.asmmaths.tooltip": "Prawie zawsze chcesz to mieć WŁĄCZONE.\nGdy wyłączone, system animacji użyje bardziej kosztownego obliczeniowo drzewa wyrażeń, co może być przydatne do debugowania.",
   "entity_model_features.config.logASM": "Loguj stan skompilowanej matematyki",
   "entity_model_features.config.sulfur_cube_block": "Domyślna animacja bloku Sulfur Cube",
-  "entity_model_features.config.sulfur_cube_block.tooltip": "Automatycznie włącza domyślną animację wewnętrznych bloków Sulfur Cube; działa tak samo, jak dodanie załącznika 'sulfur_cube_block' do części 'cube' modelu z przesunięciem 0,0,0."
+  "entity_model_features.config.sulfur_cube_block.tooltip": "Automatycznie włącza domyślną animację wewnętrznych bloków Sulfur Cube; działa tak samo, jak dodanie załącznika 'sulfur_cube_block' do części 'cube' modelu z przesunięciem 0,0,0.",
+  "entity_model_features.config.parrot_shoulder_animate": "Papuga na ramieniu podąża za animacjami gracza",
+  "entity_model_features.config.parrot_shoulder_animate.tooltip": "Domyślnie automatycznie sprawia, że pozycja papugi na ramieniu podąża za animowaną pozycją gracza; nie jest to równoważne punktom przyczepu `parrot_left` i `parrot_right`, ponieważ te się nie obracają."
 }

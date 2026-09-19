@@ -26,7 +26,7 @@
   "option.create_train_perspective.advanced.blocked_players.tooltip": "Gracze o UUID znajdującym się na tej liście nie będą brani pod uwagę przez funkcje moda.",
   "option.create_train_perspective.advanced.blocked_players.error": "Nieprawidłowy UUID: %s",
   "option.create_train_perspective.advanced.disable_rotate_when_seated": "Wyłącz \"Obracanie podczas siedzenia\"",
-  "option.create_train_perspective.advanced.disable_rotate_when_seated.tooltip": "W wersji v0.5.1.g mod Create dodał opcję \"Rotate when Seated\".\n\nPonieważ ta opcja koliduje z tym modem, wyłączamy ją dla Ciebie.\n\nJeśli nie chcesz tego, możesz wyłączyć tę opcję, ale bez ręcznej konfiguracji wystąpią konflikty.",
+  "option.create_train_perspective.advanced.disable_rotate_when_seated.tooltip": "W wersji v0.5.1.g mod Create dodał opcję „Rotate when Seated”.⏎⏎Ponieważ ta opcja koliduje z tym modem, wyłączamy ją za Ciebie.⏎⏎Jeśli nie chcesz tego, możesz ją włączyć, ale bez ręcznej konfiguracji wystąpią konflikty.",
   "option.create_train_perspective.debug.debug_mode": "Włącz informacje debugowania",
   "option.create_train_perspective.debug.debug_mode.tooltip": "Wybierz tryb debugowania, aby wyświetlić wewnętrzne informacje. Może być przydatne, jeśli pracujesz nad samym modem.",
   "option.create_train_perspective.debug.debug_mode.none": "Brak",

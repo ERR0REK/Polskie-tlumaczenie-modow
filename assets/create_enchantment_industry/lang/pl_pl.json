@@ -464,8 +464,8 @@
   "create_enchantment_industry.ponder.experience_hatch.intro.header": "Wprowadzenie do Włazu Doświadczenia",
   "create_enchantment_industry.ponder.experience_hatch.intro.text_1": "Właz Doświadczenia jest prosty w użyciu. Kliknij PPM, aby przechować Doświadczenie",
   "create_enchantment_industry.ponder.experience_hatch.intro.text_2": "Kliknij Shift+PPM na Włazie, aby wyodrębnić przechowane Doświadczenie",
-  "create_enchantment_industry.ponder.experience_hatch.intro.text_3": "Na Włazie znajduje się slot filtra i panel przewijania. Możesz skonfigurować, ile Doświadczenia ma być pobierane za jednym razem",
-  "create_enchantment_industry.ponder.experience_hatch.intro.text_4": "Slot filtra służy do obsługi płynów doświadczenia z innych modów",
+  "create_enchantment_industry.ponder.experience_hatch.intro.text_3": "Na włazie znajduje się łącze filtra i panel przewijania. Możesz skonfigurować, ile Doświadczenia ma być pobierane za jednym razem",
+  "create_enchantment_industry.ponder.experience_hatch.intro.text_4": "Łącze filtra służy do obsługi płynów doświadczenia z innych modów",
   "create_enchantment_industry.ponder.experience_hatch.intro.text_5": "Załóżmy, że Ciekły Cyjanowy Barwnik jest płynem doświadczenia z innego moda",
   "create_enchantment_industry.ponder.experience_hatch.intro.text_6": "Umieść Wiadro Cyjanowego Barwnika w slocie filtra",
   "create_enchantment_industry.ponder.experience_hatch.intro.text_7": "Możesz teraz bezpośrednio wstawiać i wyodrębniać Cyjanowy Barwnik jako \"Cyjanowe Doświadczenie\"",
@@ -590,5 +590,6 @@
   "create_enchantment_industry.ponder.blaze_composer.super_composing.text_4": "Rzeczywiste limity poziomów i koszty esencji zależą od konfiguracji serwera; sprawdź je za pomocą Gogli Inżynierskich",
   "create_enchantment_industry.ponder.blaze_composer.super_composing.text_5": "Przy czystej ścieżce do nieba, odsłonięty pobliski piorunochron bezpiecznie przekierowuje uderzenie bez kary",
   "create_enchantment_industry.ponder.blaze_composer.super_composing.text_6": "Zablokowanie ścieżki uderzenia zapobiega piorunom, ale wynik losowo traci poziomy atrybutów; Gogle pokazują możliwy zakres strat",
-  "create_enchantment_industry.ponder.blaze_composer.super_composing.text_7": "Przy czystym niebie, ale bez piorunochronu, uderzenie niszczy Composera, zanim zdąży zakończyć"
+  "create_enchantment_industry.ponder.blaze_composer.super_composing.text_7": "Przy czystym niebie, ale bez piorunochronu, uderzenie niszczy Composera, zanim zdąży zakończyć",
+  "create_enchantment_industry.ponder.group.experience": "Doświadczenie"
 }

@@ -3,7 +3,6 @@
   "item_group.ashvehicle.ash-tank": "Ash Vehicle - Pojazdy lądowe",
   "item_group.ashvehicle.ash-ship": "Ash Vehicle - Statki",
   "item_group.ashvehicle.ash-item": "Ash Vehicle - Przedmioty",
-
   "entity.ashvehicle.aim9": "AIM-9 Sidewinder",
   "entity.ashvehicle.aim120": "AIM-120 AMRAAM",
   "entity.ashvehicle.r60": "Pocisk powietrze-powietrze R-60",
@@ -15,7 +14,6 @@
   "entity.ashvehicle.cbu87": "Municja kombinowana CBU-87",
   "entity.ashvehicle.gbu57": "Bomba penetrująca GBU-57 MOP",
   "entity.ashvehicle.nuke_bomb": "Bomba atomowa",
-
   "entity.ashvehicle.uh_60": "UH-60 Black Hawk",
   "entity.ashvehicle.mh_60m": "MH-60M Black Hawk",
   "entity.ashvehicle.f_16": "F-16 Fighting Falcon",
@@ -57,11 +55,10 @@
   "entity.ashvehicle.ah-64": "AH-64 Apache",
   "entity.ashvehicle.zelensky": "Zełenski",
   "entity.ashvehicle.f14": "F-14 Tomcat",
-
   "key.ashvehicle.open_coordinate": "Otwórz wprowadzanie współrzędnych",
   "key.ashvehicle.toggle_pod": "Przełącz zasobnik rakietowy",
   "key.ashvehicle.thermalvision": "Przełącz termowizję",
-  "key.ashvehicle.vtol_toggle": "Przełącz tryb VTOL (Pionowy start)",
+  "key.ashvehicle.vtol_toggle": "Przełącz tryb VTOL (pionowy start i lądowanie)",
   "key.ashvehicle.targeting_camera": "Kamera celownicza",
   "key.ashvehicle.thermal_toggle": "Termowizja",
   "key.ashvehicle.lock_target": "Namierz cel",
@@ -70,7 +67,6 @@
   "key.ashvehicle.zoom_in": "Przybliż",
   "key.ashvehicle.zoom_out": "Oddal",
   "key.categories.ashvehicle": "AshVehicle",
-
   "weapon.ashvehicle.close_bay": "Zamknij luk bombowy",
   "weapon.ashvehicle.agm114": "AGM-114 Hellfire",
   "weapon.ashvehicle.aim9": "AIM-9",
@@ -82,7 +78,6 @@
   "weapon.ashvehicle.agm158": "AGM-158 JASSM",
   "weapon.ashvehicle.cbu87": "CBU-87",
   "weapon.ashvehicle.gbu57": "GBU-57",
-
   "item.ashvehicle.agm158item": "Pocisk manewrujący AGM-158 JASSM",
   "item.ashvehicle.agm114item": "Pocisk rakietowy AGM-114 Hellfire",
   "item.ashvehicle.gbu57item": "Bomba penetrująca GBU-57 MOP",

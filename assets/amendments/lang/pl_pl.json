@@ -271,7 +271,7 @@
   "amendments.configuration.cauldron.potion_texture": "Tekstura mikstur",
   "amendments.configuration.cauldron.potion_texture.description": "Nadaje unikalną teksturę kotłom z miksturami",
   "amendments.configuration.jukebox": "Szafa grająca",
-  "amendments.configuration.jukebox.new_model": "Nowy model",
+  "amendments.configuration.jukebox.new_model": "Nowy model jukeboxa",
   "amendments.configuration.jukebox.new_model.description": "Używa nowego modelu szafy grającej",
   "amendments.configuration.jukebox.disc_spin": "Obrót płyty",
   "amendments.configuration.jukebox.disc_spin.description": "Sprawia, że płyta w szafie grającej się kręci podczas odtwarzania",

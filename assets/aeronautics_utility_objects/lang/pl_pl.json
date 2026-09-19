@@ -128,7 +128,7 @@
   "setting.aeronautics_utility_objects.giant_hydraulic_flow": "Przepływ zaworu",
   "setting.aeronautics_utility_objects.giant_hydraulic_pressure": "Ciśnienie zasilające",
   "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_flow.1": "Ogranicza objętość oleju przechodzącego przez zawór kierunkowy i bezpośrednio ogranicza prędkość cylindra.",
-  "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_flow.2": "40 L/min zachowuje nominalną prędkość; mniejszy przepływ spowalnia start, cofanie i jazdę.",
+  "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_flow.2": "40 L/min utrzymuje nominalną prędkość; mniejszy przepływ spowalnia start, cofanie i jazdę.",
   "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_pressure.1": "Ogranicza maksymalne ciśnienie zasilające i siłę cylindra.",
   "tooltip.aeronautics_utility_objects.gui.giant_hydraulic_pressure.2": "Nadmiar obciążenia naturalnie spowalnia lub zatrzymuje cylinder.",
   "item.aeronautics_utility_objects.hydraulic_hinge_head": "Andezytowa hydrauliczna głowica zawiasu",

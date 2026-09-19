@@ -99,5 +99,6 @@
   "text.jei_mekanism_multiblocks.result.energy_rate": "Szybkość zużycia energii",
   "text.jei_mekanism_multiblocks.result.merge_time": "Czas syntezy",
   "text.jei_mekanism_multiblocks.tooltip.click_to_simulate": "Kliknij, aby zasymulować '%s'",
-  "_eof": "_eof"
+  "_eof": "_eof",
+  "text.jei_mekanism_multiblocks.result.pcs_production": "Produkcja PCS"
 }

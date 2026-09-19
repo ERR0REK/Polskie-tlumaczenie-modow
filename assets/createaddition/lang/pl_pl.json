@@ -260,5 +260,6 @@
   "block.createaddition.accumulator.tooltip.behaviour2": "Przyjmuje _⚡_ z _drutów_ podłączonych do _złącza_ oznaczonego strzałką w dół.",
   "block.createaddition.electrum_block": "Blok elektru",
   "tag.fluid.c.ignites": "Palne płyny",
-  "block.createaddition.servo_motor": "Silnik servo"
+  "block.createaddition.servo_motor": "Silnik servo",
+  "block.createaddition.electric_pump": "Pompa elektryczna"
 }

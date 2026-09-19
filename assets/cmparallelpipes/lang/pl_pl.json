@@ -1,7 +1,7 @@
 {
   "cmparallelpipes.ponder.locked_pipe.header": "Blokowanie rur na ciecze",
   "cmparallelpipes.ponder.locked_pipe.text_1": "Rury na ciecze zawsze łączą się z innymi rurami na ciecze",
-  "cmparallelpipes.ponder.locked_pipe.text_2": "Klucz do rur może być użyty do zablokowania stanu łączności rury, podobnie jak obudowana rura",
+  "cmparallelpipes.ponder.locked_pipe.text_2": "Klucz do rur służy do zablokowania stanu połączeń rury, podobnie jak w przypadku obudowanej rury (Encased Pipe)",
   "cmparallelpipes.ponder.locked_pipe.text_3": "Rura na ciecze może być odblokowana ponownie kluczem do rur",
   "cmparallelpipes.ponder.outline_segment.header": "Obrysy i połączenia",
   "cmparallelpipes.ponder.outline_segment.text_1": "Obrysy i połączenia pomagają wizualnie odróżnić różne typy rur",

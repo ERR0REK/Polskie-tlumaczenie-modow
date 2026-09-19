@@ -171,7 +171,7 @@
   "tooltip.bits_n_bobs.flywheel_bearing.empty": "(puste)",
   "tooltip.bits_n_bobs.flywheel_bearing.flywheel_stats": "Statystyki Koła Zamachowego:",
   "tooltip.bits_n_bobs.flywheel_bearing.full": "(pełne)",
-  "tooltip.bits_n_bobs.flywheel_bearing.kinetic_transfer": "Transfer Kinetyczny:",
+  "tooltip.bits_n_bobs.flywheel_bearing.kinetic_transfer": "Transfer energii kinetycznej:",
   "tooltip.bits_n_bobs.flywheel_bearing.stored_stress": "Przechowywane JO:",
   "advancement.bits_n_bobs.dye_fluid_component": "Czy barwiłeś?",
   "advancement.bits_n_bobs.dye_fluid_component.desc": "Barw zbiornik na ciecze lub rurę",

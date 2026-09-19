@@ -131,7 +131,7 @@
   "fc.config.relog.warning": "Zmiana tego ustawienia będzie wymagać opuszczenia i ponownego dołączenia na bieżący serwer lub świat!",
   "fc.config.relog.warning.config": "Niektóre ustawienia w tej konfiguracji będą wymagać opuszczenia i ponownego dołączenia na bieżący serwer lub świat w przypadku zmiany!",
   "fc.config.relog.warning.section": "Niektóre ustawienia w tej sekcji będą wymagać opuszczenia i ponownego dołączenia na bieżący serwer lub świat w przypadku zmiany!",
-  "fc.config.restart": "Wymagany restart",
+  "fc.config.restart": "Wymagany restart gry",
   "fc.config.restart.sync": "Ustawienia otrzymane podczas synchronizacji wymagają restartu klienta. Kontynuować?",
   "fc.config.restart.update": "Otrzymałeś aktualizację konfiguracji, która może wymagać restartu klienta. Skontaktuj się z operatorem serwera, jeśli masz pytania.",
   "fc.config.restart.update.client": "Wprowadziłeś zmiany w konfiguracjach, które wymagają restartu klienta.",

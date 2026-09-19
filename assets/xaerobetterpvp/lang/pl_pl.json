@@ -65,7 +65,7 @@
   "gui.xaero_entity_info_armour": "Wyświetlanie informacji o zbroi",
   "gui.xaero_entity_info_potion_effects": "Efekty mikstur (tylko jednoosob.)",
   "gui.xaero_entity_info_potion_effects_scale": "Skala efektów mikstur",
-  "gui.xaero_item_tooltip": "Tooltip przedmiotu",
+  "gui.xaero_item_tooltip": "Podpowiedź przedmiotu",
   "gui.xaero_entity_tooltip_settings": "Ustawienia tooltipa przedmiotu",
   "gui.xaero_item_tooltip_min_lines": "Minimalnie linii",
   "gui.xaero_item_tooltip_time": "Wyświetlanie przez",
@@ -76,5 +76,5 @@
   "gui.xaero_held_centered_position": "Przedm. po wyśrodkowaniu",
   "gui.xaero_held_centered_position_screen_edges": "Krawędzie",
   "gui.xaero_held_centered_position_hotbar": "Pasek",
-  "gui.xaero_better_pvp_server_profiles": "[PL] Better PVP Server Settings"
+  "gui.xaero_better_pvp_server_profiles": "Serwerowe profile Better PVP"
 }

@@ -1,6 +1,6 @@
 {
   "_comment": "Konfiguracja NeoForge",
-  "item.measurements.tape_measure": "Miara tape",
+  "item.measurements.tape_measure": "Metrówka",
   "text.autoconfig.measurements.title": "Pomiary",
   "text.autoconfig.measurements.option.client": "Klient",
   "text.autoconfig.measurements.option.client.lineColor": "Kolor linii",

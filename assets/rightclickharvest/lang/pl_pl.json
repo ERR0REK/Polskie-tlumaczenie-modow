@@ -1,5 +1,5 @@
 {
-  "config.rightclickharvest.title": "Right Click Harvest Konfiguracja",
+  "config.rightclickharvest.title": "Konfiguracja zbierania prawym przyciskiem",
   "config.rightclickharvest.requireHoe": "Wymagaj Motyki",
   "config.rightclickharvest.requireHoe.tooltip": "Zezwalaj na zbieranie określonych plonów (np. pszenica, marchewki) tylko gdy gracz trzyma motykę w ręku.",
   "config.rightclickharvest.showServerWarning": "Show Serwer Ostrzeżenie",

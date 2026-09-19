@@ -3,7 +3,7 @@
   "settings.chunksfadein.no": "NIE",
   "settings.chunksfadein.on": "WŁ.",
   "settings.chunksfadein.off": "WYŁ.",
-  "settings.chunksfadein.title": "Ustawienia modyfikacji Chunks Fade In",
+  "settings.chunksfadein.title": "Ustawienia zanikania chunków",
   "settings.chunksfadein.reset": "Resetuj",
   "settings.chunksfadein.units.seconds": " sek",
   "settings.chunksfadein.units.blocks": " bl.",
@@ -81,7 +81,7 @@
   "settings.chunksfadein.world_curvature.tooltip": "Kontroluje obwód świata.\nWartości ujemne sprawiają, że świat zakrzywia się w górę zamiast w dół.",
   "settings.chunksfadein.iris_warning": "Ta opcja może powodować problemy w połączeniu z shaderami.",
   "settings.chunksfadein.sodium_page_name": "Pojawianie chunków",
-  "chunksfadein.keybinds": "Chunks Fade In",
+  "chunksfadein.keybinds": "Zanikanie chunków",
   "chunksfadein.keybinds.toggleMod": "Przełączanie pojawiania chunków",
   "chunksfadein.alerts.fading.enabled": "Pojawianie chunków włączone!",
   "chunksfadein.alerts.fading.disabled": "Pojawianie chunków wyłączone!"

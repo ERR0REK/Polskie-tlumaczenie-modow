@@ -97,7 +97,7 @@
   "block.cbc_enhanced_shells.powder_charge_mk3": "Ładunek miotający Wz.III",
   "block.cbc_enhanced_shells.powder_charge_mk4": "Ładunek miotający Wz.IV",
   "block.cbc_enhanced_shells.powder_charge_mk5": "Ładunek miotający Wz.V",
-  "tooltip.cbc_enhanced_shells.hold_shift": "Przytrzymaj [Shift], aby zobaczyć szczegóły",
+  "tooltip.cbc_enhanced_shells.hold_shift": "Przytrzymaj %s, aby zobaczyć szczegóły",
   "tooltip.cbc_enhanced_shells.damage": "Obrażenia",
   "tooltip.cbc_enhanced_shells.explosive_power": "Siła eksplozji",
   "tooltip.cbc_enhanced_shells.knockback": "Odrzut",

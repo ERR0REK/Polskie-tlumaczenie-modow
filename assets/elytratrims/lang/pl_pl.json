@@ -1,7 +1,7 @@
 {
   "elytratrims.command.response.get_mode": "Aktualny tryb %s to %s",
   "elytratrims.command.response.set_mode": "Tryb %s został ustawiony na %s",
-  "elytratrims.command.response.reset": "Konfiguracja reset!",
+  "elytratrims.command.response.reset": "Konfiguracja zresetowana!",
   "elytratrims.item.glow": "§7Świecenie",
   "elytratrims.item.model1": "§7§oModel 3D elytry można skonfigurować",
   "elytratrims.item.model2": "§7§ow konfiguracji Elytra Trims",
@@ -40,7 +40,7 @@
   "elytratrims.config.mode.all": "Wszystkie",
   "elytratrims.config.compat.smysKeepTrims": "Show Me Your Skin - Zachowaj Wzory",
   "elytratrims.config.compat.smysKeepTrims.tooltip": "Sprawia, że wzory elytry ignorują ustawienie przezroczystości elytry z Show Me Your Skin.",
-  "elytratrims.config.noyacl": "Yet Another Konfiguracja Lib is not installed",
+  "elytratrims.config.noyacl": "Biblioteka Yet Another Config Lib nie jest zainstalowana",
   "elytratrims.config.noyacl.message": "YACL 3 jest wymagany do edycji konfiguracji w grze. Czy chcesz zainstalować YACL 3?",
   "elytratrims.legacy_rp": "Elytra Trims - tekstury starsze"
 }

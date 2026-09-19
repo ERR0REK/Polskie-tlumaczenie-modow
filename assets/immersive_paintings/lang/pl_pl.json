@@ -139,5 +139,9 @@
   "config.immersive_paintings.client.eighthResolutionThreshold": "Próg ósmego rozdzielczości",
   "config.immersive_paintings.client.eighthResolutionThreshold.desc": "Próg rozdzielczości ósmego rozmiaru obrazu",
   "config.immersive_paintings.client.thumbResolutionThreshold": "Próg rozdzielczości miniatur",
-  "config.immersive_paintings.client.thumbResolutionThreshold.desc": "Próg rozdzielczości miniatur"
+  "config.immersive_paintings.client.thumbResolutionThreshold.desc": "Próg rozdzielczości miniatur",
+  "config.immersive_paintings.client.loadPaintings": "Wczytywanie obrazów",
+  "config.immersive_paintings.client.loadPaintings.desc": "Pobiera i renderuje obrazy",
+  "config.immersive_paintings.client.cacheOtherPlayersPaintings": "Cache obrazów innych graczy",
+  "config.immersive_paintings.client.cacheOtherPlayersPaintings.desc": "Zapisuje pobrane obrazy innych graczy na dysku"
 }
