@@ -1,0 +1,11 @@
+{
+  "fusion.resource_packs.requires_newer_version": "(Stworzony dla nowszej wersji Fusion)",
+  "fusion.resource_packs.warning_screen.title": "Ostrzeżenie o wersji Fusion",
+  "fusion.resource_packs.warning_screen.message": "Ten pakiet zasobów jest stworzony dla nowszej wersji Fusion i może nie działać prawidłowo z aktualnie zainstalowaną wersją Fusion.",
+  "fusion.resource_packs.warning_screen.confirmation": "Czy chcesz mimo to włączyć pakiet zasobów?",
+  "fusion.resource_packs.warning_screen.current_version": "Zainstalowana wersja:",
+  "fusion.resource_packs.warning_screen.required_version": "Wymagana wersja:",
+  "fusion.resource_packs.warning_screen.continue": "Kontynuuj",
+  "fusion.resource_packs.warning_screen.cancel": "Anuluj",
+  "fusion.resource_packs.warning_screen.confirm": "Tak"
+}

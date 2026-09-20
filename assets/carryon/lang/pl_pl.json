@@ -1,0 +1,14 @@
+{
+  "carryon.category.blacklist": "Czarna lista",
+  "carryon.category.custompickupconditions": "Niestandardowe warunki podnoszenia (Zaawansowane)",
+  "carryon.category.custompickupconditions.custompickupconditionsblocks": "Niestandardowe warunki podnoszenia bloków",
+  "carryon.category.custompickupconditions.custompickupconditionsentities": "Niestandardowe warunki podnoszenia bytów",
+  "carryon.category.modeloverrides": "Nadpisywanie modeli (Zaawansowane)",
+  "carryon.category.settings": "Ustawienia",
+  "carryon.category.whitelist": "Biała lista",
+  "carryon.general.blacklist.forbiddenentities": "Byty, których gracz nie może podnieść",
+  "carryon.general.blacklist.forbiddentiles": "Bloki, których gracz nie może podnieść",
+  "carryon.general.modeloverrides.modeloverrides": "Nadpisywanie modeli",
+  "key.carry.category": "Carry On",
+  "key.carry.desc": "Podnieś"
+}

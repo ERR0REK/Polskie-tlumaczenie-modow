@@ -1,0 +1,20 @@
+{
+  "mezz_config.config.name": "Nazwa: %s",
+  "mezz_config.config.description": "Opis: %s",
+  "mezz_config.config.valueValues": "Prawidłowe wartości: %s",
+  "mezz_config.config.defaultValue": "Wartość domyślna: %s",
+  "mezz_config.config.requiresWorldRestart": "Wymaga ponownego uruchomienia świata, aby zadziałać.",
+  "mezz_config.config.requiresGameRestart": "Wymaga ponownego uruchomienia gry, aby zadziałać.",
+  "mezz_config.config.fileWatcher": "Obserwowanie plików",
+  "mezz_config.config.fileWatcher.description": "Steruje automatycznym obserwowaniem plików konfiguracji i momentem przeładowania.",
+  "mezz_config.config.fileWatcher.enabled": "Automatyczne obserwowanie plików",
+  "mezz_config.config.fileWatcher.enabled.description": "Automatycznie obserwuje pliki konfiguracji i przeładowuje je po zmianie poza grą.",
+  "mezz_config.config.fileWatcher.changeSettlingDelayMilliseconds": "Opóźnienie stabilizacji zmian",
+  "mezz_config.config.fileWatcher.changeSettlingDelayMilliseconds.description": "Liczba milisekund oczekiwania po ostatnim zdarzeniu systemu plików przed przeładowaniem zmienionych plików konfiguracji.",
+  "mezz_config.config.fileWatcher.missingDirectoryRetryIntervalMilliseconds": "Interwał ponawiania brakującego katalogu",
+  "mezz_config.config.fileWatcher.missingDirectoryRetryIntervalMilliseconds.description": "Liczba milisekund między próbami rozpoczęcia obserwowania katalogów konfiguracji, które jeszcze nie istnieją.",
+  "mezz_config.config.logging": "Logowanie",
+  "mezz_config.config.logging.description": "Steruje opcjonalnym logowaniem diagnostycznym MezzConfig.",
+  "mezz_config.config.logging.logUntranslatedKeys": "Loguj nieprzetłumaczone klucze",
+  "mezz_config.config.logging.logUntranslatedKeys.description": "Loguje klucze lokalizacji kategorii i wartości, których brakuje w aktywnym języku. Domyślnie włączone w środowiskach deweloperskich."
+}

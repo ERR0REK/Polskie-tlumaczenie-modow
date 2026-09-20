@@ -1,0 +1,16 @@
+{
+  "enchantment.northstar_curios_compat.space_walk": "Kosmiczny chód",
+  "enchantment.northstar_curios_compat.space_walk.desc": "Przywraca ziemską grawitację na obcych światach podczas noszenia. Poziom I przywraca również obrażenia od upadku; Poziom II zachowuje zmniejszone obrażenia od upadku na obcych.",
+  "northstar_curios_compat.config.space_walk.allowedSlots": "Kosmiczny chód: Sloty do zaklinania",
+  "northstar_curios_compat.config.space_walk.allowedSlots.tooltip": "Sloty wyposażenia, które mogą otrzymać zaklęcie Kosmicznego chodu. Wymaga przeładowania świata. Prawidłowe wartości: stopy, nogi, klatka, głowa",
+  "northstar_curios_compat.config.space_walk.discoverable": "Kosmiczny chód: Dostępny w stole do zaklinania",
+  "northstar_curios_compat.config.space_walk.discoverable.tooltip": "Określa, czy zaklęcie Kosmicznego chodu może pojawić się w stole do zaklinania.",
+  "northstar_curios_compat.config.space_walk.enabled": "Kosmiczny chód: Włączony",
+  "northstar_curios_compat.config.space_walk.enabled.tooltip": "Określa, czy zaklęcie Kosmicznego chodu jest włączone.",
+  "northstar_curios_compat.config.space_walk.weight": "Kosmiczny chód: Waga",
+  "northstar_curios_compat.config.space_walk.weight.tooltip": "Waga zaklęcia Kosmicznego chodu w stole do zaklinania. Wyższa waga oznacza częstsze pojawianie się.",
+  "northstar_curios_compat.config.space_walk.tradeable": "Spacer kosmiczny: dostępny w handlu z mieszkańcami",
+  "northstar_curios_compat.config.space_walk.tradeable.tooltip": "Czy zaklęcie Spacer kosmiczny można zdobyć poprzez handel z mieszkańcami. Wymaga przeładowania świata.",
+  "northstar_curios_compat.config.space_walk.durabilityPerSecond": "Spacer kosmiczny: trwałość na sekundę",
+  "northstar_curios_compat.config.space_walk.durabilityPerSecond.tooltip": "Trwałość zużywana na sekundę, gdy Spacer kosmiczny aktywnie wymusza ziemską grawitację. Ustaw na 0, aby wyłączyć zużycie trwałości."
+}

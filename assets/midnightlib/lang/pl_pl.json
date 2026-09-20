@@ -1,0 +1,23 @@
+{
+  "midnightlib.overview.title": "Przegląd MidnightConfig",
+  "midnightlib.midnightconfig.title": "Konfiguracja MidnightLib",
+  "midnightlib.midnightconfig.config_screen_list": "Włącz listę ekranów konfiguracji",
+  "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§aTak",
+  "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cNie",
+  "midnightlib.midnightconfig.enum.ConfigButton.AUTO": "§eAuto",
+  "midnightlib.midnightconfig.config_screen_list.tooltip": "Włączenie tej opcji pokazuje listę wszystkich modów z konfiguracją MidnightLib.",
+  "midnightlib.midnightconfig.title.tooltip": "Tytuł ekranu konfiguracji.",
+  "midnightlib.midnightconfig.open_config": "Otwórz konfigurację",
+  "midnightlib.midnightconfig.open_config.tooltip": "Otwiera ekran konfiguracji tego moda.",
+  "midnightlib.midnightconfig.reset_config": "Resetuj konfigurację",
+  "midnightlib.midnightconfig.reset_config.tooltip": "Resetuje konfigurację tego moda do wartości domyślnych.",
+  "midnightlib.midnightconfig.save_config": "Zapisz konfigurację",
+  "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bModMenu",
+  "midnightlib.modrinth": "Modrinth",
+  "midnightlib.curseforge": "CurseForge",
+  "midnightlib.wiki": "Wiki",
+  "midnightconfig.colorChooser.title": "Wybierz kolor",
+  "midnightconfig.action.list_index": "Edycja listy na indeksie %s",
+  "midnightconfig.action.color_chooser": "Otwórz wybór koloru",
+  "midnightconfig.action.file_chooser": "Otwórz wybór pliku"
+}

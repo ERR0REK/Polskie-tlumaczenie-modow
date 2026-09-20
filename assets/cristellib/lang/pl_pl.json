@@ -1,0 +1,8 @@
+{
+  "cristellib.title": "CristelLib",
+  "cristellib.config": "Konfiguracja CristelLib",
+  "cristellib.nameAndSource": "%s (przez §d§nCristel Lib§r)",
+  "cristellib.autoCategoryInfo": "Ten ekran jest generowany przez %s. Możesz wyłączyć automatyczne ekrany w konfiguracji.\nTwórcy modów mogą kliknąć tutaj aby otworzyć wiki i dowiedzieć się więcej.",
+  "cristellib.placementCategoryTitle": "Umieszczanie Struktur",
+  "cristellib.toggleCategoryTitle": "Przełącz Structures"
+}

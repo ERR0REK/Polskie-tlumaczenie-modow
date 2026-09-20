@@ -1,0 +1,7 @@
+{
+  "polymorph.title": "Polymorph",
+  "polymorph.config": "Konfiguracja Polymorph",
+  "commands.polymorph.conflicts.starting": "Szukanie konfliktów przepisów...",
+  "commands.polymorph.conflicts.success": "Znaleziono %d potencjalnych konfliktów. Sprawdź logs/conflicts.log aby uzyskać więcej szczegółów.",
+  "polymorph.networking.failed": "Błąd Sieci Polymorph: %s"
+}

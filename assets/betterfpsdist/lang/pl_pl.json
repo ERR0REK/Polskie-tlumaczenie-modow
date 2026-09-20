@@ -1,0 +1,11 @@
+{
+  "betterfpsdist.title": "BetterFpsDist",
+  "betterfpsdist.config": "Konfiguracja BetterFpsDist",
+  "betterfpsdist.category": "Kategoria",
+  "betterfpsdist.distance": "Dystans",
+  "options.verticalstretch": "Rozciągnięcie pionowe",
+  "options.horizontalstretch": "Rozciągnięcie poziome",
+  "options.verticalstretch.tooltip": "Kontroluje jak daleko nad/tobą możesz widzieć sekcje chunków. 100% to pełny okrąg, im wyższe ustawienie tym więcej sekcji chunków na rogach pomija renderowanie co poprawia wydajność",
+  "options.horizontalstretch.tooltip": "Kontroluje jak daleko w lewych/prawych rogach możesz widzieć sekcje chunków. 0% to pełny okrąg (vanilla), im wyższe ustawienie tym więcej sekcji chunków na rogach pomija renderowanie co poprawia wydajność",
+  "options.button.sodium": "Sodium Video Ustawienia"
+}

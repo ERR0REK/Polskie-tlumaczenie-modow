@@ -1,0 +1,15 @@
+{
+  "container.enchant.experience.many": "%s Punktów Doświadczenia",
+  "container.enchant.experience.one": "1 Punkt Doświadczenia",
+  "container.enchant.reroll": "Przelosuj zaklęcia",
+  "container.enchant.reroll.many": "%s Odłamków Ametystu",
+  "container.enchant.reroll.one": "1 Odłamek Ametystu",
+  "container.enchant.free_reroll": "Darmowe przelosowanie",
+  "enchantment.easymagic.rebirth": "Odrodzenie",
+  "enchantment.easymagic.rebirth.desc": "Daje szansę na odrodzenie się po śmierci z pełnym zdrowiem.",
+  "enchantment.easymagic.rebirth.max_level": "Maksymalny poziom",
+  "container.invalidBlock": "Nie można otworzyć. Zniszcz i postaw ponownie, aby użyć.",
+  "tag.block.easymagic.unaltered_enchanting_tables": "Niemodyfikowane stoły zaklęć",
+  "tag.item.easymagic.enchanting_catalysts": "Katalizatory zaklęć",
+  "tag.item.easymagic.reroll_catalysts": "Katalizatory przerzutu"
+}

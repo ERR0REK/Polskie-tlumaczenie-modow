@@ -1,0 +1,17 @@
+{
+  "key.categories.mekanismcurios": "Mekanism Curios",
+  "key.mekanismcurios.protableqio": "Otwórz przenośne QIO",
+  "key.mekanismcurios.portableteleporter": "Otwórz przenośny teleporter",
+  "key.mekanismcurios.quickteleport": "Szybki teleport",
+  "key.mekanismcurios.quickteleport.notconnected": "Przenośny teleporter nie jest połączony.",
+  "key.mekanismcurios.quickteleport.connected": "Przenośny teleporter połączony.",
+  "key.mekanismcurios.quickteleport.nocharges": "Brak ładunku w przenośnym tele transporterze.",
+  "key.mekanismcurios.quickteleport.failed": "Nie udało się teleportować.",
+  "key.mekanismcurios.quickteleport.success": "Teleportacja udana.",
+  "key.mekanismcurios.quickteleport.cost": "Koszt teleportacji: %s FE",
+  "key.mekanismcurios.quickteleport.empty": "Nie masz żadnego przenośnego teleportera w swoich curios.",
+  "key.mekanismcurios.quickteleport.noenergy": "Twój przenośny teleporter nie ma energii.",
+  "key.mekanismcurios.quickteleport.notfound": "Nie znaleziono teleportera na tej częstotliwości.",
+  "curios.identifier.qio": "QIO",
+  "curios.identifier.teleporter": "Teleporter"
+}

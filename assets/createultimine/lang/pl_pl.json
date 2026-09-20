@@ -1,0 +1,8 @@
+{
+  "createultimine.title": "Create Ultimine",
+  "createultimine.config": "Konfiguracja Create Ultimine",
+  "sidebar_button.createultimine.config": "Create Ultimine Konfiguracja",
+  "createultimine.server_settings": "Create Ultimine Serwer Konfiguracja",
+  "createultimine.server_settings.features.manual_application": "Ręczne zastosowanie: kliknij prawym, aby zastosować przedmioty na wielu blokach",
+  "createultimine.server_settings.features.right_click_wrench": "Klucz: kliknij prawym, aby dostroić wiele bloków"
+}

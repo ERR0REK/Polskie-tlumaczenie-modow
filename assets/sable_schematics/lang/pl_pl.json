@@ -1,0 +1,13 @@
+{
+  "item.sable_schematics.sable_schematic": "Schemat Sable",
+  "screen.sable_schematics.capture": "Zapisz schemat Sable",
+  "screen.sable_schematics.save_structures": "Zapisz struktury",
+  "screen.sable_schematics.save_ships": "Zapisz statki Sable",
+  "screen.sable_schematics.save": "Zapisz jako schemat Sable",
+  "screen.sable_schematics.invalid": "Włącz Struktury, Statki lub oba",
+  "message.sable_schematics.saved": "Zapisano schemat Sable: %s",
+  "message.sable_schematics.failed": "Nie udało się zapisać schematu Sable: %s",
+  "message.sable_schematics.restore_mode": "Tryb po wydruku: %s",
+  "tooltip.sable_schematics.restore_mode": "Po wydruku: %s",
+  "tooltip.sable_schematics.restore_cycle": "Skradanie + użycie z drugiej ręki, aby przełączać"
+}
