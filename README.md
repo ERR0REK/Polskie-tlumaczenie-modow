@@ -1,8 +1,8 @@
 # Polskie tłumaczenia modów do Minecrafta 1.21.1
 
-Jeden resource pack, który tłumaczy **ponad 260 modów** na język polski — od Create i Mekanismu, przez Biomes O' Plenty, po interfejsy JEI, Jade czy FTB. Wrzucasz go do paczki, włączasz i po sprawie: maszyny, tooltipy, configi, osiągnięcia i przewodniki mówią po polsku.
+Jeden resource pack, który tłumaczy **ponad 260 modów** na język polski od Create i Mekanismu, przez Biomes O' Plenty, po interfejsy JEI, Jade czy FTB. Wrzucasz go do paczki, włączasz i po sprawie: maszyny, tooltipy, configi, osiągnięcia i przewodniki mówią po polsku.
 
-Paczka powstała z myślą o polskiej społeczności Minecrafta. Możesz jej używać w swoich modpackach — prywatnych i publicznych — bez pytania o zgodę.
+Paczka powstała z myślą o polskiej społeczności Minecrafta. Możesz jej używać w swoich modpackach prywatnych i publicznych bez pytania o zgodę.
 
 ## Instalacja
 
@@ -10,7 +10,7 @@ Paczka powstała z myślą o polskiej społeczności Minecrafta. Możesz jej uż
 2. Wrzuć plik do folderu `resourcepacks` w katalogu gry (dostaniesz go z menu: *Opcje → Pakiety zasobów → Otwórz folder paczek*).
 3. Włącz paczkę w menu pakietów zasobów i graj.
 
-Działa na **każdym loaderze** — Forge, NeoForge, Fabric i Quilt — bo to zwykły resource pack bez żadnych modyfikacji kodu.
+Działa na **każdym loaderze** — Forge, NeoForge, Fabric i Quilt bo to zwykły resource pack bez żadnych modyfikacji kodu.
 
 ## Co jest w środku?
 
@@ -48,30 +48,42 @@ anvilcore, balm, baguettelib, bookshelf, caelus, cbc_at, cbc_enhanced_shells, cb
 **Vanilla**
 minecraft (poprawki i spójność nazw z resztą paczki)
 
-> Kilka folderów (np. `examplemod`) to śmieciowe lub puste źródła — zostawione, bo resource pack po prostu je ignoruje.
+> Kilka folderów (np. `examplemod`) to śmieciowe lub puste źródła zostawione, bo resource pack po prostu je ignoruje.
 
 ## FAQ
 
-**Część tekstów wciąż jest po angielsku — dlaczego?**
-Najpewniej mod zaktualizował się do nowszej wersji i dodał nowe stringi. Zgłoś to w [Issues](../../issues) — poprawki wchodzą szybko.
+**Część tekstów wciąż jest po angielsku, dlaczego?**
+Najpewniej mod zaktualizował się do nowszej wersji i dodał nowe stringi. Zgłoś to w [Issues](../../issues).
 
 **Czy paczka koliduje z innym resource packiem?**
 Nie, o ile inny pack nie tłumaczy tych samych modów. Ten pack powinien być **wyżej** w kolejności niż packi ogólne, ale **niżej** niż packi zmieniające tekstury bloków.
 
 **Czy to bezpieczne? Czy może coś zepsuć w świecie?**
-Nie. Paczka zawiera wyłącznie pliki językowe `.json` — zero zmian w mechanice, teksturach czy przepisach. Możesz ją włączać i wyłączać w dowolnym momencie.
+Nie. Paczka zawiera wyłącznie pliki językowe `.json` zero zmian w mechanice, teksturach czy przepisach. Możesz ją włączać i wyłączać w dowolnym momencie.
 
 **Dlaczego część modyfikacji nie ma tłumaczenia, choć folder istnieje?**
-Kilka modów nie dostarcza w ogóle plików językowych (ich teksty są zaszyte w kodzie albo w JAR-ach) — wtedy nie ma czego tłumaczyć.
+Kilka modów nie dostarcza w ogóle plików językowych (ich teksty są zaszyte w kodzie albo w JAR-ach)wtedy nie ma czego tłumaczyć.
 
 ## Znalazłeś literówkę albo brakujące tłumaczenie?
 
-Daj znać w [Issues](../../issues) — po polsku albo po angielsku, byle było wiadomo, o który mod i tekst chodzi. Każde zgłoszenie trafia do backlogu i poprawki lądują w kolejnej wersji paczki.
+Daj znać w [Issues](../../issues) po polsku, byle było wiadomo, o który mod i tekst chodzi. Każde zgłoszenie trafia do backlogu i poprawki lądują w kolejnej wersji paczki.
+
+## Licencja
+
+Paczka (polskie tłumaczenia) jest udostępniona na licencji **Creative Commons Attribution-ShareAlike 4.0** — [CC BY-SA 4.0](LICENSE). W skrócie:
+
+- **Używasz w modpackach, na serwerach, gdzie chcesz** — prywatnie i publicznie, bez pytania o zgodę.
+- **Podaj autorstwo** — przy dalszym udostępnianiu wskaż tę paczkę i link do repo.
+- **Share-alike** — jeśli zrobisz własną wersję na bazie tych tłumaczeń, też musi być na CC BY-SA 4.0, z informacją o zmianach.
+
+Pełny tekst licencji jest w pliku [LICENSE](LICENSE).
+
+Mod i ich oryginalne angielskie teksty należą do ich twórców — ta paczka zawiera wyłącznie polskie pliki językowe `.json`.
 
 ## Podziękowania
 
-Cała robota przy modach należy do ich twórców — ta paczka to tylko polskie napisy do ich pracy. Dzięki też każdemu, kto zgłasza błędy i proponuje lepsze nazwy: paczka robi się od tego coraz bardziej „ludzka".
+Cała robota przy modach należy do twórców — ta paczka to tylko polskie napisy do ich pracy. Dzięki też każdemu, kto zgłasza błędy i proponuje lepsze nazwy paczka robi się od tego coraz bardziej „ludzka".
 
 ---
 
-*Paczka jest darmowa i udostępniona dla społeczności. Nazwy modów i ich zawartość należą do ich autorów.*
+*Paczka jest darmowa i udostępniona dla społeczności na licencji [CC BY-SA 4.0](LICENSE). Nazwy modów i ich zawartość należą do ich twórców.*

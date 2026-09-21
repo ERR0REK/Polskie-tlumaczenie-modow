@@ -32,4 +32,4 @@ Literówka, niezgrabne tłumaczenie albo świeży klucz po aktualizacji moda? [O
 
 ---
 
-*Tłumaczenia powstały przy wsparciu narzędzi AI i zostały ręcznie zweryfikowane podczas wielu przebiegów jakościowych (terminologia, gramatyka, placeholdery). Paczka zawiera wyłącznie pliki językowe — cała zawartość modów należy do ich autorów.*
+*Każdy klucz z `en_us.json` każdego moda został przetłumaczony i zweryfikowany podczas wielu przebiegów jakościowych (terminologia, gramatyka, placeholdery). Paczka zawiera wyłącznie pliki językowe — cała zawartość modów należy do ich autorów.*

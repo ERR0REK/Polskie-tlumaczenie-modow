@@ -3,7 +3,7 @@
 Wszystkie istotne zmiany w tej paczce są dokumentowane w tym pliku.
 Format oparty na [Keep a Changelog](https://keepachangelog.com/pl/1.1.0/), wersjonowanie zgodne z [SemVer](https://semver.org/lang/pl/).
 
-## [1.0.0] - 2026-09-20
+## [1.0.0] - Niewydane
 
 Pierwsze publiczne wydanie paczki dla społeczności.
 
@@ -15,6 +15,7 @@ Pierwsze publiczne wydanie paczki dla społeczności.
 - Tłumaczenia zgodne z oficjalną polską terminologią Minecrafta tam, gdzie istnieje (*Netheryt*, *Fortuna*, *Zaklęcie ostateczne*...).
 - Klimat Create: addony Create tłumaczone w konwencji znanej z polskiej społeczności Create, żeby poradniki i filmy dalej miały sens.
 - Przetłumaczone ekrany konfiguracji (Mekanism, Supplementaries, JEI i inne), nie tylko nazwy bloków i przedmiotów.
+- **Licencja CC BY-SA 4.0** — paczka jest udostępniona na licencji Creative Commons Attribution-ShareAlike 4.0: pełny tekst w pliku `LICENSE`, sekcja licencji w README oraz w opisie Modrinth.
 
 ### Naprawione
 

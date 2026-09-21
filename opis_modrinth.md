@@ -65,8 +65,12 @@ Missing key, awkward phrasing or a typo? Open an issue on GitHub - feedback in b
 
 ## 📄 About these translations
 
-The translations in this pack were prepared with the help of AI language tools and then reviewed, corrected and unified manually across multiple quality passes (terminology, grammar and placeholder checks). The pack itself is maintained by hand.
+Every localization key shipped by each mod's `en_us.json` was translated and then reviewed, corrected and unified manually across multiple quality passes (terminology, grammar and placeholder checks). The pack itself is maintained by hand.
+
+## 📃 License
+
+The Polish translations in this pack are licensed under the **Creative Commons Attribution-ShareAlike 4.0** license ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). In short: use the pack in any private or public modpack, keep the attribution (link back to this project), and share any adapted version of these translations under the same license.
 
 ## 📃 Notes
 
-This pack contains only localization files (`.json` language strings). All game content, names and trademarks belong to their respective mod authors. Translations are provided as-is for personal and public modpack use.
+This pack contains only localization files (`.json` language strings). All game content, names and trademarks belong to their respective mod authors.
