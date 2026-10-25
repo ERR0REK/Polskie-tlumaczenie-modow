@@ -24,6 +24,9 @@
   "item.allthemodium.unobtainium_mace": "Buława Unobtainium",
   "item.allthemodium.allthemodium_mace": "Buława Allthemodium",
   "item.allthemodium.vibranium_mace": "Buława Vibranium",
+  "item.allthemodium.unobtainium_brush": "Pędzel Unobtainium",
+  "item.allthemodium.allthemodium_brush": "Pędzel Allthemodium",
+  "item.allthemodium.vibranium_brush": "Pędzel Vibranium",
   "item.allthemodium.allthemodium_upgrade_smithing_template": "Szablon Kucia Allthemodium",
   "item.allthemodium.vibranium_upgrade_smithing_template": "Szablon Kucia Vibranium",
   "item.allthemodium.unobtainium_upgrade_smithing_template": "Szablon Kucia Unobtainium",
@@ -72,7 +75,9 @@
   "material.silentgear.unobtainium": "Unobtainium",
   "tetra.material.unobtainium": "Unobtainium",
   "block.allthemodium.suspicious_clay": "Podejrzana Glina",
+  "block.allthemodium.lootr_suspicious_clay": "Podejrzana Glina",
   "block.allthemodium.suspicious_soul_sand": "Podejrzany Piasek Dusz",
+  "block.allthemodium.lootr_suspicious_soul_sand": "Podejrzany Piasek Dusz",
   "block.allthemodium.ancient_bookshelf": "Starożytna Biblioteczka",
   "block.allthemodium.ancient_leaves": "Starożytne Liście",
   "block.allthemodium.ancient_leaves_bottom": "Starożytne Liście",
@@ -294,7 +299,6 @@
   "block.iceandfire.allthemodium_pile": "Stos Bryłek Allthemodium",
   "block.iceandfire.unobtainium_pile": "Stos Bryłek Unobtainium",
   "block.iceandfire.vibranium_pile": "Stos Bryłek Vibranium",
-  "block.allthemodium.allthemodium_source_jar": "Słoik Źródłowy Unobtainium",
   "config.jade.plugin_allthemodium.teleport_pad": "Platforma Teleportacyjna",
   "jade.allthemodium.teleport_pad.tip": "Kucnij i kliknij PPM pustymi rękami",
   "jade.allthemodium.teleport_pad.no_drop": "Nie wypada po wykopaniu!",
@@ -304,5 +308,6 @@
   "dimension.allthemodium.the_other": "Tamten Świat",
   "dimension.allthemodium.the_beyond": "Nalświat",
   "tooltip.allthemodium.teleport_pad": "Kucnij + kliknij PPM pustymi rękami, aby się teleportować",
-  "entity.allthemodium.alloy_trident": "Trójząb ze Stopu Allthemodium"
+  "entity.allthemodium.alloy_trident": "Trójząb ze Stopu Allthemodium",
+  "block.allthemodium.allthemodium_source_jar": "Słoik Źródłowy Unobtainium"
 }

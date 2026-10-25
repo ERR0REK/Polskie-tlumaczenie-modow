@@ -1,5 +1,7 @@
 {
   "key.categories.aeronautics_curios_compat": "Aeronautics Curios Compat",
   "key.aeronautics_curios_compat.remote_use": "Użyj Zdalnej Maszyny Do Pisania",
-  "curios.identifier.linked_typewriter": "Połączona Maszyna Do Pisania"
+  "curios.identifier.linked_typewriter": "Połączona Maszyna Do Pisania",
+  "fml.menu.mods.info.description.aeronautics_curios_compat": "Dodaje slot Curios i obsługę renderowania dla gogli lotniczych z Create Aeronautics oraz zdalne używanie połączonej maszyny do pisania przez slot Curios.",
+  "tag.item.curios.linked_typewriter": "Połączone maszyny do pisania"
 }

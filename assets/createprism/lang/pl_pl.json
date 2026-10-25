@@ -1,6 +1,5 @@
 {
   "itemGroup.createprism.main": "Create: Prismatic Shine",
-
   "block.createprism.andesite_clear_glass_casing": "Andezytowa obudowa z przezroczystego szkła",
   "block.createprism.andesite_clear_glass_encased_cogwheel": "Andezytowe koło zębate w przezroczystym szkle",
   "block.createprism.andesite_clear_glass_encased_large_cogwheel": "Andezytowe duże koło zębate w przezroczystym szkle",
@@ -45,5 +44,11 @@
   "block.createprism.train_illumination_casing": "Obudowa pociągowa podświetlana",
   "block.createprism.train_illumination_encased_cogwheel": "Pociągowe podświetlane koło zębate",
   "block.createprism.train_illumination_encased_large_cogwheel": "Pociągowe podświetlane duże koło zębate",
-  "block.createprism.train_illumination_encased_shaft": "Pociągowy podświetlany wał"
+  "block.createprism.train_illumination_encased_shaft": "Pociągowy podświetlany wał",
+  "block.createprism.steel_glass_casing": "Stalowa osłona szklana",
+  "block.createprism.steel_clear_glass_casing": "Stalowa osłona z czystego szkła",
+  "block.createprism.steel_tinted_glass_casing": "Stalowa osłona z przyciemnianego szkła",
+  "block.createprism.copper_glass_encased_fluid_pipe": "Miedziana rura płynami w szklanej obudowie",
+  "block.createprism.copper_clear_glass_encased_fluid_pipe": "Miedziana rura płynami w obudowie z czystego szkła",
+  "block.createprism.copper_illumination_encased_fluid_pipe": "Miedziana rura płynami w podświetlanej obudowie"
 }

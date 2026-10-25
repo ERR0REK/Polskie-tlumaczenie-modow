@@ -1,0 +1,6 @@
+{
+  "item.shaolib.cache_probe": "Sonda pamięci podręcznej Shaolib",
+  "item.shaolib.cache_raycast_probe": "Promieniowa sonda pamięci podręcznej Shaolib",
+  "item.shaolib.test_gun": "Karabin testowy Shaolib",
+  "shaolib.configuration.blockDamage.restrictToPhysicsBodies": "Ogranicz niszczenie bloków do ciał fizycznych"
+}
