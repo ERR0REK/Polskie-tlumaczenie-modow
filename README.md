@@ -78,11 +78,11 @@ Paczka (polskie tłumaczenia) jest udostępniona na licencji **Creative Commons 
 
 Pełny tekst licencji jest w pliku [LICENSE](LICENSE).
 
-Mod i ich oryginalne angielskie teksty należą do ich twórców — ta paczka zawiera wyłącznie polskie pliki językowe `.json`.
+Mod i ich oryginalne angielskie teksty należą do ich twórców ta paczka zawiera wyłącznie polskie pliki językowe `.json`.
 
 ## Podziękowania
 
-Cała robota przy modach należy do twórców — ta paczka to tylko polskie napisy do ich pracy. Dzięki też każdemu, kto zgłasza błędy i proponuje lepsze nazwy paczka robi się od tego coraz bardziej „ludzka".
+Cała robota przy modach należy do twórców ta paczka to tylko polskie napisy do ich pracy. Dzięki też każdemu, kto zgłasza błędy i proponuje lepsze nazwy paczka robi się od tego coraz bardziej „ludzka".
 
 ---
 
